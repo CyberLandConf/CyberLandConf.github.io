@@ -9,7 +9,7 @@ Aktuell werden auf der `index.html` die Infos zum Cyberland im März 2020 darges
 ## Styling der Webseite
 
 Als Basis CSS für die Seite wird Bulma.io genutzt. Zusätzlich wirde FontAwesome hinzugefügt.
-Spezifische CSS Regeln müssen in `_sass_/main.scss` hinzugefügt werden. Variablen von Bulma.io können in `_sass_/variables.scss` überschrieben werden. Der globale Eintrittspunkt ist die Datei `assets/css/styles.scss`. Diese soltle allerdings nicht angepasst werden.
+Spezifische CSS Regeln müssen in `_sass_/main.scss` hinzugefügt werden. Variablen von Bulma.io können in `_sass_/variables.scss` überschrieben werden. Der globale Eintrittspunkt ist die Datei `assets/css/styles.scss`. Diese sollte allerdings nicht angepasst werden.
 
 ## Events / Vorträge hinzufügen oder anpassen
 
