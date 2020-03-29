@@ -5,7 +5,7 @@
         {% if speaker %}
             <img class="session-image" src="/assets/speaker/{{ speaker.id }}.png" />
             <div class="session-title">{{ session.title }}</div>
-            <div class="session-speaker">{{ speaker.firstName }} {{ speaker.lastName }}</div>
+            <div class="session-speaker">{%- include elements/speaker.html speaker=speaker -%}</div>
         {% else %}
             <img class="session-image" src="/assets/speaker/fallback.png" />
             <div class="session-title">{{ session.title }}</div>

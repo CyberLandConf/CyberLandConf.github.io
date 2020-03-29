@@ -2,7 +2,7 @@
 {%- if session -%}
     {%- assign speaker = site.data.speakers | where: "id", session.speaker-id | first -%}
     {%- if speaker -%}
-        <a href="{{ session.url }}" class="timetable-entry"><span class="timetable-entry-session">{{ session.title }}</span><br/><span class="timetable-entry-speaker">{{ speaker.firstName }} {{ speaker.lastName }}</span></a>
+        <a href="{{ session.url }}" class="timetable-entry"><span class="timetable-entry-session">{{ session.title }}</span><br/><span class="timetable-entry-speaker">{%- include elements/speaker.html speaker=speaker -%}</span></a>
     {%- else -%}
     <a href="{{ session.url }}" class="timetable-entry"><span class="timetable-entry-session">{{ session.title }}</span><br/><span class="timetable-entry-speaker"></span></a>
     {%- endif -%}
