@@ -11,8 +11,8 @@ layout: default
             ERROR - speaker data not found!
         {% endif %}
       <p>{{ page.abstract }}</p>
-      {% if page.slidesLink %}
-        <p>Die Folien des Vortrags können <a href="{{ page.slidesLink }}" target="_blank">hier</a> heruntergeladen werden.</p>
+      {% if page.slidesLink or page.slides %}
+        <p>Die Folien des Vortrags können <a href="{% if page.slidesLink %}{{ page.slidesLink }}{% else %}/assets/slides/{{ page.slides }}{% endif %}" target="_blank">hier</a> heruntergeladen werden.</p>
       {% endif %}
       {% if page.youtubeId %}
         {%- include elements/youtube.html id=page.youtubeId -%}
