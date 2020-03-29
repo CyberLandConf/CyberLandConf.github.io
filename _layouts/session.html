@@ -2,21 +2,22 @@
 layout: default
 ---
 <div class="section">
-  <div class="container">
-      <h1>{{ page.title }}</h1>
+  <div class="container session-details">
+      <h1 class="session-title">{{ page.title }}</h1>
       {% assign speaker = site.data.speakers | where: "id", session.speaker-id | first %}
       {% if speaker %}
-        <h3>{{ speaker.firstName }} {{ speaker.lastName }}</h3>
+        <div class="speaker-name">{{ speaker.firstName }} {{ speaker.lastName }}</div>
       {% else %}
             ERROR - speaker data not found!
         {% endif %}
-      <div>{{ page.abstract }}</div>
-      {% if page.youtubeId %}
-        TODO: Hier dann der YouTubeLink
-      {% endif %}
+      <p>{{ page.abstract }}</p>
       {% if page.slidesLink %}
-        TODO: Hier dann der Link zu den Slides
+        <p>Die Folien des Vortrags können <a href="{{ page.slidesLink }}" target="_blank">hier</a> heruntergeladen werden.</p>
       {% endif %}
+      {% if page.youtubeId %}
+        {%- include elements/youtube.html id=page.youtubeId -%}
+      {% endif %}
+      
   </div>
 </div>
   
