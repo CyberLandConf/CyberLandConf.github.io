@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class="section">
+  <div class="container">
+      <h1>{{ page.title }}</h1>
+      {% assign speaker = site.data.speakers | where: "id", session.speaker-id | first %}
+      {% if speaker %}
+        <h3>{{ speaker.firstName }} {{ speaker.lastName }}</h3>
+      {% else %}
+            ERROR - speaker data not found!
+        {% endif %}
+      <div>{{ page.abstract }}</div>
+      {% if page.youtubeId %}
+        TODO: Hier dann der YouTubeLink
+      {% endif %}
+      {% if page.slidesLink %}
+        TODO: Hier dann der Link zu den Slides
+      {% endif %}
+  </div>
+</div>
+  

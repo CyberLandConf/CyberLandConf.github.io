@@ -1,0 +1,21 @@
+{% assign session = site.sessions | where: "session-id", include.session-id | first %}
+{% if session %}
+    <a class="session-info-tile" href="{{ session.url }}">
+        {% assign speaker = site.data.speakers | where: "id", session.speaker-id | first %}
+        {% if speaker %}
+            <img class="session-image" src="/assets/speaker/{{ speaker.id }}.png" />
+            <div class="session-title">{{ session.title }}</div>
+            <div class="session-speaker">{{ speaker.firstName }} {{ speaker.lastName }}</div>
+        {% else %}
+            <img class="session-image" src="/assets/speaker/fallback.png" />
+            <div class="session-title">{{ session.title }}</div>
+            <div class="session-speaker">-</div>
+        {% endif %}
+    </a>
+{% else %}
+    <a class="session-info-tile">
+        <img class="session-image" src="/assets/speaker/fallback.png" />
+        <div class="session-title">-</div>
+        <div class="session-speaker">-</div>
+    </a>
+{% endif %}

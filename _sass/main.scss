@@ -1,0 +1,93 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+    font-size: 1.1em;
+  }
+  
+body > .content {
+    flex: 1;
+}
+
+.navbar {
+
+ .navbar-item {
+  color: #D16ABF;
+ }
+}
+
+.speaker-grid {
+  .column {
+    padding: 1.6em;
+  }
+}
+
+.session-info-tile {
+
+  color: black; 
+
+  .session-image {
+    width: 100%;
+  }
+
+  .session-title {
+    font-size: 1.4em;
+  }
+
+  .session-speaker {
+    font-size: 1.2em;
+    color: darkgray;
+  }
+}
+
+.session-info-tile:hover {
+
+  color: #D16ABF; 
+
+  .session-speaker {
+    color: #D16ABF;
+  }
+}
+
+.table {
+
+  .timetable-entry {
+
+    color: black;
+
+    .timetable-entry-session {
+      font-weight: bold;
+    }
+
+    .timetable-entry-speaker {
+      color: darkgray;
+    }
+  }
+
+  .timetable-entry:hover {
+
+    color: #D16ABF;
+
+    .timetable-entry-speaker {
+      color: #D16ABF;
+    }
+  }
+
+}
+
+.conference-stats {
+  padding: 2em 0em;
+}
+
+.image-max-height {
+  height: 24em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  background-color: #D16ABF;
+  padding: 0em;
+}
