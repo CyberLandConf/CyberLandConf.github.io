@@ -1,6 +1,6 @@
 ---
   session-id: 'session-4'
-  title: 'Java After Eight [EN]'
+  title: 'Java After Eight'
   abstract: >
     Many projects are still on Java 8 and yet, in just a few days, Java 14 will be out! The small releases after 9 created the illusion of nothing much happening, but nothing could be further from the truth – a lot changes since then that shapes the look of everyday Java code:
 

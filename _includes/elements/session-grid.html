@@ -1,0 +1,26 @@
+{% assign spaltenAnzahl = include.spaltenAnzahl | default: 4 %}
+{% assign startSessionId = include.start %}
+{% assign endeSessionId = include.ende %}
+{% assign sessionAnzahl = include.ende | minus: include.start | plus: 1 %}
+
+
+<div class="speaker-grid">
+    <div class="columns">
+{% for no in (startSessionId..endeSessionId) %}
+  {% assign istLetzteZelle = forloop.index | modulo: spaltenAnzahl %}
+  {% assign sessionId = "session-" | append: no %}
+        
+		<div class="column">{%- include elements/session-info.html session-id=sessionId -%}</div>
+		
+  {% if istLetzteZelle == 0 %}
+    </div>
+    <div class="columns">
+  {% endif %}
+{% endfor %}
+{% assign zellenLetzteZeile = sessionAnzahl | modulo: spaltenAnzahl %}
+{% assign leereZellen = spaltenAnzahl | minus: zellenLetzteZeile %}
+{% for i in (1..leereZellen) %}
+        <div class="column"></div>
+{% endfor %}
+    </div>
+</div>
