@@ -6,14 +6,20 @@
             <img class="session-image" src="/assets/speaker/{{ speaker.id }}.png" />
             <div class="session-title">
 			  {{ session.title }}
-			  {% if session.youtubeId %}<i class="fab fa-youtube"></i>{% endif %}
-			  {% if session.slidesLink or session.slides or session.demoLink %}<i class="fab fa-slideshare"></i>{% endif %}
 			</div>
             <div class="session-speaker">{%- include elements/speaker.html speaker=speaker -%}</div>
+            <div>
+                {% if session.youtubeId %}<i class="fab fa-youtube"></i>{% endif %}
+                {% if session.slidesLink or session.slides or session.demoLink %}<i class="fab fa-slideshare"></i>{% endif %}
+            </div>
         {% else %}
             <img class="session-image" src="/assets/speaker/fallback.png" />
             <div class="session-title">{{ session.title }}</div>
             <div class="session-speaker">-</div>
+            <div>
+                {% if session.youtubeId %}<i class="fab fa-youtube"></i>{% endif %}
+                {% if session.slidesLink or session.slides or session.demoLink %}<i class="fab fa-slideshare"></i>{% endif %}
+            </div>
         {% endif %}
     </a>
 {% else %}
