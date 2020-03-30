@@ -125,3 +125,12 @@ body > .content {
   background-color: #D16ABF;
   padding: 0em;
 }
+
+.footer-text {
+  a {
+    color: white;
+  }
+  a:hover {
+	text-decoration: underline;
+  }
+}

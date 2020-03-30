@@ -1,0 +1,12 @@
+{% assign imageUrl = include.url %}
+{% assign imageExists = false %}
+{% for static_file in site.static_files %}
+    {% if static_file.path == imageUrl %}
+        {% assign imageExists = true %}
+    {% endif %}
+{% endfor %}
+{% if imageExists %}
+    <img class="session-image" src="{{ imageUrl }}" />
+{% else %}
+	<img class="session-image" src="/assets/speaker/fallback.png" />
+{% endif %}

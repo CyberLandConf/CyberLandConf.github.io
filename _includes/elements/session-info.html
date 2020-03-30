@@ -11,6 +11,12 @@
             <div class="session-title">{{ session.title }}</div>
             <div class="session-speaker">-</div>
         {% endif %}
+		{% if session.youtubeId %}
+            <i class="fab fa-youtube"></i>
+        {% endif %}
+		{% if session.slidesLink or session.slides or session.demoLink %}
+			<i class="fab fa-slideshare"></i>
+        {% endif %}
     </a>
 {% else %}
     <a class="session-info-tile">

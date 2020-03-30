@@ -2,6 +2,7 @@
 layout: page
 title: Cyberland 17. März 2020
 date: 2020-03-17
+permalink: /2020/
 ---
 
 {:.table}
@@ -16,8 +17,7 @@ date: 2020-03-17
 | 15:00 | {%- include elements/timetable-field.html session-id="session-12" -%} | {%- include elements/timetable-field.html session-id="session-13" -%} |
 | 16:00 | {%- include elements/timetable-field.html session-id="session-14" -%} | {%- include elements/timetable-field.html session-id="session-15" -%} |
 | 17:00 | {%- include elements/timetable-field.html session-id="session-16" -%} | {%- include elements/timetable-field.html session-id="session-17" -%} |
-| 18:00  | __Verabschiedung__ <br>Cyberland-Orga | - |
-
+| 18:00 | __Verabschiedung__ <br>Cyberland-Orga | - |
 
 <div class="speaker-grid">
     <div class="columns">

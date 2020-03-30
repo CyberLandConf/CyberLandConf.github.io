@@ -1,0 +1,50 @@
+- id: hendrik-ebbers
+  firstName: Hendrik
+  lastName: Ebbers
+  job: Karakun AG
+  jug: JUG Dortmund
+  role: Organisator
+  twitter: HendrikEbbers
+- id: tobias-frech
+  firstName: Tobias
+  lastName: Frech
+  job: Frech IT GmbH
+  jug: JUG Stuttgart
+  role: Organisator
+  twitter: TobiasFrech
+- id: markus-harrer
+  firstName: Markus
+  lastName: Harrer
+  job: INNOQ
+  jug: CyberJUG
+  role: Organisator
+  twitter: feststelltaste
+- id: gerrit-meier
+  firstName: Gerrit
+  lastName: Meier
+  job: Neo4J
+  jug: JUG Ostfalen
+  role: Organisator
+  twitter: meistermeier
+- id: falk-sippach
+  firstName: Falk
+  lastName: Sippach
+  job: OIO - die Java-Experten der Trivadis
+  jug: JUG Darmstadt
+  role: Organisator
+  twitter: sippsack
+- id: gerd-aschemann
+  firstName: Gerd
+  lastName: Aschemann
+  job: Freiberufler
+  jug: JUG Darmstadt
+  role: Moderator
+  twitter: GerdAschemann
+- id: ralf-mueller
+  firstName: Ralf
+  lastName: Müller
+  job: DB Systel
+  jug: JUG Darmstadt
+  role: Videoschnitt
+  twitter: RalfDMueller
+  

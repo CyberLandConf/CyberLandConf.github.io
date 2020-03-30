@@ -17,6 +17,7 @@
     * Wie funktioniert Silbentrennung?
     * Wie kann mich meine IDE unterstützen?
   speaker-id: 'alexander-schwartz'
+  youtubeId: JWuUyLTihac
   slidesLink: https://speakerdeck.com/ahus1/asciidoctor-deep-dive
   layout: session
 ---

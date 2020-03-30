@@ -6,6 +6,7 @@
 
     Dieser Vortrag zeigt, wie man eine solche Architekturrealität möglichst produktiv nutzt.
   speaker-id: 'eberhard-wolff'
+  youtubeId: Bpt18Gz6Ucs
   slidesLink: 'https://www.dropbox.com/s/74c0ru2y4ckxmeb/HybridArchitecturesThePostMicroservicesReality.pdf?dl=0'
   layout: session
 ---

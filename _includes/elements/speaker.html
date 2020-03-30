@@ -1,1 +1,2 @@
-{{ speaker.firstName }} {{ speaker.lastName }}{% if speaker.firstName2 %}, {{ speaker.firstName2 }} {{ speaker.lastName2 }}{% endif %}
+{%- assign speaker = include.speaker -%}
+{{ speaker.firstName }} {{ speaker.lastName }}{%- if speaker.firstName2 -%}, {{ speaker.firstName2 }} {{ speaker.lastName2 }}{%- endif -%}
