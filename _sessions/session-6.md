@@ -7,6 +7,7 @@
 
     Sven arbeitet seit mehr als 7 Jahren Jahren im Home-Office und stellt Praktiken vor, wie Code-Review-Etiquette, Teil-es-oder-es-ist-nie-passiert-Richtlinien, Videokonferenz-Regeln und vieles andere mehr. Du lernst, wie man sein Remote-Büro einrichten sollte, wie man im Unternehmen sichtbar bleibt und welche Tools gut funktionieren.
   speaker-id: 'sven-peters'
+  youtubeId: PBueZbHQO48
   slidesLink: https://www.slideshare.net/svenpeters/5-things-how-to-rock-remote-work
   layout: session
 ---
