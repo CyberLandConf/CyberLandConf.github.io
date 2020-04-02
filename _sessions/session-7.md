@@ -10,5 +10,6 @@
 
     Spoiler! By coming, you will learn new things even if you're an active user of Testcontainers ;)
   speaker-id: 'kevin-wittek'
+  youtubeId: tm2RyseejoM
   layout: session
 ---
