@@ -11,6 +11,7 @@
     
     Der Vortrag zeigt, wie sich Spock mit Mutationstesten zu einem unschlagbaren Duo kombinieren lässt.
   speaker-id: 'johannes-dienst-ralf-mueller'
+  youtubeId: VUpPAE5aM0I
   slidesLink: https://de.slideshare.net/JohannesDienst1/spock-vs-supermutanten-spezifikationstesten-trifft-mutationstesten
   layout: session
 ---

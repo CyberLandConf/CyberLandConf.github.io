@@ -21,5 +21,6 @@
 
     Wer schon immer mal ein Projekt mit der Hilfe von Javas beliebtestem OR-Mapper zum Scheitern bringen wollte, sollte sich diesen Vortrag nicht entgehen lassen!
   speaker-id: 'thorben-janssen'
+  slides: 'Todesursache Hibernate.pdf'
   layout: session
 ---
