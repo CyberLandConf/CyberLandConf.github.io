@@ -10,6 +10,7 @@
 
     Um Antworten auf diese Fragen zu finden oder die Unsinnigkeit der Fragen zu verstehen, werden wir nicht nur über Kommunikation, sondern auch über Psychologie und Selbstmanagement nachdenken.
   speaker-id: 'jens-schauder'
+  youtubeId: '1XL1Yz1UUM4'
   slidesLink: http://blog.schauderhaft.de/communication-talk/talk.html#/
   layout: session
 ---
