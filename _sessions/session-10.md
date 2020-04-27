@@ -7,6 +7,7 @@
 
     This session explains the principles of Continuous Delivery and DevOps. You’ll leave this session with enough insights into how and where to get started yourself.
   speaker-id: 'bert-jan-schrijver'
+  youtubeId: 'UH-CVD97a7E'
   slidesLink: https://www.slideshare.net/BertJanSchrijver/cyberland-2020-better-software-faster-principles-of-continuous-delivery-and-devops
   layout: session
 ---
