@@ -7,5 +7,6 @@
 
     In einer Live-Coding-Session werde ich demonstrieren, wie über eine Continuous Deployment Pipeline in Kombination mit Consumer-driven Contracts und einem Pact Broker sichergestellt werden kann, dass auf allen Stages Services deployt werden (können), deren Schnittstellen kompatibel sind und bleiben, auch wenn einzelne Schnittstellen weiterentwickelt werden.
   speaker-id: 'arne-limburg'
+  youtubeId: 'JLONX1ZVjsw'  
   layout: session
 ---
