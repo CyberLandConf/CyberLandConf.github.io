@@ -18,5 +18,6 @@
     
     * Wie wir am Ende eine komplette Migration von PostgreSQL und MongoDB nach Cockroach mit Hilfe von Integrationstests vorbereiteten
   speaker-id: 'jochen-mader'
+  youtubeId: FOBtHh8ACuY
   layout: session
 ---
