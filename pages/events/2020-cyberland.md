@@ -3,7 +3,16 @@ layout: page
 title: CyberLand 17. März 2020
 date: 2020-03-17
 permalink: /2020/
+order: 1
 ---
+
+### Die erste CyberLand fand am 17. März 2020 statt
+
+<div>
+{%- include elements/stats.html -%}
+</div>
+
+### Programm
 
 {:.table}
 | TIME  |                |                |
@@ -19,5 +28,7 @@ permalink: /2020/
 | 17:00 | {%- include elements/timetable-field.html session-id="session-16" -%} | {%- include elements/timetable-field.html session-id="session-17" -%} |
 | 18:00 | __Verabschiedung__ <br>Cyberland-Orga | - |
 
+
+### Sprecher
 
 {%- include elements/session-grid.html spaltenAnzahl=4 start=1 ende=17 -%}

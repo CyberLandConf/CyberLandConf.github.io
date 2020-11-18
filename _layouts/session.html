@@ -9,15 +9,17 @@ layout: default
         <div class="speaker-name">{%- include elements/speaker.html speaker=speaker -%}</div>
       {% else %}
             ERROR - speaker data not found!
-        {% endif %}
-      <p>{{ page.abstract | markdownify }}</p>
+      {% endif %}
+      <p>{{ page.abstract | newline_to_br | lstrip | markdownify }}</p>
       {% if page.slidesLink or page.slides %}
         <p>Die Folien des Vortrags können <a href="{% if page.slidesLink %}{{ page.slidesLink }}{% else %}/assets/slides/{{ page.slides }}{% endif %}" target="_blank">hier</a> heruntergeladen werden.</p>
       {% endif %}
       {% if page.youtubeId %}
         {%- include elements/youtube.html id=page.youtubeId -%}
       {% endif %}
-      
+      {% if speaker.bio %}
+        <div class="speaker-name">{{ speaker.bio }}</div>
+      {% endif %}
   </div>
 </div>
   

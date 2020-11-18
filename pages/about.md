@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 99
 ---
 
 Wir sind Teil der deutschsprachigen Java Community. Weil die JavaLand 2020 aufgrund der Corona-Pandemie abgesagt werden musste, haben wir die CyberLand als eine freie, virtuelle Konferenz ins Leben gerufen. Weitere Veranstaltungen sind nicht ausgeschlossen.
