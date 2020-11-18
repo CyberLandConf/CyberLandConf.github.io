@@ -28,7 +28,9 @@ Eure JUG fehlt hier und ihr möchtet die Veranstaltung unterstützen? Dann melde
 | ----- | -------------- | -------------- |
 | 18:00 | __Türen auf, Technik-Check, Tool erkunden und Leute treffen__ | |
 | 18:30 | {%- include elements/timetable-field.html session-id="session-18" -%} | {%- include elements/timetable-field.html session-id="session-19" -%} |
+| 19:30 | __Pause - Umgebung erkunden und virtuell die Beine vertreten ...__ | |
 | 20:00 | {%- include elements/timetable-field.html session-id="session-20" -%} | folgt in Kürze |
+| 21:00 | __Virtueller Stammtisch, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ...__ | |
 
 ### Anmeldung
 
