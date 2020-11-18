@@ -10,7 +10,11 @@ layout: default
       {% else %}
             ERROR - speaker data not found!
       {% endif %}
-      <p>{{ page.abstract | newline_to_br | lstrip | markdownify }}</p>
+      {% if page.abstract %}
+        <p>{{ page.abstract | newline_to_br | lstrip | markdownify }}</p>
+      {% else %}
+        <p>{{ content }}</p>
+      {% endif %}
       {% if page.slidesLink or page.slides %}
         <p>Die Folien des Vortrags können <a href="{% if page.slidesLink %}{{ page.slidesLink }}{% else %}/assets/slides/{{ page.slides }}{% endif %}" target="_blank">hier</a> heruntergeladen werden.</p>
       {% endif %}
