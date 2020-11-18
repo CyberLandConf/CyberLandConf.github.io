@@ -1,3 +1,3 @@
 {%- assign speaker = include.speaker -%}
-{{ speaker.firstName }} {{ speaker.lastName }}{%- if speaker.firstName2 -%}, {{ speaker.firstName2 }} {{ speaker.lastName2 }}{%- endif -%}{%- if speaker.twitter -%}&nbsp;<a href="{{ speaker.twitter }}"><i class="fab fa-lg fa-twitter"></i></a>{{ speaker.lastName2 }}{%- endif -%}
+{{ speaker.firstName }} {{ speaker.lastName }}{%- if speaker.firstName2 -%}, {{ speaker.firstName2 }} {{ speaker.lastName2 }}{%- endif -%}{%- if speaker.twitter -%}&nbsp;<a href="https://twitter.com/{{ speaker.twitter }}"><i class="fab fa-lg fa-twitter"></i></a>{{ speaker.lastName2 }}{%- endif -%}
 
