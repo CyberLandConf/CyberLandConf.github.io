@@ -1,8 +1,9 @@
 ---
   session-id: 'session-21'
-  title: 'Microservices - Wo sind meine Transaktionen und meine Konsistenz hin????'
+  title: 'Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag'
+  shortTitle: 'Ich packe meinen Testtoolkoffer und nehme mit ...'
   abstract: >
-    Microservices sind verteilte Systeme. Verteilte Systeme sind kompliziert. Gerade Transaktionen und Konsistenz von Daten stellen ernsthafte Herausforderungen dar. Dieser Vortrag zeigt, warum bei Microservices diese Herausforderungen vielleicht doch nicht so groß sind, was in der Praxis zu beachten ist und wieso ein guter Schnitt eines Microservices-System für Lösung dieser Probleme so wichtig ist. Gerade bei der Fachlichkeit hilft Domain-driven Design. Dabei kommen Ansätze wie das Saga-Pattern für Transaktionen oder das CAP-Theorem für Konsistenz nicht zu kurz.
-  speaker-id: 'eberhard-wolff'
+    Tests sind das Hauptkommunikationsmittel von Entwicklern über den Code. Mit Tests kommuniziert man auch noch mit dem nächsten Entwickler, nachdem man das Projekt verlassen hat. Tests sind eine lebende Spezifikation des Codes, den sie testen. Man sollte sie mindestens so sauber halten, wie den Produktionscode - wenn nicht sauberer. Doch wer hat die Aussage ‘Das kann man nicht testen’ oder ‘Den Test kann man nicht schöner schreiben’ noch nicht gehört? Oft basieren diese Aussagen darauf, dass man den Großteil des Arsenals der Testwerkzeuge, die uns Java-Entwicklern inzwischen zur Verfügung stehen, noch nicht kennt. Neben JUnit, gibt es viele weitere Testwerkzeuge, die den Entwickleralltag beim Testschreiben vereinfachen können. Dieser Vortrag gibt einen Überblick über nicht so bekannte Features von JUnit 5 und stellt nicht so bekannte Testwerkzeuge vor, mit denen das Schreiben von Tests wieder Spaß macht.
+  speaker-id: 'sandra-parsick'
   layout: session
 ---

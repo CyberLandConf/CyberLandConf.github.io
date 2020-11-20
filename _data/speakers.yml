@@ -4,6 +4,8 @@
 - id: 'eberhard-wolff'
   firstName: 'Eberhard'
   lastName: 'Wolff'
+  bio: 'Eberhard Wolff ist Fellow bei INNOQ und arbeitet seit mehr als fünfzehn Jahren als Architekt und Berater, oft an der Schnittstelle zwischen Business und Technologie. Er ist Autor zahlreicher Artikel und Bücher, u. a. zu Continuous Delivery und Microservices, und trägt regelmäßig als Sprecher auf internationalen Konferenzen vor. Sein technologischer Schwerpunkt sind moderne Architektur- und Entwicklungsansätze wie Cloud, Continuous Delivery, DevOps, Microservices und NoSQL.'
+  twitter: 'ewolff'
 - id: 'gerrit-grunwald'
   firstName: 'Gerrit'
   lastName: 'Grunwald'

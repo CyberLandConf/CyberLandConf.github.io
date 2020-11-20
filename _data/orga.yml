@@ -1,3 +1,10 @@
+- id: susanne-braun
+  firstName: Susanne
+  lastName: Braun
+  job: Fraunhofer IESE
+  jug: JUG Kaiserslautern
+  role: Organisator
+  twitter: susannebraun
 - id: hendrik-ebbers
   firstName: Hendrik
   lastName: Ebbers
@@ -26,6 +33,13 @@
   jug: JUG Ostfalen
   role: Organisator
   twitter: meistermeier
+- id: sandra-parsick
+  firstName: Sandra
+  lastName: Parsick
+  job: Freiberufler
+  jug: JUG Dortmund
+  role: Organisator
+  twitter: SandraParsick
 - id: falk-sippach
   firstName: Falk
   lastName: Sippach
@@ -47,4 +61,4 @@
   jug: JUG Darmstadt
   role: Videoschnitt
   twitter: RalfDMueller
-  
+   
