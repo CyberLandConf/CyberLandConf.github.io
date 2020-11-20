@@ -28,9 +28,16 @@ Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durc
 
 {%- include elements/session-grid.html spaltenAnzahl=4 start=18 ende=21 -%}
 
-### Anmeldung
+<a id="anmeldung"/>
+{% include elements/registration.html %}
 
-Die Anmeldung startet in Kürze, die Plätze sind begrenzt. Folgt uns auf <a href="https://twitter.com/cyberlandconf"><i class="fab fa-lg fa-twitter"> Twitter</i></a>.
+### Diese Initiative wird unterstützt von: 
 
-<p></p>
-{%- include elements/jugs.md -%}
+[![ijug](/assets/logo/ijug.png){:.jug-logo}](https://www.ijug.eu/)
+[![jugs](/assets/logo/jugs.png){:.jug-logo}](https://www.jugs.org/)
+[![jugostfalen](/assets/logo/jugostfalen.png){:.jug-logo}](https://www.jug-ostfalen.de/)
+[![jugkl](/assets/logo/jugkl.png){:.jug-logo}](http://www.jug-kl.de/)
+[![jugdo](/assets/logo/jugdo.png){:.jug-logo}](https://www.meetup.com/JUG-Dortmund/)
+[![jugda](/assets/logo/jugda.png){:.jug-logo}](https://www.jug-da.de/)
+
+Eure JUG fehlt hier und ihr möchtet die Veranstaltung unterstützen? Dann meldet Euch ...
