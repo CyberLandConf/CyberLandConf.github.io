@@ -28,10 +28,8 @@ Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durc
 
 {%- include elements/session-grid.html spaltenAnzahl=4 start=18 ende=21 -%}
 
-### Anmeldung
-
-Die Anmeldung startet in Kürze, die Plätze sind begrenzt. Folgt uns auf <a href="https://twitter.com/cyberlandconf"><i class="fab fa-lg fa-twitter"> Twitter</i></a>.
-
+<a id="anmeldung"/>
+{% include elements/registration.html %}
 
 Diese Initiative wird unterstützt von: 
 
