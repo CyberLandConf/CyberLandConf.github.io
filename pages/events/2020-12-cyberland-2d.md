@@ -8,7 +8,7 @@ order: 2
 
 ### Willkommen bei der CyberLand 2D
 
-Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den **vier unten aufgeführten, spannenden Vorträgen** vor allem Zeit zum **Networking in der virtuellen Welt** finden.
+Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den **vier unten aufgeführten, spannenden Vorträgen** vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt.
 
 [<i class="fas fa-door-open"></i> Zur Anmeldung](#anmeldung){:.button}
 
@@ -20,7 +20,7 @@ Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durc
 | 18:00 | __Türen auf, Technik-Check, Tool erkunden und Leute treffen__ | |
 | 18:30 | {%- include elements/timetable-field.html session-id="session-18" -%} | {%- include elements/timetable-field.html session-id="session-19" -%} |
 | 19:30 | __Pause - Umgebung erkunden und virtuell die Beine vertreten ...__ | |
-| 20:00 | {%- include elements/timetable-field.html session-id="session-20" -%} | folgt in Kürze |
+| 20:00 | {%- include elements/timetable-field.html session-id="session-20" -%} | {%- include elements/timetable-field.html session-id="session-21" -%} |
 | 21:00 | __Virtueller Stammtisch, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ...__ | |
 
 
