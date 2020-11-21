@@ -9,22 +9,23 @@ Wir sind Teil der deutschsprachigen Java Community. Weil die JavaLand 2020 aufgr
 
 
 {% assign spaltenAnzahl = 4 %}
-{% assign organizers = site.data.orga %}
+{% assign orga = site.data.orga %}
 
-<div class="speaker-grid">
-    <div class="columns">
-{% for member in organizers %}
-  {% assign istLetzteZelle = forloop.index | modulo: 4 %}
-        <div class="column">{%- include elements/orga-info.html member=member -%}</div>
-  {% if istLetzteZelle == 0 %}
-    </div>
-    <div class="columns">
-  {% endif %}
-{% endfor %}
-{% assign zellenLetzteZeile = organizers.size | modulo: spaltenAnzahl %}
-{% assign leereZellen = spaltenAnzahl | minus: zellenLetzteZeile %}
-{% for i in (1..leereZellen) %}
-        <div class="column"></div>
-{% endfor %}
-    </div>
-</div>
+{% assign organizers = orga | where_exp:"orga", "orga.role == 'Organisator'" %}
+{% assign ehemalige = orga | where_exp:"orga", "orga.role == 'Ehemalige'" %}
+{% assign others = orga | where_exp:"orga", "orga.role != 'Organisator'" | where_exp:"orga", "orga.role != 'Ehemalige'" %}
+
+### Organisatoren
+
+{%- include elements/orga-grid.html organizers=organizers rows=4 -%}
+
+### Ehemalige
+
+{%- include elements/orga-grid.html organizers=ehemalige rows=4 -%}
+
+### Helfer
+
+{%- include elements/orga-grid.html organizers=others rows=4 -%}
+
+
+{%- include elements/jugs.md -%}

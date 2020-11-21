@@ -24,14 +24,14 @@
   lastName: Harrer
   job: INNOQ
   jug: CyberJUG
-  role: Organisator
+  role: Ehemalige
   twitter: feststelltaste
 - id: gerrit-meier
   firstName: Gerrit
   lastName: Meier
   job: Neo4J
   jug: JUG Ostfalen
-  role: Organisator
+  role: Ehemalige
   twitter: meistermeier
 - id: sandra-parsick
   firstName: Sandra
@@ -54,6 +54,12 @@
   jug: JUG Darmstadt
   role: Moderation
   twitter: GerdAschemann
+- id: matthias-gerbershagen
+  firstName: Matthias
+  lastName: Gerbershagen
+  job: Fraunhofer IESE
+  jug: JUG Kaiserslautern
+  role: Technik
 - id: ralf-mueller
   firstName: Ralf D.
   lastName: Müller
@@ -61,4 +67,5 @@
   jug: JUG Darmstadt
   role: Videoschnitt
   twitter: RalfDMueller
+
    

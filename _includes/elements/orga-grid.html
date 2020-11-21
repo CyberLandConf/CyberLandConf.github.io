@@ -1,0 +1,21 @@
+{% assign organizers = include.organizers %}
+{% assign rows = include.rows %}
+
+
+<div class="speaker-grid">
+    <div class="columns">
+{% for member in organizers %}
+  {% assign istLetzteZelle = forloop.index | modulo: rows %}
+        <div class="column">{%- include elements/orga-info.html member=member -%}</div>
+  {% if istLetzteZelle == 0 %}
+    </div>
+    <div class="columns">
+  {% endif %}
+{% endfor %}
+{% assign zellenLetzteZeile = organizers.size | modulo: rows %}
+{% assign leereZellen = rows | minus: zellenLetzteZeile %}
+{% for i in (1..leereZellen) %}
+        <div class="column"></div>
+{% endfor %}
+    </div>
+</div>
