@@ -6,9 +6,12 @@ permalink: /2020-12/
 order: 2
 ---
 
+### <i class="fas fa-lg fa-calendar"></i> 03.12.2020
+### <i class="fas fa-lg fa-globe"></i> Virtuell 
+
 ### Willkommen bei der CyberLand 2D
 
-Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den **vier unten aufgeführten, spannenden Vorträgen** vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt.
+Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den **vier unten aufgeführten, spannenden Vorträgen** vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt. Die Zugangsdaten erhaltet Ihr am Tag der Veranstaltung per E-Mail.
 
 [<i class="fas fa-door-open"></i> Zur Anmeldung](#anmeldung){:.button}
 
