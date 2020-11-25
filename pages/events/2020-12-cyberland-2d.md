@@ -32,7 +32,7 @@ Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durc
 {%- include elements/session-grid.html spaltenAnzahl=4 start=18 ende=21 -%}
 
 <a id="anmeldung"/>
-{% include elements/registration.html eventId='2020-12-03' limit=50 %}
+{% include elements/registration.html eventId='2020-12-03' limit=80 %}
 
 ### Diese Initiative wird unterstützt von: 
 
