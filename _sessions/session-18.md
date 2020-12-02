@@ -2,6 +2,7 @@
   session-id: 'session-18'
   title: 'Grüne Inseln im Brownfield-Schlamm'
   speaker-id: 'georg-berky'
+  moderator-id: 'falk-sippach'
   layout: session
 ---
 

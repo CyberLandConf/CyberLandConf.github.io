@@ -1,11 +1,22 @@
 {%- assign session = site.sessions | where: "session-id", include.session-id | first -%}
+
 {%- if session -%}
+	{%- assign moderatorId = session.moderator-id | default: "not-found" -%}
+	{%- assign moderator = site.data.orga | where: "id", moderatorId | first -%}
+
     {%- assign speaker = site.data.speakers | where: "id", session.speaker-id | first -%}
     {%- if speaker -%}
         <a href="{{ session.url }}" class="timetable-entry"><i class="fas fa-microphone"></i> <span class="timetable-entry-session">{%- if session.shortTitle -%}{{ session.shortTitle }}{%- else -%}{{ session.title }}{%- endif -%}</span><br/><span class="timetable-entry-speaker">{%- include elements/speaker.html speaker=speaker -%}</span></a>
     {%- else -%}
-    <a href="{{ session.url }}" class="timetable-entry"><i class="fas fa-microphone"></i> <span class="timetable-entry-session">{{ session.title }}</span><br/><span class="timetable-entry-speaker"></span></a>
+    	<a href="{{ session.url }}" class="timetable-entry"><i class="fas fa-microphone"></i> <span class="timetable-entry-session">{{ session.title }}</span><br/><span class="timetable-entry-speaker"></span></a>
     {%- endif -%}
+    
+    {%- if moderator -%}
+        <br/>(Moderation: <span class="timetable-entry-speaker">{%- include elements/speaker.html speaker=moderator -%}</span>)
+    {%- endif -%}
+
 {%- else -%}
-<a href="{{ session.url }}" class="timetable-entry"><span class="timetable-entry-session">-</span><br/><span class="timetable-entry-speaker"></span></a>
+	<a href="{{ session.url }}" class="timetable-entry"><span class="timetable-entry-session">-</span><br/><span class="timetable-entry-speaker"></span></a>
 {%- endif -%}
+
+    

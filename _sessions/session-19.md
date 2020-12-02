@@ -2,6 +2,7 @@
   session-id: 'session-19'
   title: 'Eine Reise durch die JDKs'
   speaker-id: 'sandra-gerberding'
+  moderator-id: 'sandra-parsick'
   layout: session
 ---
 
