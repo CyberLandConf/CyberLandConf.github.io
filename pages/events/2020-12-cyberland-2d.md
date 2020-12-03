@@ -15,8 +15,6 @@ order: 2
 
 Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den **vier unten aufgeführten, spannenden Vorträgen** vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt. Die Zugangsdaten erhaltet Ihr am Tag der Veranstaltung per E-Mail.
 
-[<i class="fas fa-door-open"></i>&nbsp;Zur Anmeldung](#teilnahme){:.button}
-
 <hr />
 
 ### <i class="fas fa-lg fa-info-circle"></i> Wichtige Informationen
@@ -45,16 +43,9 @@ Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet 
 | 20:00 | {%- include elements/timetable-field.html session-id="session-20" -%} | {%- include elements/timetable-field.html session-id="session-21" -%} |
 | 21:00 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
 
-[<i class="fas fa-lg fa-door-open"></i>&nbsp;Zur Anmeldung](#teilnahme){:.button}
-
 ### <i class="fas fa-user"></i> Sprecher
 
 {%- include elements/session-grid.html spaltenAnzahl=4 start=18 ende=21 -%}
-
-<hr />
-
-### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
-{% include elements/registration.html eventId='2020-12-03' limit=90 %}
 
 <hr />
 
@@ -63,6 +54,7 @@ Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet 
 [![ijug](/assets/logo/ijug.png){:.jug-logo}](https://www.ijug.eu/)
 [![jugs](/assets/logo/jugs.png){:.jug-logo}](https://www.jugs.org/)
 [![jugostfalen](/assets/logo/jugostfalen.png){:.jug-logo}](https://www.jug-ostfalen.de/)
+<br />
 [![jugkl](/assets/logo/jugkl.png){:.jug-logo}](http://www.jug-kl.de/)
 [![jugdo](/assets/logo/jugdo.png){:.jug-logo}](https://www.meetup.com/JUG-Dortmund/)
 [![jugda](/assets/logo/jugda.png){:.jug-logo}](https://www.jug-da.de/)
