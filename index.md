@@ -10,7 +10,7 @@ title: CyberLand
 
 ![Logo CyberLand Girls Edition](/assets/logo/cyberland_girls_edition.jpg){:.logo-small}
 
-#### CyberLand Girls Edition (aka CyberWonderWomanLand) am 25. Januar 2021 (Mehr Infos in Kürze
+#### CyberLand Girls Edition (aka CyberWonderWomanLand) am 25. Januar 2021 (Mehr Infos in Kürze)
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
