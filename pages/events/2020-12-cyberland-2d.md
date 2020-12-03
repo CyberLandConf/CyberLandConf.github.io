@@ -37,13 +37,13 @@ Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet 
 ### <i class="fas fa-lg fa-book-open"></i> Programm
 
 {:.table}
-| TIME  |                |                |
+| TIME  | Raum Wintergarten (links) | Raum Schauspielhaus (rechts) |
 | ----- | -------------- | -------------- |
-| 18:00 | __Türen auf, Technik-Check, Tool erkunden und Leute treffen__ | |
+| 18:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
 | 18:30 | {%- include elements/timetable-field.html session-id="session-18" -%} | {%- include elements/timetable-field.html session-id="session-19" -%} |
-| 19:30 | __Pause - Umgebung erkunden und virtuell die Beine vertreten ...__ | |
+| 19:30 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | |
 | 20:00 | {%- include elements/timetable-field.html session-id="session-20" -%} | {%- include elements/timetable-field.html session-id="session-21" -%} |
-| 21:00 | __Virtueller Stammtisch, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ...__ | |
+| 21:00 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
 
 [<i class="fas fa-lg fa-door-open"></i>&nbsp;Zur Anmeldung](#teilnahme){:.button}
 
