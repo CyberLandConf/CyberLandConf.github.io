@@ -7,4 +7,5 @@
   speaker-id: 'sandra-parsick'
   moderator-id: 'tobias-frech'
   layout: session
+  slidesLink: https://github.com/sparsick/test-tool-talk/tree/cyberland2d
 ---

@@ -4,6 +4,7 @@
   speaker-id: 'sandra-gerberding'
   moderator-id: 'sandra-parsick'
   layout: session
+  slidesLink: https://speakerdeck.com/sandrag/cyberland-11-2020
 ---
 
 Viele von Euch, so wie ich, arbeiten im Job noch mit JDK 8. Daher möchte ich Euch mitnehmen auf die Reise durch die JDKs. Wir starten unsere Reise bei JDK 8 und wandern bis zur aktuellen Version. Außerdem wagen wir einen Blick auf die Attraktionen der zukünftigen Versionen.  

@@ -6,4 +6,5 @@
   speaker-id: 'eberhard-wolff'
   moderator-id: 'susanne-braun'
   layout: session
+  slidesLink: https://www.dropbox.com/sh/peth427uytnxnk6/AAA7Fes9EH-82tnnnP7YxGXLa/MicroservicesTransactionsConsistency.pdf?dl=0
 ---
