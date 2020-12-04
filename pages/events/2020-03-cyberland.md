@@ -2,7 +2,9 @@
 layout: page
 title: CyberLand 17. März 2020
 date: 2020-03-17
-permalink: /2020/
+permalink: /2020-03/
+redirect_from:
+  - /2020/
 order: 1
 ---
 
