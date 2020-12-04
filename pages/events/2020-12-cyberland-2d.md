@@ -11,28 +11,7 @@ order: 2
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell 
 
-### <i class="fas fa-lg fa-bullhorn"></i> Willkommen bei der CyberLand 2D
-
-Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den **vier unten aufgeführten, spannenden Vorträgen** vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt. Die Zugangsdaten erhaltet Ihr am Tag der Veranstaltung per E-Mail.
-
-<hr />
-
-### <i class="fas fa-lg fa-info-circle"></i> Wichtige Informationen
-
-Als Werkzeug verwenden wir [Gather](https://gather.town/). Wir haben Euch einige **Anleitungen als Bedienhilfe** zusammengestellt:
-
-[<i class="fas fa-info-circle"></i>&nbsp;Cheat Sheet](https://docs.google.com/document/d/e/2PACX-1vS6we_vooYMQy3B1hJmfZS6DEZ3tW0of_hx0I_4msvTKbTEPuFwapHlr8kNnViXKUQyrQMWEUyjQ4Mr/pub){:.button}
-[<i class="fas fa-info-circle"></i>&nbsp;Teilnehmer-Guide](https://docs.google.com/document/d/e/2PACX-1vQE4LHiJprjwBeNAdYSlGj7DkSJjJtmOAQb4Z8CQdPLO_OcdTbiHrcLKBCXOp1ruY-YUZiPf7AGUOX_/pub){:.button}
-[<i class="fas fa-info-circle"></i>&nbsp;Speaker-Guide](https://docs.google.com/document/d/e/2PACX-1vT6Fl2aVJ-qyQi0tR4SRl3eKw2cMF_WcLqptEowURWzV_mXeVLjQ3338QzKMI3U1rxFf7Q-7RKXDksh/pub){:.button}
-[<i class="fas fa-info-circle"></i>&nbsp;Gather Tutorial](https://gather.town/app/ZjoKsCgut1xMYH5L/Live%20Walkthrough){:.button}
-
-Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet Ihr ein Formular, wo ihr einerseits zum **technischen und organisatorischen Setup** Rückmeldung, als auch direkt den **Sprechern ein Feedback zu ihren Vorträgen** geben könnt. Vielen Dank für Eure Unterstützung.
-
-[<i class="fas fa-comment"></i>&nbsp;Feedback](https://forms.gle/UWLER6dkPNbD5UQQ6){:.button}
-
-<hr />
-
-### <i class="fas fa-lg fa-book-open"></i> Programm
+### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand 2D
 
 {:.table}
 | TIME  | Raum Wintergarten (links) | Raum Schauspielhaus (rechts) |
@@ -46,6 +25,23 @@ Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet 
 ### <i class="fas fa-user"></i> Sprecher
 
 {%- include elements/session-grid.html spaltenAnzahl=4 start=18 ende=21 -%}
+
+<hr />
+
+### <i class="fas fa-lg fa-info-circle"></i> Wichtige Informationen
+
+Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den **vier unten aufgeführten, spannenden Vorträgen** vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt. Die Zugangsdaten erhaltet Ihr am Tag der Veranstaltung per E-Mail.
+
+Als Werkzeug verwenden wir [Gather](https://gather.town/). Wir haben Euch einige **Anleitungen als Bedienhilfe** zusammengestellt:
+
+[<i class="fas fa-info-circle"></i>&nbsp;Cheat Sheet](https://docs.google.com/document/d/e/2PACX-1vS6we_vooYMQy3B1hJmfZS6DEZ3tW0of_hx0I_4msvTKbTEPuFwapHlr8kNnViXKUQyrQMWEUyjQ4Mr/pub){:.button}
+[<i class="fas fa-info-circle"></i>&nbsp;Teilnehmer-Guide](https://docs.google.com/document/d/e/2PACX-1vQE4LHiJprjwBeNAdYSlGj7DkSJjJtmOAQb4Z8CQdPLO_OcdTbiHrcLKBCXOp1ruY-YUZiPf7AGUOX_/pub){:.button}
+[<i class="fas fa-info-circle"></i>&nbsp;Speaker-Guide](https://docs.google.com/document/d/e/2PACX-1vT6Fl2aVJ-qyQi0tR4SRl3eKw2cMF_WcLqptEowURWzV_mXeVLjQ3338QzKMI3U1rxFf7Q-7RKXDksh/pub){:.button}
+[<i class="fas fa-info-circle"></i>&nbsp;Gather Tutorial](https://gather.town/app/ZjoKsCgut1xMYH5L/Live%20Walkthrough){:.button}
+
+Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet Ihr ein Formular, wo ihr einerseits zum **technischen und organisatorischen Setup** Rückmeldung, als auch direkt den **Sprechern ein Feedback zu ihren Vorträgen** geben könnt. Vielen Dank für Eure Unterstützung.
+
+[<i class="fas fa-comment"></i>&nbsp;Feedback](https://forms.gle/UWLER6dkPNbD5UQQ6){:.button}
 
 <hr />
 
