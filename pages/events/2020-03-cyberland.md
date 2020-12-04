@@ -11,7 +11,7 @@ order: 1
 ### Die erste CyberLand fand am 17. März 2020 statt
 
 <div>
-{%- include elements/stats.html -%}
+{%- include elements/stats.html sessions=18 registrations=1900 visitors=900 -%}
 </div>
 
 ### Programm

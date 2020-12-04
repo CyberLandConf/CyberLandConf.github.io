@@ -1,26 +1,32 @@
+{%- assign durationType = include.durationType | default: 'Days' -%}
+{%- assign duration = include.duration | default: 1 -%}
+{%- assign sessions = include.sessions -%}
+{%- assign registrations = include.registrations -%}
+{%- assign visitors = include.visitors -%}
+
 <div class="level conference-stats">
     <div class="level-item has-text-centered">
       <div>
-        <p class="heading">Days</p>
-        <p class="title">1</p>
+        <p class="heading">{{durationType}}</p>
+        <p class="title">{{duration}}</p>
       </div>
     </div>
     <div class="level-item has-text-centered">
       <div>
         <p class="heading">Sessions</p>
-        <p class="title">18</p>
+        <p class="title">{{sessions}}</p>
       </div>
     </div>
     <div class="level-item has-text-centered">
       <div>
         <p class="heading">Registrations</p>
-        <p class="title">> 1900</p>
+        <p class="title">> {{registrations}}</p>
       </div>
     </div>
     <div class="level-item has-text-centered">
       <div>
         <p class="heading">Visitors</p>
-        <p class="title">900</p>
+        <p class="title">> {{visitors}}</p>
       </div>
     </div>
   </div>

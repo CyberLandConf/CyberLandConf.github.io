@@ -11,6 +11,10 @@ order: 2
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell 
 
+<div>
+    {%- include elements/stats.html durationType="Evening"  sessions=4 registrations=90 visitors=70 -%}
+</div>
+
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand 2D
 
 {:.table}
