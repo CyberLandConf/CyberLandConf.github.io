@@ -6,7 +6,7 @@ layout: default
       <h1 class="session-title">{{ page.title }}</h1>
       {% assign speaker = site.data.speakers | where: "id", page.speaker-id | first %}
       {% if speaker %}
-        <div class="speaker-name">{%- include elements/speaker.html speaker=speaker -%}</div>
+        <div class="speaker-name">{%- include elements/speaker.html speaker=speaker twitter=speaker.twitter -%}</div>
       {% else %}
             ERROR - speaker data not found!
       {% endif %}
