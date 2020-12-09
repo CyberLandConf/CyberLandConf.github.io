@@ -13,12 +13,14 @@ hidden: true
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell 
 
+### <i class="fas fa-lg fa-tv"></i> CyberLand Late Night
+
 Herzlich willkommen zur ersten **Late Night Show für Nerds** :) [Sandra](https://twitter.com/SandraParsick), Duke und [Hendrik](https://twitter.com/hendrikEbbers) haben den absurden Plan gefasst Technologie unterhaltsam zur Primetime unter die Leute zu bringen. Heute haben wir [Lars Röwekamp](https://twitter.com/mobileLarson) und [Nicolai Parlog](https://twitter.com/nipafx) auf unserer digitalen Couch zu Besuch. Neben Infos zu ihren geplanten Vorträgen für das JavaLand 2021 erwarten wir natürlich auch etwas über die dunkelsten Entwickler-Abgründe der Gäste zu erfahren. Neben unseren Gästen bieten wir natürlich in unserer gewohnte JavaLand Manier Neuigkeiten aus der Community. Aber Vorsicht: Auch hier könnte über das eine oder andere Tabuthema gesprochen werden - ist ja schließlich Late Night...
 <hr />
 
 ### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
 
-Startet in Kürze ...
+{% include elements/registration.html eventId='2020-12-15' limit=50 %}
 
 <hr />
 
