@@ -9,7 +9,7 @@ hidden: true
 
 ![Logo](/assets/logo/cyberland_light_bg.png){:.image-max-height}
 
-### <i class="fas fa-lg fa-calendar"></i> 15.12.2020
+### <i class="fas fa-lg fa-calendar"></i> 15.12.2020 - 20:00
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell 
 
