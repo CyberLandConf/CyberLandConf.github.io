@@ -6,6 +6,7 @@ permalink: /2020-03/
 redirect_from:
   - /2020/
 order: 1
+hidden: true
 ---
 
 ### Die erste CyberLand fand am 17. März 2020 statt

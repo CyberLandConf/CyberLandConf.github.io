@@ -4,6 +4,7 @@ title: CyberLand 2D 03. Dezember 2020
 date: 2020-12-03
 permalink: /2020-12/
 order: 2
+hidden: true
 ---
 
 ![Logo](/assets/logo/cyberland_2D.png){:.image-max-height}
