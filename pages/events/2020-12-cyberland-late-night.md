@@ -12,10 +12,13 @@ order: 2
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell 
 
+Weitere Infos folgen ...
+
 <hr />
 
 ### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
-{% include elements/registration.html eventId='2020-12-15' limit=50 %}
+
+Startet in Kürze ...
 
 <hr />
 

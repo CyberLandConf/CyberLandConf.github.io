@@ -10,7 +10,7 @@ title: CyberLand
 
 ![Logo CyberLand Late Night](/assets/logo/cyberland_light_bg.png){:.logo-small}
 
-#### [CyberLand Late Night](/2020-12-late-night) am 15. Dezember 2020 (Mehr Infos in Kürze)
+#### CyberLand Late Night am 15. Dezember 2020 (Mehr Infos in Kürze)
 
 ![Logo CyberLand Girls Edition](/assets/logo/cyberland_girls_edition.jpg){:.logo-small}
 
