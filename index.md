@@ -8,6 +8,10 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
+![Logo CyberLand Late Night](/assets/logo/cyberland_light_bg.png){:.logo-small}
+
+#### CyberLand Late Night am 15. Dezember 2020 (Mehr Infos in Kürze)
+
 ![Logo CyberLand Girls Edition](/assets/logo/cyberland_girls_edition.jpg){:.logo-small}
 
 #### CyberLand Girls Edition (aka CyberWonderWomanLand) am 25. Januar 2021 (Mehr Infos in Kürze)

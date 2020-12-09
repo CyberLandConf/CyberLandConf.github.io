@@ -4,6 +4,7 @@
   speaker-id: 'georg-berky'
   moderator-id: 'falk-sippach'
   layout: session
+  slides: 'Georg-Berky-Gruene-Inseln-im-Schlamm.pdf'
 ---
 
 "Key lesson is, you can always (read: most of the time) do greenfield in a legacy code base."
