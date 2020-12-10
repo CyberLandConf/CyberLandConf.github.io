@@ -1,4 +1,4 @@
-{% assign imageUrl = include.url %}
+{% assign imageUrl = "/assets/speaker/" | append: include.id | append: ".png" %}
 {% assign imageExists = false %}
 {% for static_file in site.static_files %}
     {% if static_file.path == imageUrl %}

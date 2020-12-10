@@ -35,7 +35,7 @@ hidden: true
 
 ### <i class="fas fa-lg fa-info-circle"></i> Wichtige Informationen
 
-Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den **vier unten aufgeführten, spannenden Vorträgen** vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt. Die Zugangsdaten erhaltet Ihr am Tag der Veranstaltung per E-Mail.
+Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den spannenden Vorträgen vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt. Die Zugangsdaten erhaltet Ihr am Tag der Veranstaltung per E-Mail.
 
 Als Werkzeug verwenden wir [Gather](https://gather.town/). Wir haben Euch einige **Anleitungen als Bedienhilfe** zusammengestellt:
 

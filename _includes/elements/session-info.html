@@ -3,7 +3,7 @@
     <a class="session-info-tile" href="{{ session.url }}">
         {% assign speaker = site.data.speakers | where: "id", session.speaker-id | first %}
         {% if speaker %}
-            <img class="session-image" src="/assets/speaker/{{ speaker.id }}.png" />
+            {%- include elements/speaker-image.html id=speaker.id -%}
             <div class="session-title">
 			  {{ session.title }}
 			</div>
