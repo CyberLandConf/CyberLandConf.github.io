@@ -8,7 +8,7 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
-[![Logo CyberLand Late Night](/assets/logo/cyberland-Late-Night.png){:.logo-small}](2020-12-late-night/)
+[![Logo CyberLand Late Night](/assets/logo/cyberland-Late-Night.jpg){:.logo-small}](2020-12-late-night/)
 
 #### [CyberLand Late Night am 15. Dezember 2020](2020-12-late-night/)
 

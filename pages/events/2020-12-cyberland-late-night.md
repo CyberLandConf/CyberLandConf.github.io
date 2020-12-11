@@ -7,7 +7,7 @@ order: 3
 hidden: true
 ---
 
-![Logo](/assets/logo/cyberland-Late-Night.png){:.image-max-height}
+![Logo](/assets/logo/cyberland-Late-Night.jpg){:.image-max-height}
 
 ### <i class="fas fa-lg fa-calendar"></i> 15.12.2020 - 20:00
 
