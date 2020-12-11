@@ -8,7 +8,7 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
-[![Logo CyberLand Late Night](/assets/logo/cyberland_light_bg.png){:.logo-small}](2020-12-late-night/)
+[![Logo CyberLand Late Night](/assets/logo/cyberland-Late-Night.png){:.logo-small}](2020-12-late-night/)
 
 #### [CyberLand Late Night am 15. Dezember 2020](2020-12-late-night/)
 
@@ -21,5 +21,5 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
-| 17. März 2021 | __[1. CyberLand](/2020-03)__ | ![Logo CyberLand](/assets/logo/logo-header.png){:.logo-small} | 
-| 03. Dezember 2020 | __[CyberLand 2D](/2020-12)__ | ![Logo CyberLand 2D](/assets/logo/2D_schrift.png){:.logo-small} | 
+| 17. März 2021 | __[1. CyberLand](/2020-03)__ | ![Logo CyberLand](/assets/logo/logo-header.png){:.logo-small} |
+| 03. Dezember 2020 | __[CyberLand 2D](/2020-12)__ | ![Logo CyberLand 2D](/assets/logo/2D_schrift.png){:.logo-small} |

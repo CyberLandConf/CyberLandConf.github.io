@@ -7,11 +7,11 @@ order: 3
 hidden: true
 ---
 
-![Logo](/assets/logo/cyberland_light_bg.png){:.image-max-height}
+![Logo](/assets/logo/cyberland-Late-Night.png){:.image-max-height}
 
 ### <i class="fas fa-lg fa-calendar"></i> 15.12.2020 - 20:00
 
-### <i class="fas fa-lg fa-globe"></i> Virtuell 
+### <i class="fas fa-lg fa-globe"></i> Virtuell
 
 ### <i class="fas fa-lg fa-tv"></i> CyberLand Late Night
 
@@ -24,7 +24,7 @@ Herzlich willkommen zur ersten **Late Night Show für Nerds** :) [Sandra](https:
 
 <hr />
 
-### <i class="fas fa-lg fa-heart"></i> Diese Initiative wird unterstützt von: 
+### <i class="fas fa-lg fa-heart"></i> Diese Initiative wird unterstützt von:
 
 [![ijug](/assets/logo/ijug.png){:.jug-logo}](https://www.ijug.eu/)
 [![jugdo](/assets/logo/jugdo.png){:.jug-logo}](https://www.meetup.com/JUG-Dortmund/)
