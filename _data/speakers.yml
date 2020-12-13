@@ -1,6 +1,8 @@
 - id: 'carola-lilienthal'
   firstName: 'Carola'
   lastName: 'Lilienthal'
+  bio: 'Dr. Carola Lilienthal ist Geschäftsführerin bei der WPS - Workplace Solutions GmbH. Sie hat an der Universität Hamburg studiert und dort zum Thema "Komplexität von Softwarearchitekturen" promoviert. Seit 2003 analysiert sie im Auftrag ihrer Kunden in ganz Deutschland regelmäßig die Zukunftsfähigkeit von Softwarearchitekturen und spricht auf Konferenzen über dieses Thema. 2015 hat sie ihre Erfahrungen aus über hundert Analysen in dem Buch „Langlebige Softwarearchitekturen“ zusammengefasst.'
+  twitter: 'cairolali'
 - id: 'eberhard-wolff'
   firstName: 'Eberhard'
   lastName: 'Wolff'
