@@ -78,6 +78,8 @@
   firstName: 'Katrin'
   lastName: 'Rabow'
   twitter: 'KatrinRabow'
+  bio: 'Katrin Rabow hat fünfzehn Jahre lang als selbständige Beraterin kleine Unternehmen in ihrem kaufmännischen Alltag unterstützt. Seit 2015 studiert sie Wirtschaftsinformatik an der TU Darmstadt, wo sie immer wieder Möglichkeiten sucht, „harte“ Themen wie Software Engineering mit „soften“ Bereichen wie Unternehmenskultur zu verbinden.
+Neben Uni, Familie und ein bisschen Geldverdienen bleibt zum Glück noch etwas Zeit für Meetups oder (Un-)Konferenzen zu allen Themen rund um Softwareentwicklung.'
 - id: 'antje-landschulz'
   firstName: 'Antje'
   lastName: 'Landschulz'
