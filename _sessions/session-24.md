@@ -3,7 +3,7 @@
   title: 'Warum es so schwierig ist, weniger schlecht zu programmieren'
   speaker-id: 'anika-zohren'
   layout: session
----
+  abstract: >
 
 Man könnte meinen, das Ziel jedes Programmierers sei es, weniger schlecht zu programmieren. Doch viele Entwickler bleiben lange auf der Stufe der Unbewussten Inkompetenz stehen. Und alle sind glücklich damit.  
 
