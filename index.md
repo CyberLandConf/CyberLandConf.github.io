@@ -8,6 +8,10 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
+[![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-banner.jpg){:.logo-small}](2021-01/)
+
+#### [CyberLand Late Night Manta Manta Edition](2021-01-late-night-manta-edition/) am 20. Januar 2021
+
 [![Logo CyberLand Ladies Night](/assets/logo/cyberland_girls_edition.jpg){:.logo-small}](2021-01/)
 
 #### [CyberLand Ladies Night](2021-01/) am 25. Januar 2021
