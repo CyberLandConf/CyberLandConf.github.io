@@ -32,6 +32,12 @@ hidden: true
 
 <hr />
 
+### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
+
+{% include elements/registration.html eventId='2021-01-25' limit=500 %}
+
+<hr />
+
 ### <i class="fas fa-lg fa-heart"></i> Diese Initiative wird unterstützt von: 
 
 [![ijug](/assets/logo/ijug.png){:.jug-logo}](https://www.ijug.eu/)
