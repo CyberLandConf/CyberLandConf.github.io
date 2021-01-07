@@ -25,7 +25,7 @@ Alle Anderen können uns auch auf [YouTube](https://youtu.be/OhfjZ-FZkiM) zu sch
 
 ### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
 
-{% include elements/registration.html eventId='2021-01-15' limit=50 %}
+{% include elements/registration.html eventId='2021-01-20' limit=50 %}
 
 <hr />
 
