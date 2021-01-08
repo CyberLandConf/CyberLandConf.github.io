@@ -15,6 +15,8 @@ hidden: true
 
 ### <i class="fas fa-lg fa-tv"></i> CyberLand Late Night Manta Manta Edition
 
+Nach dem unglaublichen Erfolg in 2020 setzen wir auch 2021 das Cyberland Late Night Format mit einer neuen Staffel fort. Ja! Du hast richtig gehört: Die erste Late Night Show für Java Entwickler, Tekkies und andere Nerds geht in die nächste Runde! Nachdem das Format spätestens seid dem grandiosen Finale in der Dezember Show letzten Jahres von einem Geheimtip zu einem Kult-Objekt der deutschen Java Community aufgestiegen ist, starten wir 2021 direkt mit einem Special: In der Manta Manta Edition im Januar werden wir nicht nur über dieses „Blockchain“ reden sondern auch zusammen mit unseren Gästen M.Sc. Neslihan und MC Kevin Wittek hinter die Fassaden (und Abgründe) von IT-Affinen Familien blicken. Also schnallt euren Fuchsschwanz fest und gebt am 20.01. zusammen mit uns Gas, wenn es wieder heißt EOFException.
+
 
 Möchtest du ein Teil der Show werden, dann registriere dich unten.
 
