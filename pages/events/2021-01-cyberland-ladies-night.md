@@ -15,18 +15,20 @@ hidden: true
 
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
 
-{:.table}
-| TIME  | Raum Wintergarten | Raum Schauspielhaus | Raum Quantum |
-| ----- | -------------- | -------------- | -------------- |
-|  | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | | |
-|  | tbd | tbd | tbd |
-|  | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-|  | tbd | tbd | tbd |
-|  | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-|  | tbd | tbd | tbd |
-|  | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
+Den Zeitplan des Programms veröffentlichen wir in Kürze. Unsere Sprecherinnen und ihre Vorträge könnt ihr bereits [hier anschauen](#sprecher).
 
-### <i class="fas fa-user"></i> Sprecher
+{:.table}
+| Uhrzeit  | Raum Wintergarten | Raum Schauspielhaus | Raum Quantum |
+| ----- | -------------- | -------------- | -------------- |
+| 16:30 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | | |
+| 17:00 | tbd | tbd | tbd |
+| 18:00 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
+| 18:30 | tbd | tbd | tbd |
+| 19:30 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
+| 20:00 | tbd | tbd | tbd |
+| ab 21:00 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
+
+### <i id="sprecher" class="fas fa-user"></i> Sprecher
 
 {%- include elements/session-grid.html spaltenAnzahl=3 start=22 ende=30 -%}
 
@@ -34,7 +36,7 @@ hidden: true
 
 ### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
 
-{% include elements/registration.html eventId='2021-01-25' limit=500 %}
+{% include elements/registration.html eventId='2021-01-25' limit=300 %}
 
 <hr />
 
