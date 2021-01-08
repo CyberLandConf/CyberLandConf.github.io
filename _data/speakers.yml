@@ -101,3 +101,8 @@ Neben Uni, Familie und ein bisschen Geldverdienen bleibt zum Glück noch etwas Z
   lastName: 'Ahlgrimm'
   twitter: 'sKriemhild'
   bio: 'Sandra Ahlgrimm, Java Entwicklerin und Containerfan, arbeitet seit 3 Jahren bei Microsoft. Zunächst im Consulting bevor sie vor zwei Jahren zu Developer Relations gewechselt ist. Vorher war sie jahrelang im Software/DevOps Engineering bei Unternehmen der Axel Springer SE und verschiedenen StartUps tätig. Folgt ihr gern auf Twitter @sKriemhild und dem Java on Azure Youtube Channel. https://www.youtube.com/channel/UCySRyO_0qCXxnHb6p7vMFnQ'
+- id: 'larysa-visengeriyeva'
+  firstName: 'Larysa'
+  lastName: 'Visengeriyeva'
+  twitter: 'visenger'
+  bio: 'Larysa is working at INNOQ and her current interest is the intersection between Sofware Engineering and Machine Learning - MLOps. She holds a PhD in the field of Augmented Data Cleaning.'
