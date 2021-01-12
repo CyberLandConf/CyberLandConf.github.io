@@ -3,6 +3,7 @@
   title: 'Eine Reise durch die JDKs'
   speaker-id: 'sandra-gerberding'
   moderator-id: 'sandra-parsick'
+  meetupId: cyberland-2d
   layout: session
   slidesLink: https://speakerdeck.com/sandrag/cyberland-11-2020
 ---

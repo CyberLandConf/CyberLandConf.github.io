@@ -24,6 +24,15 @@ layout: default
       {% if speaker.bio %}
         <div class="speaker-name">{{ speaker.bio }}</div>
       {% endif %}
+
+      {% if page.meetupId %}
+        {% for meetupPage in site.pages %}
+            {% if meetupPage.meetupId == page.meetupId %}
+              <a href="{{ meetupPage.url | relative_url }}">Zurück zur "{{meetupPage.title}}"</a>
+            {% endif %}
+        {% endfor %}
+      {% endif %}
+
   </div>
 </div>
   

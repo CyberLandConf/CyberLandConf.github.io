@@ -3,6 +3,7 @@
   title: 'Grüne Inseln im Brownfield-Schlamm'
   speaker-id: 'georg-berky'
   moderator-id: 'falk-sippach'
+  meetupId: cyberland-2d
   layout: session
   slides: 'Georg-Berky-Gruene-Inseln-im-Schlamm.pdf'
 ---

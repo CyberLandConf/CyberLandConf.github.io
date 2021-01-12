@@ -5,6 +5,7 @@ date: 2020-12-03
 permalink: /2020-12/
 order: 2
 hidden: true
+meetupId: cyberland-2d
 ---
 
 ![Logo](/assets/logo/cyberland_2D.png){:.image-max-height}

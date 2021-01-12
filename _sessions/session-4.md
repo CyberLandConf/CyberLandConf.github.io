@@ -12,6 +12,7 @@
 
     In this talk, we'll take a simple Java 8 code base, update it to 14, and refactor it to use the new language features and APIs. You'll be surprised how much the code changes!
   speaker-id: 'nicolai-parlog'
+  meetupId: cyberland-one
   youtubeId: Wg_anWbDVsk
   slidesLink: https://slides.codefx.org/java-after-eight/2020-03-17-cyberland/
   demoLink: https://github.com/CodeFX-org/java-after-eight

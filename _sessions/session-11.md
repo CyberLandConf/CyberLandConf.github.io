@@ -11,6 +11,7 @@
     Wenn Du dich für eine moderne event-gesteuerte, serverless Applikationsentwicklung mit Kubernetes interessierst, dann ist dieser Vortrag genau das richtige für Dich!
   speaker-id: 'roland-huss'
   youtubeId: 'gBEq5CUvkYo'
+  meetupId: cyberland-one
   slidesLink: https://github.com/ro14nd-talks/archive/raw/gh-pages/2020/knative-cyberland-2020.pdf
   layout: session
 ---

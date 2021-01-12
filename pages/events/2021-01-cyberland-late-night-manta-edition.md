@@ -5,6 +5,7 @@ date: 2020-12-03
 permalink: /2021-01-late-night-manta-edition/
 order: 3
 hidden: true
+meetupId: cyberland-latenight-2
 ---
 
 ![Logo](/assets/logo/cyberland-Late-Night.jpg){:.image-max-height}

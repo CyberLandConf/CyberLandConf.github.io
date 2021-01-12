@@ -5,5 +5,6 @@
   abstract: >
     tbd
   speaker-id: ''
+  meetupId: ''
   layout: session
 ---
