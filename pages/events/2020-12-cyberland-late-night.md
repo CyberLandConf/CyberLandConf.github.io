@@ -5,6 +5,7 @@ date: 2020-12-03
 permalink: /2020-12-late-night/
 order: 3
 hidden: true
+meetupId: cyberland-latenight-1
 ---
 
 ![Logo](/assets/logo/cyberland-Late-Night.jpg){:.image-max-height}

@@ -23,4 +23,4 @@ title: CyberLand
 | ----- | -------------- | -------------- |
 | 17. März 2021 | __[1. CyberLand](/2020-03)__ | ![Logo CyberLand](/assets/logo/logo-header.png){:.logo-small} |
 | 03. Dezember 2020 | __[CyberLand 2D](/2020-12)__ | ![Logo CyberLand 2D](/assets/logo/2D_schrift.png){:.logo-small} |
-| 15. Dezember 2020 | __[CyberLand Late Night](/2020-12-late-night)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-banner.jpg){:.logo-small} |
+| 15. Dezember 2020 | __[CyberLand Late Night](/2020-12-late-night)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |

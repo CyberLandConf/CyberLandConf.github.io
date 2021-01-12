@@ -7,6 +7,7 @@ redirect_from:
   - /2020/
 order: 1
 hidden: true
+meetupId: cyberland-one
 ---
 
 ### Die erste CyberLand fand am 17. März 2020 statt

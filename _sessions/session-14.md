@@ -26,6 +26,7 @@
     * Wie kann mich meine IDE unterstützen?
   speaker-id: 'alexander-schwartz'
   youtubeId: JWuUyLTihac
+  meetupId: cyberland-one
   slidesLink: https://speakerdeck.com/ahus1/asciidoctor-deep-dive
   layout: session
 ---
