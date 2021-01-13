@@ -11,7 +11,7 @@ meetupId: cyberland-ladies-night
 
 ### <i class="fas fa-lg fa-calendar"></i> 25.01.2021
 
-### <i class="fas fa-lg fa-globe"></i> Virtuell 
+### <i class="fas fa-lg fa-globe"></i> Virtuell
 
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
 
@@ -21,11 +21,11 @@ Den Zeitplan des Programms veröffentlichen wir in Kürze. Unsere Sprecherinnen 
 | Uhrzeit  | Raum Wintergarten | Raum Schauspielhaus | Raum Quantum |
 | ----- | -------------- | -------------- | -------------- |
 | 16:30 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | | |
-| 17:00 | tbd | tbd | tbd |
+| 17:00 | {%- include elements/timetable-field.html session-id="session-22" -%} | {%- include elements/timetable-field.html session-id="session-28" -%} | {%- include elements/timetable-field.html session-id="session-27" -%} |
 | 18:00 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-| 18:30 | tbd | tbd | tbd |
+| 18:30 | {%- include elements/timetable-field.html session-id="session-23" -%} | {%- include elements/timetable-field.html session-id="session-25" -%} | {%- include elements/timetable-field.html session-id="session-29" -%} |
 | 19:30 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-| 20:00 | tbd | tbd | tbd |
+| 20:00 | {%- include elements/timetable-field.html session-id="session-26" -%} | {%- include elements/timetable-field.html session-id="session-24" -%} | {%- include elements/timetable-field.html session-id="session-30" -%} |
 | ab 21:00 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
 
 ### <i id="sprecher" class="fas fa-user"></i> Sprecher
@@ -40,7 +40,7 @@ Den Zeitplan des Programms veröffentlichen wir in Kürze. Unsere Sprecherinnen 
 
 <hr />
 
-### <i class="fas fa-lg fa-heart"></i> Diese Initiative wird unterstützt von: 
+### <i class="fas fa-lg fa-heart"></i> Diese Initiative wird unterstützt von:
 
 [![ijug](/assets/logo/ijug.png){:.jug-logo}](https://www.ijug.eu/)
 [![jugs](/assets/logo/jugs.png){:.jug-logo}](https://www.jugs.org/)
