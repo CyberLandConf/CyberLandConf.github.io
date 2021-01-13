@@ -24,6 +24,7 @@
   jugUrl: https://www.jugs.org
   role: Organisator
   twitter: TobiasFrech
+  jobUrl: http://frech.it
 - id: markus-harrer
   firstName: Markus
   lastName: Harrer
@@ -46,6 +47,7 @@
   firstName: Sandra
   lastName: Parsick
   job: Freiberufler
+  jobUrl: https://www.sandra-parsick.de
   jug: JUG Dortmund
   jugUrl: https://www.meetup.com/de-DE/JUG-Dortmund/
   role: Organisator
@@ -63,6 +65,7 @@
   firstName: Gerd
   lastName: Aschemann
   job: Freiberufler
+  jobUrl: https://aschemann.net
   jug: JUG Darmstadt
   jugUrl: https://www.jug-da.de
   role: Moderation
@@ -84,5 +87,3 @@
   jugUrl: https://www.jug-da.de
   role: Videoschnitt
   twitter: RalfDMueller
-
-   
