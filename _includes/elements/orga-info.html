@@ -1,17 +1,25 @@
 {% assign member = include.member %}
+<div class="session-info-tile">
 {% if member %}
-	{%- if member.twitter -%}<a class="session-info-tile" target="_blank" href="https://twitter.com/{{ member.twitter }}">{% endif %}
+	{%- if member.twitter -%}<a target="_blank" href="https://twitter.com/{{ member.twitter }}">{% endif %}
 		{% assign imageUrl = "/assets/orga/" | append: member.id | append: ".png" %}
-		{% include elements/speaker-image.html url=imageUrl %}
+		{% include elements/speaker-image.html id=member.id %}
 		<div class="session-title">{%- include elements/speaker.html speaker=member -%}</div>
 	{%- if member.twitter -%}</a>{% endif %}
 	<div class="session-speaker">{{ member.role }}</div>
-	<div class="session-speaker">{{ member.job }}</div>
-	<div class="session-speaker">{{ member.jug }}</div>
+	{% if member.jobUrl %}
+		<div class="session-speaker"><a target="_blank" href="{{ member.jobUrl }}">{{ member.job }}</a></div>
+	{% else %}
+		<div class="session-speaker">{{ member.job }}</div>
+	{% endif %}
+	{% if member.jugUrl %}
+		<div class="session-speaker"><a target="_blank" href="{{ member.jugUrl }}">{{ member.jug }}</a></div>
+	{% else %}
+		<div class="session-speaker">{{ member.jug }}</div>
+	{% endif %}
 {% else %}
-	<a class="session-info-tile">
-		<img class="session-image" src="/assets/speaker/fallback.png" />
-		<div class="session-title">-</div>
-		<div class="session-speaker">-</div>
-	</a>
+	<img class="session-image" src="/assets/speaker/fallback.png" />
+	<div class="session-title">-</div>
+	<div class="session-speaker">-</div>
 {% endif %}
+</div>

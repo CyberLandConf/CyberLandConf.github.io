@@ -2,14 +2,18 @@
   firstName: Susanne
   lastName: Braun
   job: Fraunhofer IESE
+  jobUrl: https://www.iese.fraunhofer.de
   jug: JUG Kaiserslautern
+  jugUrl: http://www.jug-kl.de
   role: Organisator
   twitter: susannebraun
 - id: hendrik-ebbers
   firstName: Hendrik
   lastName: Ebbers
   job: Karakun AG
+  jobUrl: https://dev.karakun.com
   jug: JUG Dortmund
+  jugUrl: https://www.meetup.com/de-DE/JUG-Dortmund/
   role: Organisator
   twitter: HendrikEbbers
 - id: tobias-frech
@@ -17,20 +21,25 @@
   lastName: Frech
   job: Frech IT GmbH
   jug: JUG Stuttgart
+  jugUrl: https://www.jugs.org
   role: Organisator
   twitter: TobiasFrech
 - id: markus-harrer
   firstName: Markus
   lastName: Harrer
   job: INNOQ
+  jobUrl: https://www.innoq.com/de/
   jug: CyberJUG
+  jugUrl: https://cyberjug.de
   role: Ehemalige
   twitter: feststelltaste
 - id: gerrit-meier
   firstName: Gerrit
   lastName: Meier
   job: Neo4J
+  jobUrl: https://neo4j.com
   jug: JUG Ostfalen
+  jugUrl: https://www.jug-ostfalen.de
   role: Ehemalige
   twitter: meistermeier
 - id: sandra-parsick
@@ -38,13 +47,16 @@
   lastName: Parsick
   job: Freiberufler
   jug: JUG Dortmund
+  jugUrl: https://www.meetup.com/de-DE/JUG-Dortmund/
   role: Organisator
   twitter: SandraParsick
 - id: falk-sippach
   firstName: Falk
   lastName: Sippach
   job: embarc
+  jobUrl: https://www.embarc.de
   jug: JUG Darmstadt
+  jugUrl: https://www.jug-da.de
   role: Organisator
   twitter: sippsack
 - id: gerd-aschemann
@@ -52,19 +64,24 @@
   lastName: Aschemann
   job: Freiberufler
   jug: JUG Darmstadt
+  jugUrl: https://www.jug-da.de
   role: Moderation
   twitter: GerdAschemann
 - id: matthias-gerbershagen
   firstName: Matthias
   lastName: Gerbershagen
   job: Fraunhofer IESE
+  jobUrl: https://www.iese.fraunhofer.de
   jug: JUG Kaiserslautern
+  jugUrl: http://www.jug-kl.de
   role: Technik
 - id: ralf-mueller
   firstName: Ralf D.
   lastName: Müller
   job: DB Systel
+  jobUrl: https://www.dbsystel.de/dbsystel
   jug: JUG Darmstadt
+  jugUrl: https://www.jug-da.de
   role: Videoschnitt
   twitter: RalfDMueller
 
