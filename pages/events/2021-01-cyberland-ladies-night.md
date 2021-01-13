@@ -18,7 +18,7 @@ meetupId: cyberland-ladies-night
 Den Zeitplan des Programms veröffentlichen wir in Kürze. Unsere Sprecherinnen und ihre Vorträge könnt ihr bereits [hier anschauen](#sprecher).
 
 {:.table}
-| Uhrzeit  | Raum Wintergarten | Raum Schauspielhaus | Raum Quantum |
+| Uhrzeit  | [Raum Christiane Floyd](https://de.wikipedia.org/wiki/Christiane_Floyd) | [Raum Grace Hopper](https://de.wikipedia.org/wiki/Grace_Hopper) | [Raum Katie Bouman](https://de.wikipedia.org/wiki/Katie_Bouman) |
 | ----- | -------------- | -------------- | -------------- |
 | 16:30 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | | |
 | 17:00 | {%- include elements/timetable-field.html session-id="session-22" -%} | {%- include elements/timetable-field.html session-id="session-28" -%} | {%- include elements/timetable-field.html session-id="session-27" -%} |
