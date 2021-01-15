@@ -7,7 +7,7 @@ order: 4
 hidden: true
 meetupId: cyberland-ladies-night
 ---
-![Logo](/assets/logo/cyberland_girls_edition.jpg){:.image-max-height}
+![Logo](/assets/logo/ladies_night.jpg){:.image-max-height}
 
 ### <i class="fas fa-lg fa-calendar"></i> 25.01.2021
 
