@@ -15,8 +15,6 @@ meetupId: cyberland-ladies-night
 
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
 
-Den Zeitplan des Programms veröffentlichen wir in Kürze. Unsere Sprecherinnen und ihre Vorträge könnt ihr bereits [hier anschauen](#sprecher).
-
 {:.table}
 | Uhrzeit  | [Raum Christiane Floyd](https://de.wikipedia.org/wiki/Christiane_Floyd) | [Raum Grace Hopper](https://de.wikipedia.org/wiki/Grace_Hopper) | [Raum Katie Bouman](https://de.wikipedia.org/wiki/Katie_Bouman) |
 | ----- | -------------- | -------------- | -------------- |
