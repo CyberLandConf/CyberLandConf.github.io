@@ -47,5 +47,6 @@ meetupId: cyberland-ladies-night
 [![jugkl](/assets/logo/jugkl.png){:.jug-logo}](http://www.jug-kl.de/)
 [![jugdo](/assets/logo/jugdo.png){:.jug-logo}](https://www.meetup.com/JUG-Dortmund/)
 [![jugda](/assets/logo/jugda.png){:.jug-logo}](https://www.jug-da.de/)
+[![jugda](/assets/logo/jugch.png){:.jug-logo}](https://www.jug.ch)
 
 Eure JUG fehlt hier und ihr möchtet die Veranstaltung unterstützen? Dann meldet Euch ...
