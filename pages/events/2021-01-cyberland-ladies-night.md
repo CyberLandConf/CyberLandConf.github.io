@@ -26,7 +26,7 @@ meetupId: cyberland-ladies-night
 | 20:00 | {%- include elements/timetable-field.html session-id="session-26" -%} | {%- include elements/timetable-field.html session-id="session-24" -%} | {%- include elements/timetable-field.html session-id="session-30" -%} |
 | ab 21:00 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
 
-### <i id="sprecher" class="fas fa-user"></i> Sprecher
+### <i id="sprecher" class="fas fa-user"></i> Sprecherinnen
 
 {%- include elements/session-grid.html spaltenAnzahl=3 start=22 ende=30 -%}
 
