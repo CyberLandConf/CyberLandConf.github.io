@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/clappr/clappr-level-selector-plugin@latest/dist/level-selector.min.js"></script> 
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr-responsive-container-plugin@1.0.0/dist/clappr-responsive-container-plugin.min.js"></script>
+
+<h1>Stream {{ page.number }}</h1>
+<div id="player"></div>
+
+<script>
+var playerElement = document.getElementById("player");
+
+var player = new Clappr.Player({
+source: 'https://d35exmsz2iuczi.cloudfront.net/stream{{ page.number }}/index.m3u8',
+poster: '/assets/logo/cyberland_light_bg.png',
+mute: false,
+height: 720,
+width: 1280,
+plugins: {
+  core: [LevelSelector]
+}, 
+levelSelectorConfig: {
+  onLevelsAvailable: function(levels) {
+    return levels.reverse(); // For example, reverse levels order
+  }
+}
+});
+
+player.attachTo(playerElement);
+
+</script>
