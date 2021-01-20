@@ -21,7 +21,7 @@ Nach dem unglaublichen Erfolg in 2020 setzen wir auch 2021 das Cyberland Late Ni
 
 Möchtest du ein Teil der Show werden, dann registriere dich unten.
 
-Alle Anderen können uns auch auf [YouTube](https://youtu.be/OhfjZ-FZkiM) zu schauen.
+Alle Anderen können uns auch auf [YouTube](https://youtu.be/t5-RS-4t-Zw) zu schauen.
 
 
 <hr />
