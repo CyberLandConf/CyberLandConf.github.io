@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
+<div class="section">
+    <div class="container session-details">
+        <div id="player"></div>
+        <div class="session-title">Stream {{ page.number }}</div>
+    </div>
+</div>
+
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/clappr/clappr-level-selector-plugin@latest/dist/level-selector.min.js"></script> 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr-responsive-container-plugin@1.0.0/dist/clappr-responsive-container-plugin.min.js"></script>
-
-<h1>Stream {{ page.number }}</h1>
-<div id="player"></div>
 
 <script>
 var playerElement = document.getElementById("player");
