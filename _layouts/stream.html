@@ -3,9 +3,12 @@ layout: default
 ---
 <div class="section">
     <div class="container session-details">
-        <div class="session-title">Stream {{ page.number }}</div>
+        <h1 class="room-title">{{ page.room }}</h1>
         <div id="player"></div>
-        <div><iframe src="https://ahaslides.com/{{ page.ahaslides-code }}" style="width: 1280px; height: 1000px;" frameborder="0" scrolling="auto" seamless="seamless"></iframe></div>
+        <div>
+            <p class="room-questions-title">Stelle Deine Fragen zum Vortrag hier &#128071</p>
+            <iframe src="https://ahaslides.com/{{ page.ahaslides-code }}" style="width: 1280px; height: 1000px;" frameborder="0" scrolling="auto" seamless="seamless"></iframe>
+        </div>
     </div>
 </div>
 
