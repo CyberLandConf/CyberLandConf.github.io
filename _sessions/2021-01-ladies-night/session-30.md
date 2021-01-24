@@ -16,5 +16,6 @@
 
     In this session we will explore and discuss where are the most compelling challenges of software development and our professional careers.
   speaker-id: 'ixchel-ruiz'
+  moderator-id: 'gerd-aschemann'
   layout: session
 ---
