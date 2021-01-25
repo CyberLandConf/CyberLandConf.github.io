@@ -2,7 +2,9 @@
 layout: page
 title: CyberLand Ladies Night 25. Januar 2021
 date: 2020-12-03
-permalink: /2021-01/
+permalink: /2021-01-ladies-night/
+redirect_from:
+  - /2021-01/
 order: 4
 hidden: true
 meetupId: cyberland-ladies-night
@@ -11,9 +13,11 @@ meetupId: cyberland-ladies-night
 
 ### <i class="fas fa-lg fa-calendar"></i> 25.01.2021
 
-### <i class="fas fa-lg fa-globe"></i> Virtuell
+### <i class="fas fa-lg fa-globe"></i> Virtuell <span style="font-size: 0.6em;">[<i class="fas fa-lg fa-link"></i> Weitere Infos](#-wichtige-informationen)</span>
 
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
+
+Den Zugang zu unserer Konferenzplattform erhalten alle Registrierten. Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
 
 {:.table}
 | Uhrzeit  | [Raum Christiane Floyd](https://de.wikipedia.org/wiki/Christiane_Floyd) | [Raum Grace Hopper](https://de.wikipedia.org/wiki/Grace_Hopper) | [Raum Katie Bouman](https://de.wikipedia.org/wiki/Katie_Bouman) |
@@ -32,9 +36,32 @@ meetupId: cyberland-ladies-night
 
 <hr />
 
+### <i class="fas fa-lg fa-info-circle"></i> Wichtige Informationen
+
+Aufgrund der Corona-Pandemie können Usergroup Treffen im Moment nur Remote durchgeführt werden. Technisch funktioniert das mittlerweile sehr gut, den meisten von uns fehlt dabei aber die soziale Interaktion mit anderen Gleichgesinnten. Mit dieser Veranstaltung wollen wir neue Wege gehen und neben den spannenden Vorträgen vor allem Zeit zum **Networking in der virtuellen Welt** finden. Wir wünschen uns, dass ihr für unser Event auch Kamera und Mikro aktiviert und Euch so aktiv beteiligen und einbringen könnt. Die Zugangsdaten erhaltet Ihr am Tag der Veranstaltung per E-Mail (bitte auch im Spam-Ordner nachschauen).
+
+Als Werkzeug verwenden wir [Gather](https://gather.town/). Wir haben Euch einige **Anleitungen als Bedienhilfe** zusammengestellt:
+
+[<i class="fas fa-info-circle"></i>&nbsp;Teilnehmer-Guide](https://docs.google.com/document/d/e/2PACX-1vT_FYy_W-B0q1sSPeJsl_IeTsmWU-CfIdB4zKuiAEP_PdK1uxogi9SuR6jy9JyHfBT2N4MoWAoTMbZm/pub){:.button}
+[<i class="fas fa-info-circle"></i>&nbsp;Cheat Sheet](https://docs.google.com/document/d/e/2PACX-1vS6we_vooYMQy3B1hJmfZS6DEZ3tW0of_hx0I_4msvTKbTEPuFwapHlr8kNnViXKUQyrQMWEUyjQ4Mr/pub){:.button}
+[<i class="fas fa-info-circle"></i>&nbsp;Gather Tutorial](https://gather.town/app/ZjoKsCgut1xMYH5L/Live%20Walkthrough){:.button}
+
+<hr />
+
 ### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
 
 {% include elements/registration.html eventId='2021-01-25' limit=300 %}
+
+<hr />
+
+### <i class="fas fa-lg fa-door-open"></i>&nbsp;Virtuelle Aussteller
+
+* JUG Schweiz
+* AdoptOpenJDK
+* neo4j
+* Jugend hackt
+* Testcontainers
+* Hacker School
 
 <hr />
 
