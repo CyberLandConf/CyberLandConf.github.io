@@ -3,10 +3,14 @@
 {% assign endeSessionId = include.ende %}
 {% assign sessionAnzahl = include.ende | minus: include.start | plus: 1 %}
 
+{% assign sessionIds = (startSessionId..endeSessionId) %}
+{% if include.order %}
+  {% assign sessionIds = include.order | split: "," %}
+{% endif %}
 
 <div class="speaker-grid">
     <div class="columns">
-{% for no in (startSessionId..endeSessionId) %}
+{% for no in sessionIds %}
   {% assign istLetzteZelle = forloop.index | modulo: spaltenAnzahl %}
   {% assign sessionId = "session-" | append: no %}
         

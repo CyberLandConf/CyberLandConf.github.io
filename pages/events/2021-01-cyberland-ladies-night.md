@@ -32,7 +32,7 @@ Den Zugang zu unserer Konferenzplattform erhalten alle Registrierten. Die Verans
 
 ### <i id="sprecher" class="fas fa-user"></i> Sprecherinnen
 
-{%- include elements/session-grid.html spaltenAnzahl=3 start=22 ende=30 -%}
+{%- include elements/session-grid.html spaltenAnzahl=3 start=22 ende=30 order="22,28,27,23,25,29,26,24,30" -%}
 
 <hr />
 
@@ -55,6 +55,12 @@ Als Werkzeug verwenden wir [Gather](https://gather.town/). Wir haben Euch einige
 <hr />
 
 ### <i class="fas fa-lg fa-door-open"></i>&nbsp;Virtuelle Aussteller
+
+Erstmals haben wir bei einer virtuellen CyberLand-Veranstaltung Aussteller integriert. Dabei handelt es sich um verschiedene Vertreter der Community und der Opensource-Welt.
+
+![Virtual Booths](/assets/logo/virtual_booths.jpg){:.logo-small}
+
+Mit dabei sind:
 
 * JUG Schweiz
 * AdoptOpenJDK
