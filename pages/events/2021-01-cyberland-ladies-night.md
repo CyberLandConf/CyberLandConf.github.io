@@ -17,11 +17,12 @@ meetupId: cyberland-ladies-night
 
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
 
-Den Zugang zu unserer Konferenzplattform erhalten alle Registrierten. Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
+Den Zugang zu unserer [Konferenzplattform](https://gather.town/) erhalten alle Registrierten. Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
 
 {:.table}
 | Uhrzeit  | [Raum Christiane Floyd](https://de.wikipedia.org/wiki/Christiane_Floyd) | [Raum Grace Hopper](https://de.wikipedia.org/wiki/Grace_Hopper) | [Raum Katie Bouman](https://de.wikipedia.org/wiki/Katie_Bouman) |
 | ----- | -------------- | -------------- | -------------- |
+| Stream  | <a href="https://cyberland.ijug.eu/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="https://cyberland.ijug.eu/stream/2"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | <a href="https://cyberland.ijug.eu/stream/3"><i class="fas fa-lg fa-link"></i> Stream Raum 3</a> | 
 | 16:30 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | | |
 | 17:00 | {%- include elements/timetable-field.html session-id="session-22" -%} | {%- include elements/timetable-field.html session-id="session-28" -%} | {%- include elements/timetable-field.html session-id="session-27" -%} |
 | 18:00 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
@@ -45,6 +46,10 @@ Als Werkzeug verwenden wir [Gather](https://gather.town/). Wir haben Euch einige
 [<i class="fas fa-info-circle"></i>&nbsp;Teilnehmer-Guide](https://docs.google.com/document/d/e/2PACX-1vT_FYy_W-B0q1sSPeJsl_IeTsmWU-CfIdB4zKuiAEP_PdK1uxogi9SuR6jy9JyHfBT2N4MoWAoTMbZm/pub){:.button}
 [<i class="fas fa-info-circle"></i>&nbsp;Cheat Sheet](https://docs.google.com/document/d/e/2PACX-1vS6we_vooYMQy3B1hJmfZS6DEZ3tW0of_hx0I_4msvTKbTEPuFwapHlr8kNnViXKUQyrQMWEUyjQ4Mr/pub){:.button}
 [<i class="fas fa-info-circle"></i>&nbsp;Gather Tutorial](https://gather.town/app/ZjoKsCgut1xMYH5L/Live%20Walkthrough){:.button}
+
+Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet Ihr ein Formular, wo ihr einerseits zum **technischen und organisatorischen Setup** Rückmeldung, als auch direkt den **Sprecherinnen ein Feedback zu ihren Vorträgen** geben könnt. Vielen Dank für Eure Unterstützung.
+
+[<i class="fas fa-comment"></i>&nbsp;Feedback](https://forms.gle/Jui29VcWe5iAJHpB6){:.button}
 
 <hr />
 
@@ -76,10 +81,11 @@ Mit dabei sind:
 [![ijug](/assets/logo/ijug.png){:.jug-logo}](https://www.ijug.eu/)
 [![jugs](/assets/logo/jugs.png){:.jug-logo}](https://www.jugs.org/)
 [![jugostfalen](/assets/logo/jugostfalen.png){:.jug-logo}](https://www.jug-ostfalen.de/)
+[![cyberjug](/assets/logo/cyberjug.png){:.jug-logo}](https://www.cyberjug.de)
 <br />
 [![jugkl](/assets/logo/jugkl.png){:.jug-logo}](http://www.jug-kl.de/)
 [![jugdo](/assets/logo/jugdo.png){:.jug-logo}](https://www.meetup.com/JUG-Dortmund/)
 [![jugda](/assets/logo/jugda.png){:.jug-logo}](https://www.jug-da.de/)
-[![jugda](/assets/logo/jugch.png){:.jug-logo}](https://www.jug.ch)
+[![jugch](/assets/logo/jugch.png){:.jug-logo}](https://www.jug.ch)
 
 Eure JUG fehlt hier und ihr möchtet die Veranstaltung unterstützen? Dann meldet Euch ...
