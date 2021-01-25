@@ -44,3 +44,5 @@ plugins:
 collections:
   sessions:
     output: true
+    permalink: /sessions/:title.html/
+
