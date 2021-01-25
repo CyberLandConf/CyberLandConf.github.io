@@ -62,12 +62,12 @@ Erstmals haben wir bei einer virtuellen CyberLand-Veranstaltung Aussteller integ
 
 Mit dabei sind:
 
-* JUG Schweiz
-* AdoptOpenJDK
-* neo4j
-* Jugend hackt
-* Testcontainers
-* Hacker School
+* [JUG Schweiz](https://www.jug.ch)
+* [AdoptOpenJDK](https://adoptopenjdk.net)
+* [neo4j](https://neo4j.com)
+* [Jugend hackt](https://jugendhackt.org)
+* [Testcontainers](https://www.testcontainers.org)
+* [Hacker School](https://hacker-school.de)
 
 <hr />
 
