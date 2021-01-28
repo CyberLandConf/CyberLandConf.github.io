@@ -15,6 +15,11 @@ meetupId: cyberland-ladies-night
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell <span style="font-size: 0.6em;">[<i class="fas fa-lg fa-link"></i> Weitere Infos](#-wichtige-informationen)</span>
 
+<div>
+{%- include elements/stats.html sessions=9 registrations=280 visitors=250 -%}
+</div>
+
+
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
 
 Den Zugang zu unserer [Konferenzplattform](https://gather.town/) erhalten alle Registrierten. Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
@@ -50,12 +55,6 @@ Als Werkzeug verwenden wir [Gather](https://gather.town/). Wir haben Euch einige
 Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet Ihr ein Formular, wo ihr einerseits zum **technischen und organisatorischen Setup** Rückmeldung, als auch direkt den **Sprecherinnen ein Feedback zu ihren Vorträgen** geben könnt. Vielen Dank für Eure Unterstützung.
 
 [<i class="fas fa-comment"></i>&nbsp;Feedback](https://forms.gle/Jui29VcWe5iAJHpB6){:.button}
-
-<hr />
-
-### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
-
-{% include elements/registration.html eventId='2021-01-25' limit=300 %}
 
 <hr />
 
