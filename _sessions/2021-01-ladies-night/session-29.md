@@ -7,4 +7,5 @@
   moderator-id: 'gerd-aschemann'
   layout: session
   meetupId: cyberland-ladies-night
+  slidesLink: https://uploads.innoq.com/tpmypbejfvp7l0bog5r7ja3npono?response-content-disposition=inline%3B%20filename%3D%22ml-use-cases-finden.pdf%22%3B%20filename%2A%3DUTF-8%27%27ml-use-cases-finden.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHA5PEZW3OX32LYA%2F20210126%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20210126T103726Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=102aafd37192e294d4a41727183c055873321afb7774bc474f44725a501afccc
 ---
