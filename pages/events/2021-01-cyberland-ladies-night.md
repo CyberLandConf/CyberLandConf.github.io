@@ -19,6 +19,10 @@ meetupId: cyberland-ladies-night
 {%- include elements/stats.html sessions=9 registrations=280 visitors=250 -%}
 </div>
 
+Immer wieder beschweren sich die IT-Branche über die Tatsache, dass auf IT-Konferenzen zu wenig Frauen auf der Bühne stehen. Wir meckern nicht mit, sondern ändern es einfach.
+
+Herzlich willkommen auf der ersten IT-Konferenz mit 100% Frauenanteil auf der Bühne. Ganz nach dem Motto, nicht meckern, einfach machen.
+
 
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
 
@@ -27,7 +31,7 @@ Den Zugang zu unserer [Konferenzplattform](https://gather.town/) erhalten alle R
 {:.table}
 | Uhrzeit  | [Raum Christiane Floyd](https://de.wikipedia.org/wiki/Christiane_Floyd) | [Raum Grace Hopper](https://de.wikipedia.org/wiki/Grace_Hopper) | [Raum Katie Bouman](https://de.wikipedia.org/wiki/Katie_Bouman) |
 | ----- | -------------- | -------------- | -------------- |
-| Stream  | <a href="https://cyberland.ijug.eu/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="https://cyberland.ijug.eu/stream/2"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | <a href="https://cyberland.ijug.eu/stream/3"><i class="fas fa-lg fa-link"></i> Stream Raum 3</a> | 
+| Stream  | <a href="https://cyberland.ijug.eu/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="https://cyberland.ijug.eu/stream/2"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | <a href="https://cyberland.ijug.eu/stream/3"><i class="fas fa-lg fa-link"></i> Stream Raum 3</a> |
 | 16:30 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | | |
 | 17:00 | {%- include elements/timetable-field.html session-id="session-22" -%} | {%- include elements/timetable-field.html session-id="session-28" -%} | {%- include elements/timetable-field.html session-id="session-27" -%} |
 | 18:00 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
