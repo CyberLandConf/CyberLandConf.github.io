@@ -19,7 +19,7 @@ meetupId: cyberland-ladies-night
 {%- include elements/stats.html sessions=9 registrations=280 visitors=250 -%}
 </div>
 
-Immer wieder beschweren sich die IT-Branche über die Tatsache, dass auf IT-Konferenzen zu wenig Frauen auf der Bühne stehen. Wir meckern nicht mit, sondern ändern es einfach.
+Immer wieder beschwert sich die IT-Branche über die Tatsache, dass auf IT-Konferenzen zu wenig Frauen auf der Bühne stehen. Wir meckern nicht mit, sondern ändern es einfach.
 
 Herzlich willkommen auf der ersten IT-Konferenz mit 100% Frauenanteil auf der Bühne. Ganz nach dem Motto, nicht meckern, einfach machen.
 
