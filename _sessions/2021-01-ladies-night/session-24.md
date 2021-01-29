@@ -10,4 +10,5 @@
   moderator-id: 'falk-sippach'
   meetupId: cyberland-ladies-night
   layout: session
+  slides: Weniger schlecht Programmieren.pdf
 ---

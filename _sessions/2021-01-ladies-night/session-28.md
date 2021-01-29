@@ -7,4 +7,5 @@
   moderator-id: 'markus-harrer'
   meetupId: cyberland-ladies-night
   layout: session
+  slidesLink: https://speakerdeck.com/katrinrabow/introvertiert-und-agil-na-klar-cdb1b403-4e27-419c-8b86-0570b4cc2f55
 ---
