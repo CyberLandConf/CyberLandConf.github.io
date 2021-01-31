@@ -7,4 +7,5 @@
   moderator-id: 'sandra-parsick'
   meetupId: cyberland-ladies-night
   layout: session
+  slidesLink: https://www.slideshare.net/SusanneBraun2/eventual-consistency-du-musst-keine-angst-haben
 ---
