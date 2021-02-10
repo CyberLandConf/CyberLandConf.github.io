@@ -7,5 +7,5 @@
   moderator-id: 'markus-harrer'
   meetupId: cyberland-ladies-night
   layout: session
-  slidesLink: https://speakerdeck.com/aelindara/deutsch-fur-techies
+  slidesLink: https://t.co/UTebaqSVFJ
 ---
