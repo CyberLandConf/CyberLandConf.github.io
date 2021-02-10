@@ -11,7 +11,7 @@ title: CyberLand
 
 ![Logo CyberLand Late Night](/assets/logo/cyberland-Late-Night.jpg){:.logo-small}
 
-#### CyberLand Late Night Enterprise Edition am 23. Februar 2021
+#### [CyberLand Late Night Enterprise Edition](/2021-02-late-night-enterprise-edition/) am 23. Februar 2021
 
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
