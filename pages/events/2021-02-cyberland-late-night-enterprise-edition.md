@@ -25,11 +25,11 @@ Alle Anderen können uns auch auf [YouTube](https://youtu.be/pl3w8BYm2ec) zu sch
 
 <hr />
 
-<!-- ### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
+### <i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme
 
-{% include elements/registration.html eventId='2021-01-20' limit=50 %}
+{% include elements/registration.html eventId='2021-02-23' limit=50 %}
 
-<hr /> -->
+<hr />
 
 ### <i class="fas fa-lg fa-heart"></i> Diese Initiative wird unterstützt von:
 
