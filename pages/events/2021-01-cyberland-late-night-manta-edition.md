@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CyberLand Late Night Manta Manta Edition - 20. Januar 2021
-date: 2020-12-03
+date: 2021-01-20
 permalink: /2021-01-late-night-manta-edition/
 order: 3
 hidden: true

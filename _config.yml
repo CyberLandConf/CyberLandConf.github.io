@@ -41,8 +41,18 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+timezone: "Europe/Berlin"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      location: Online
+      hideRegistration: false
+
 collections:
   sessions:
     output: true
     permalink: /sessions/:title.html/
-
+    

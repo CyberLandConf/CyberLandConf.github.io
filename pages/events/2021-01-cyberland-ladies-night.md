@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CyberLand Ladies Night 25. Januar 2021
-date: 2020-12-03
+date: 2021-01-25
 permalink: /2021-01-ladies-night/
 redirect_from:
   - /2021-01/

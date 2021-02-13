@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CyberLand Late Night Enterprise Edition - 23. Februar 2021
-date: 2020-12-03
+date: 2021-02-23
 permalink: /2021-02-late-night-enterprise-edition/
 order: 3
 hidden: true
