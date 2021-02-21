@@ -2,6 +2,7 @@
 layout: page
 title: Late Night Enterprise Edition Bingo
 permalink: /enterprise-bingo/
+hidden: true
 order: 99
 ---
 
