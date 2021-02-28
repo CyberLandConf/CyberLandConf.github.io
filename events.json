@@ -1,16 +1,18 @@
 ---
 layout: null
 ---
+{% assign time = site.time | date: "%Y-%m-%dT%H:%M:00" %}
+{% assign events = site.pages | where: "layout", "event" %}
 [
-{% for page in site.pages reversed %}{% if page.date %}
+{% for page in events %}{% if page.date > time %}
 {
-"uid": "{{ page.date | date: "%Y%m%d" }}@ijug.eu",
+"uid": "{{ page.date | date: "%Y%m%d" }}@cyberland.ijug.eu",
 "title": "{{ page.title | smartify }}",
+"summary": "{{ page.summary | default: page.title | smartify }}",
 "location": "{{ page.location }}",
 "url": "{{ site.url }}{{ page.url }}",
-"start": "{{ page.date | date: "%Y-%m-%dT%H:%M:00" }}",
+"start": "{{ page.date }}",
 "timezone": "{{ site.timezone }}",
-"meetupId": "{{ page.meetupId }}",
 "hideRegistration": {{ page.hideRegistration }}
 }{% unless forloop.last %},{% endunless %}
 {% endif %}{% endfor %}

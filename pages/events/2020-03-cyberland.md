@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: event
 title: CyberLand 17. März 2020
-date: 2020-03-17
+date: 2020-03-17 9:00
 permalink: /2020-03/
 redirect_from:
   - /2020/

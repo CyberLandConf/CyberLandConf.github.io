@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: event
 title: CyberLand Late Night - 15. Dezember 2020
-date: 2020-12-15
+date: 2020-12-15 20:00
 permalink: /2020-12-late-night/
 order: 3
 hidden: true

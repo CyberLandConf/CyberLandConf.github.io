@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: event
 title: CyberLand 2D 03. Dezember 2020
-date: 2020-12-03
+date: 2020-12-03 18:30
 permalink: /2020-12-2D/
 redirect_from:
   - /2020-12/
