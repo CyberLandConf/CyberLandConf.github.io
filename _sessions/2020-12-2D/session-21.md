@@ -9,4 +9,5 @@
   meetupId: cyberland-2d
   layout: session
   slidesLink: https://github.com/sparsick/test-tool-talk/tree/cyberland2d
+  youtubeId: CmIpMoWfY3Y
 ---

@@ -50,6 +50,7 @@ defaults:
     values:
       location: Online
       hideRegistration: false
+      limit: 100
 
 collections:
   sessions:

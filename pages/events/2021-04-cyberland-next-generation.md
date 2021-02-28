@@ -17,19 +17,3 @@ meetupId: cyberland-ng
 Auf Konferenzen treten leider immer wieder die gleichen Sprecherinnen und Sprecher auf. Wir wünschen uns mehr Abwechslung und wollen diejenigen fördern, die auch mal den Schritt auf die "große" Bühne wagen wollen. 
 
 Weitere Infos folgen in Kürze.
-
-<hr />
-
-### <i class="fas fa-lg fa-heart"></i> Diese Initiative wird unterstützt von:
-
-[![ijug](/assets/logo/ijug.png){:.jug-logo}](https://www.ijug.eu/)
-[![jugs](/assets/logo/jugs.png){:.jug-logo}](https://www.jugs.org/)
-[![jugostfalen](/assets/logo/jugostfalen.png){:.jug-logo}](https://www.jug-ostfalen.de/)
-[![cyberjug](/assets/logo/cyberjug.png){:.jug-logo}](https://www.cyberjug.de)
-<br />
-[![jugkl](/assets/logo/jugkl.png){:.jug-logo}](http://www.jug-kl.de/)
-[![jugdo](/assets/logo/jugdo.png){:.jug-logo}](https://www.meetup.com/JUG-Dortmund/)
-[![jugda](/assets/logo/jugda.png){:.jug-logo}](https://www.jug-da.de/)
-[![jugch](/assets/logo/jugch.png){:.jug-logo}](https://www.jug.ch)
-
-Eure JUG fehlt hier und ihr möchtet die Veranstaltung unterstützen? Dann meldet Euch ...

@@ -1,8 +1,12 @@
+{% assign time = site.time | date: "%Y-%m-%dT%H:%M:00" %}
+{% if page.date > time %}
 {%- assign eventId = include.eventId -%}
 {%- assign limit = include.limit -%}
+<hr />
 
-Bitte **meldet Euch für das Event an**, damit wir entsprechend planen können. Wenn Ihr bereits angemeldet seid, aber doch nicht kommen könnt, dann bitte wieder abmelden. Dann können andere von der Warteliste nachrücken. 
+<h3 id="teilnahme"><i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme</h3>
 
-__Wir nutzen den Registrierungsdienst der Java User Group Darmstadt. Bitte wundert Euch also nicht über die entsprechenden Hinweise in den Bestätigungs-E-Mails.__
+<p>Bitte <strong>meldet Euch für das Event an</strong>, damit wir entsprechend planen können. Wenn Ihr bereits angemeldet seid, aber doch nicht kommen könnt, dann bitte wieder abmelden. Dann können andere von der Warteliste nachrücken.</p>
 
-<iframe src="https://registration.jug-da.de/registration?eventId={{ eventId }}&limit={{ limit }}&showPub=false" frameborder="0" width="100%" height="700" marginheight="0" marginwidth="0"></iframe>
+<iframe src="https://registration.ijug.eu/registration?eventId={{ page.date | date: "%Y-%m-%d" }}&limit={{ page.limit }}&showPub=false" frameborder="0" width="100%" height="700" marginheight="0" marginwidth="0"></iframe>
+{% endif %}

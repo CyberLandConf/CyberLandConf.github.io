@@ -50,17 +50,3 @@ Als Werkzeug verwenden wir [Gather](https://gather.town/). Wir haben Euch einige
 Bitte gebt uns nach der Veranstaltung **Feedback**. Unter folgendem Link findet Ihr ein Formular, wo ihr einerseits zum **technischen und organisatorischen Setup** Rückmeldung, als auch direkt den **Sprechern ein Feedback zu ihren Vorträgen** geben könnt. Vielen Dank für Eure Unterstützung.
 
 [<i class="fas fa-comment"></i>&nbsp;Feedback](https://forms.gle/UWLER6dkPNbD5UQQ6){:.button}
-
-<hr />
-
-### <i class="fas fa-lg fa-heart"></i> Diese Initiative wird unterstützt von: 
-
-[![ijug](/assets/logo/ijug.png){:.jug-logo}](https://www.ijug.eu/)
-[![jugs](/assets/logo/jugs.png){:.jug-logo}](https://www.jugs.org/)
-[![jugostfalen](/assets/logo/jugostfalen.png){:.jug-logo}](https://www.jug-ostfalen.de/)
-<br />
-[![jugkl](/assets/logo/jugkl.png){:.jug-logo}](http://www.jug-kl.de/)
-[![jugdo](/assets/logo/jugdo.png){:.jug-logo}](https://www.meetup.com/JUG-Dortmund/)
-[![jugda](/assets/logo/jugda.png){:.jug-logo}](https://www.jug-da.de/)
-
-Eure JUG fehlt hier und ihr möchtet die Veranstaltung unterstützen? Dann meldet Euch ...

@@ -8,4 +8,5 @@
   meetupId: cyberland-ladies-night
   layout: session
   slidesLink: https://github.com/norchen/terraform-talks/blob/main/terraform-101/slides/20210125_cyberland_terraform_iac.pdf
+  youtubeId: tA862fbz8W0
 ---

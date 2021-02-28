@@ -6,6 +6,7 @@
   meetupId: cyberland-2d
   layout: session
   slides: 'Georg-Berky-Gruene-Inseln-im-Schlamm.pdf'
+  youtubeId: KYHeGS2EPTo
 ---
 
 "Key lesson is, you can always (read: most of the time) do greenfield in a legacy code base."

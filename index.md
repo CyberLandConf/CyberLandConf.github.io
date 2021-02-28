@@ -9,9 +9,7 @@ title: CyberLand
 ### <i class="fas fa-calendar" /> Nächste Events
 
 
-![Logo CyberLand Late Night](/assets/logo/cyberland-Late-Night.jpg){:.logo-small}
-
-#### [CyberLand Late Night Enterprise Edition](/2021-02-late-night-enterprise-edition/) am 23. Februar 2021
+Wir planen bereits die nächsten Veranstaltungen für März und April. Weitere Infos folgen in Kürze, seid gespannt.
 
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
@@ -24,3 +22,4 @@ title: CyberLand
 | 15. Dezember 2020 | __[CyberLand Late Night](/2020-12-late-night)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
 | 20. Januar 2021 | __[CyberLand Late Night Manta Manta Edition](/2021-01-late-night-manta-edition)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
 | 25. Januar 2021 | __[CyberLand Ladies Night](2021-01-ladies-night/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night.jpg){:.logo-small} |
+| 23. Februar 2021 | __[CyberLand Late Night Enterprise Edition](/2021-02-late-night-enterprise-edition)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |

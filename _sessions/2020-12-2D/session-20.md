@@ -8,4 +8,5 @@
   meetupId: cyberland-2d
   layout: session
   slidesLink: https://www.dropbox.com/sh/peth427uytnxnk6/AAA7Fes9EH-82tnnnP7YxGXLa/MicroservicesTransactionsConsistency.pdf?dl=0
+  youtubeId: gKw9yiWiUE0
 ---
