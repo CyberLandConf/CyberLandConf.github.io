@@ -1,0 +1,24 @@
+ijug:
+    name: iJUG
+    url: "https://www.ijug.eu/"
+jugs:
+    name: JUG Stuttgart
+    url: "https://www.jugs.org/"
+jugostfalen:
+    name: JUG Ostfalen
+    url: "https://www.jug-ostfalen.de/"
+cyberjug:
+    name: CyberJUG
+    url: "https://www.cyberjug.de"
+jugkl:
+    name: JUG Kaiserlautern
+    url: "http://www.jug-kl.de/"
+jugdo:
+    name: JUG Dortmund
+    url: "https://www.meetup.com/JUG-Dortmund/"
+jugda:
+    name: JUG Darmstadt
+    url: "https://www.jug-da.de/"
+jugch:
+    name: JUG Schweiz
+    url: "https://www.jug.ch"
