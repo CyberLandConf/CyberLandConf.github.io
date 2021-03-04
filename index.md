@@ -8,8 +8,9 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
+#### [CyberLand Late Night Javaland Edition](/2021-03-late-night-javaland-edition/) am 16. März 2021
 
-Wir planen bereits die nächsten Veranstaltungen für März und April. Weitere Infos folgen in Kürze, seid gespannt.
+Wir planen bereits die nächsten Veranstaltungen für April. Weitere Infos folgen in Kürze, seid gespannt.
 
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen

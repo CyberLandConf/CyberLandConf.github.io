@@ -17,8 +17,10 @@ limit: 50
 
 ### <i class="fas fa-lg fa-tv"></i> CyberLand Late Night JavaLand Edition
 
-Herzlich Willkommen bei der dritten Folge der zweiten Staffel im zweiten Jahr der von uns zweien moderierten Late Night Show.
+Während auf Reddit diskutiert wird, ob die beiden wirklich existieren, oder nur ein virtuelles Internet-Phänomen wie Bielefeld sind, wagen Hendrik und Sandra ein gefährliches Experiment: Niemand hätte es in dieser finsteren Zeit für möglich gehalten, aber Hendrik und Sandra stehen sich in der Late Night das erste mal von Angesicht zu Angesicht gegenüber.
+Und da man Feste feiern soll, wie Sie fallen, haben sie Alexander und Melanie eingeladen um zusammen richtig feste den 7ten Geburtstag des JavaLandes, den (quasi) 16ten Geburtstag von Java, den 100ten Geburtstag des Plasmas (ohne Mist) und den 4 Namenstage der Cyberland Late Night zu feiern.
+
 
 Möchtest du ein Teil der Show werden, dann registriere dich unten.
 
-Alle Anderen können uns auch auf [YouTube](#) zu schauen.
+Alle Anderen können uns auch auf [YouTube](https://youtu.be/BzFBTPFk-gs) zu schauen.
