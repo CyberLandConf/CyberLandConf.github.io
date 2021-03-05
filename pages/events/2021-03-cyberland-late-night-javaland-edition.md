@@ -6,7 +6,7 @@ permalink: /2021-03-late-night-javaland-edition/
 order: 8
 hidden: true
 meetupId: cyberland-latenight-4
-limit: 50
+limit: 30
 ---
 
 ![Logo](/assets/logo/cyberland-Late-Night.jpg){:.image-max-height}
