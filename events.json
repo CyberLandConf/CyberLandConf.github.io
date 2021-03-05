@@ -11,7 +11,7 @@ layout: null
 "summary": "{{ page.summary | default: page.title | smartify }}",
 "location": "{{ page.location }}",
 "url": "{{ site.url }}{{ page.url }}",
-"start": "{{ page.date }}",
+"start": "{{ page.date | date: "%Y-%m-%dT%H:%M:00" }}",
 "timezone": "{{ site.timezone }}",
 "hideRegistration": {{ page.hideRegistration }}
 }{% unless forloop.last %},{% endunless %}
