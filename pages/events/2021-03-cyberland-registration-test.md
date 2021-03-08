@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: event
 title: Test
 date: 2021-03-17 20:00
 permalink: /2021-03-registration-test/
@@ -7,6 +7,7 @@ order: 8
 hidden: true
 meetupId: cyberland-test
 limit: 30
+hideRegistration: true
 ---
 
 <h3 id="teilnahme"><i class="fas fa-lg fa-door-open"></i>&nbsp;Teilnahme</h3>
