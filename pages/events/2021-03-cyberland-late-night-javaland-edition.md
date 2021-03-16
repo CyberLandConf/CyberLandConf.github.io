@@ -23,4 +23,6 @@ Und da man Feste feiern soll, wie Sie fallen, haben sie Alexander und Melanie ei
 
 Möchtest du ein Teil der Show werden, dann registriere dich unten.
 
-Alle Anderen können uns auch auf [YouTube](https://youtu.be/BzFBTPFk-gs) zu schauen.
+ Alle Anderen können uns auch auf ausnahmsweise auf [Vimeo](https://vimeo.com/event/785138/embed/fab31e364e) zu schauen. 
+
+<!-- Alle Anderen können uns auch auf [YouTube](https://youtu.be/BzFBTPFk-gs) zu schauen. -->
