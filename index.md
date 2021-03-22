@@ -8,6 +8,8 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
+#### [CyberLand Late Night Sandra Edition](/2021-04-late-night-sandra-edition/) am 14. April 2021
+
 Wir planen bereits die nächsten Veranstaltungen für April. Weitere Infos folgen in Kürze, seid gespannt.
 
 
