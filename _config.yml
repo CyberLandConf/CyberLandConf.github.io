@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CyberLand
 email: cyberland@ijug.eu
-description: >- 
+description: >-
   Community Events der deutschsprachigen Java User Group Szene (iJUG e. V.)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cyberland.ijug.eu" # the base hostname & protocol for your site, e.g. http://example.com
@@ -49,6 +49,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       location: Online
+      duration: 2
       hideRegistration: false
       limit: 100
 
@@ -56,4 +57,4 @@ collections:
   sessions:
     output: true
     permalink: /sessions/:title.html/
-    
+
