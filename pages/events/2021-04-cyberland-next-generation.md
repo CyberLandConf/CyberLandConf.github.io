@@ -3,6 +3,7 @@ layout: event
 title: CyberLand Next Generation 28. April 2021
 summary: Bei der CyberLand Next Generation kommen sowohl Interessierte (Newcomer) als auch alte Hasen zusammen.
 date: 2021-04-28 17:00
+duration: 4
 permalink: /2021-04-next-generation/
 order: 7
 hidden: true
