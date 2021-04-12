@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+
+{% if page.logo %} <img src="/assets/logo/{{page.logo}}" alt="Logo" class="image-max-height"> {% endif %}
+
 {{ content }}
 
 {% include elements/registration.html %}

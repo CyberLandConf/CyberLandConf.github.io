@@ -1,26 +1,8 @@
 ---
   session-id: 'session-31'
-  title: 'Thementisch "Einreichungsphase"'
+  title: 'Warum ist Public Speaking eigentlich eine gute Idee?'
   abstract: |
-    Wir wollen verschiedene Details zur Einreichung von Vorträgen diskutieren.
-
-    ### Wie finde ich ein Thema?
-    * Ich hab doch gar kein Thema, über dass ich erzählen könnte.
-    * Außerdem bin ich doch auch kein Experte auf einem bestimmten Gebiet.
-
-    ### Wie sollte eine Einreichungen aussehen und wo kann ich überhaupt Sessions einreichen?
-    * Abstract schreiben, unterschiedliche Zielgruppen beachten
-    * Ziel/Art des Vortrags:
-      * Einführung
-      * Erfahrungsbericht
-      * "Neueste Features zu XXX"
-      * ...
-    * Vortragsbewerter und Konferenzorganisatoren als Zielgruppe im Blick behalten
-      * Länge des Abstracts und Inhalte
-      * Buzzword-Dichte
-      * roter Faden
-      * nicht zu vage, aber auch noch nicht zu viel verraten
-      * was hebt meinen Abstract von anderen ab
+    Die meisten ITler waren mindestens schon mal zu Gast bei einer Konferenz, einem User-Group-Treffen oder bei internen Vortragsnachmittagen ihrer Arbeitgeber. Den Schritt auf die Bühne trauen sich viele aber nicht zu. Dabei bringt das Halten von Vorträgen vor den Kollegen oder sogar in der Öffentlichkeit so viele positive Aspekte mit sich. Mögliche Hürden kann man durch gute Vorbereitung sehr leicht umgehen.
   meetupId: cyberland-ng
   layout: session
 ---
