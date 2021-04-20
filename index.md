@@ -8,9 +8,6 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
-#### [CyberLand Late Night Sandra Edition](/2021-04-late-night-sandra-edition/) am 13. April 2021
-
-
 #### [CyberLand Next Generation](/2021-04-next-generation/) am 28. April 2021
 
 [![Logo Next Generation](/assets/logo/nextGen.jpg)](/2021-04-next-generation/)
@@ -28,3 +25,5 @@ title: CyberLand
 | 25. Januar 2021 | __[CyberLand Ladies Night](2021-01-ladies-night/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night.jpg){:.logo-small} |
 | 23. Februar 2021 | __[CyberLand Late Night Enterprise Edition](/2021-02-late-night-enterprise-edition)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
 | 16. März 2021 | __[CyberLand Late Night Javaland Edition](/2021-03-late-night-javaland-edition/)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
+| 13. April 2021 | __[CyberLand Late Night Sandra Edition](/2021-04-late-night-sandra-edition/)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
+
