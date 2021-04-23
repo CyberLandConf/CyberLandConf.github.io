@@ -30,6 +30,7 @@ Wir wollen voneinander lernen und hoffentlich auch einige animieren, den Schritt
 | 18:00 | {%- include elements/timetable-field.html session-id="session-33" icon="users" -%} |
 | 18:30 | {%- include elements/timetable-field.html session-id="session-34" icon="users" -%} |
 | 19:00 | Kurze Verschnaufpause |
-| 19:15 | Noch offen - weitere Infos folgen in Kürze |
-| 19:30 | {%- include elements/timetable-field.html session-id="session-36" icon="users" -%} |
+| 19:15 | Science Slam Vortrag von [Johannes Schildgen](https://www.johannesschildgen.de/) |
+| 19:30 | Voting Open Space Sessions |
+| 19:45 | {%- include elements/timetable-field.html session-id="session-36" icon="users" -%} |
 | 20:30 | Open End - Leute kennenlernen, gemeinsam etwas trinken und weiter über die Themen des Abends sprechen ... |
