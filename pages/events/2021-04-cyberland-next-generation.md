@@ -22,15 +22,15 @@ Wir wollen voneinander lernen und hoffentlich auch einige animieren, den Schritt
 ### Themen/Sessions  
 
 {:.table}
-| Uhrzeit  | Raum 1 | 
+| Uhrzeit | WorkAdventure Welt | 
 | ----- | -------------- |
 | 16:30 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen |
-| 17:00 | Begrüßung und Motivation |
-| 17:30 | {%- include elements/timetable-field.html session-id="session-32" icon="users" -%} |
-| 18:00 | {%- include elements/timetable-field.html session-id="session-33" icon="users" -%} |
-| 18:30 | {%- include elements/timetable-field.html session-id="session-34" icon="users" -%} |
+| 17:00 | Begrüßung und Motivation auf der Hauptbühne und im [Youtube-Stream](/stream/youtube) |
+| 17:30 | {%- include elements/timetable-field.html session-id="session-32" icon="users" -%} (3 Gruppen verteilt auf die Räume log park, ci garden & root) |
+| 18:00 | {%- include elements/timetable-field.html session-id="session-33" icon="users" -%} (3 Gruppen verteilt auf die Räume log park, ci garden & root) |
+| 18:30 | {%- include elements/timetable-field.html session-id="session-34" icon="users" -%} (3 Gruppen verteilt auf die Räume log park, ci garden & root) |
 | 19:00 | Kurze Verschnaufpause |
-| 19:15 | Science Slam Vortrag von [Johannes Schildgen](https://www.johannesschildgen.de/) |
-| 19:30 | Voting Open Space Sessions |
+| 19:15 | Science Slam Vortrag von [Johannes Schildgen](https://www.johannesschildgen.de/) auf der Hauptbühne und im [Youtube-Stream](/stream/youtube)|
+| 19:30 | Vorstellung Open Space Sessions |
 | 19:45 | {%- include elements/timetable-field.html session-id="session-36" icon="users" -%} |
 | 20:30 | Open End - Leute kennenlernen, gemeinsam etwas trinken und weiter über die Themen des Abends sprechen ... |
