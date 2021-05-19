@@ -10,7 +10,7 @@ title: CyberLand
 
 #### [CyberLand Too Late Late Night - Scrum Retrospektive](/2021-05-too-late-late-night/) am 01. Juni 2021
 
-[![CyberLand Late Night](/assets/logo/cyberland-late-night-banner)](/2021-05-too-late-late-night/)
+[![CyberLand Late Night](/assets/logo/cyberland-late-night-banner.jpg)](/2021-05-too-late-late-night/)
 
 
 [comment]: <> (Bitte in umgekehrter zeitlicher Reihenfolge belassen (neuste oben)
