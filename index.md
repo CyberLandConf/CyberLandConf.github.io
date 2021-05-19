@@ -3,8 +3,7 @@ layout: home
 title: CyberLand
 ---
 
-![cyberland](/assets/logo/cyberland_light_bg.png)
-<!-- {:.image-max-height} -->
+![cyberland](/assets/logo/cyberland_light_bg.png){:.image-max-height}
 
 
 ### <i class="fas fa-calendar" /> Nächste Events
