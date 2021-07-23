@@ -8,10 +8,7 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
-#### [CyberLand Too Late Late Night - Scrum Retrospektive](/2021-05-too-late-late-night/) am 01. Juni 2021
-
-[![CyberLand Late Night](/assets/logo/cyberland-late-night-banner.jpg)](/2021-05-too-late-late-night/)
-
+Aktuell befinden wir uns in der Sommerpause, planen aber bereits wieder die nächsten Events. Nähere Infos folgen in Kürze, seid gespannt.
 
 [comment]: <> (Bitte in umgekehrter zeitlicher Reihenfolge belassen (neuste oben)
 
@@ -20,6 +17,7 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 01. Juni 2021 | __[CyberLand Too Late Late Night - Scrum Retrospektive](/2021-05-too-late-late-night/)__ |  ![Logo CyberLand LateNight](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
 | 28. April 2021 | __[CyberLand Next Generation](/2021-04-next-generation/)__ | ![Logo Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 13. April 2021 | __[CyberLand Late Night Sandra Edition](/2021-04-late-night-sandra-edition/)__ | ![Logo CyberLand LateNight](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
 | 16. März 2021 | __[CyberLand Late Night Javaland Edition](/2021-03-late-night-javaland-edition/)__ | ![Logo CyberLand Late Night](/assets/logo/cyberland-late-night-logo.png){:.logo-small}
