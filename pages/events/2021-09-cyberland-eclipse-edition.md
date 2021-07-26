@@ -3,7 +3,7 @@ layout: event
 title: CyberLand Eclipse Edition
 date: 2021-09-29 18:00
 permalink: /2021-09-eclipse-edition/
-order: 10
+order: 12
 hidden: true
 meetupId: cyberland-eclipse-edition
 limit: 20
