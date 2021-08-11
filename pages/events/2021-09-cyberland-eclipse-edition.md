@@ -15,11 +15,11 @@ limit: 20
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell
 
-### <i class="fas fa-lg fa-tv"></i> CyberLand Eclipse Edition
+### <i class="fas fa-lg fa-tv"></i> CyberLand Open Source Camp
 
-Wir sind Teil der deutschsprachigen Java Community und im iJUG e. V. organisiert. Der iJUG ist bei verschiedenen strategisch wichtigen Java-Projekten involviert. Das sind unter anderem Eclipse Adoptium (früher AdoptOpenJDK), Jakarta EE und Microprofile. Dort vertreten wir die deutschsprachigen Java-Entwickler und gestalten aktiv die Weiterentwicklung von Java und seinem Umfeld mit. Wir wollen vor allem auch alle Interessierten fördern, die gern selbst an diesen Opensource Projekten mitarbeiten wollen. Dafür haben wir beim iJUG ein Stipendium aufgesetzt. Da der Einstieg in solche gewachsenen und auch relativ komplexen Projekte nicht so einfach ist, wollen wir Euch unterstützen.
+Wir sind Teil der deutschsprachigen Java Community und im iJUG e. V. organisiert. Der iJUG ist bei verschiedenen strategisch wichtigen Java-Projekten unter dem Dach der Eclipse Foundation involviert. Das sind unter anderem Eclipse Adoptium (früher AdoptOpenJDK), Jakarta EE und Microprofile. Dort vertreten wir die deutschsprachigen Java-Entwickler und gestalten aktiv die Weiterentwicklung von Java und seinem Umfeld mit. Wir wollen vor allem auch alle Interessierten fördern, die gern selbst an diesen Open-Source-Projekten mitarbeiten wollen. Dafür haben wir beim iJUG ein Mentoring-Programm aufgesetzt. Da der Einstieg in solche gewachsenen und auch relativ komplexen Projekte nicht so einfach ist, wollen wir Euch unterstützen, die ersten Schritte und erste Commits zu machen.
 
-Bei unserer CyberLand Eclipse Edition werden Beteiligte von den einzelnen Projekten, der Organisation und über die Voraussetzungen für eine Mitarbeit berichten. Falls Ihr schon damit geliebäugelt habt, bei Opensource Projekten mitzuwirken, seid Ihr hier genau richtig. 
+Bei unserem CyberLand Open Source Camp werden Beteiligte von den einzelnen Projekten, der Organisation und über die Voraussetzungen für eine Mitarbeit berichten. Falls Ihr schon damit geliebäugelt habt, bei Open-Source-Projekten mitzuwirken, seid Ihr hier genau richtig. 
 
 ### Programm
 
