@@ -8,7 +8,9 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
-Aktuell befinden wir uns in der Sommerpause, planen aber bereits wieder die nächsten Events. Nähere Infos folgen in Kürze, seid gespannt.
+#### [CyberLand Java 17 Release Party](/2021-09-java-17-release-party/) am 14. September 2021
+
+[![CyberLand Late Night](/assets/logo/java-17-release-party.png){:.logo-small}](/2021-09-java-17-release-party/)
 
 [comment]: <> (Bitte in umgekehrter zeitlicher Reihenfolge belassen (neuste oben)
 
