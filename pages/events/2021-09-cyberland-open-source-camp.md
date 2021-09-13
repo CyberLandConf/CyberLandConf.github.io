@@ -1,17 +1,18 @@
 ---
 layout: event
 title: CyberLand Open Source Camp
-date: 2021-09-29 18:00
+date: 2021-09-29 17:00
 permalink: /2021-09-open-source-camp/
 order: 12
 hidden: true
 meetupId: cyberland-open-source-camp
 limit: 20
+hideVideoRecording: true
 ---
 
 ![Logo](/assets/logo/camp-logo.png){:.image-max-height}
 
-### <i class="fas fa-lg fa-calendar"></i> 29.09.2021 - 18:00
+### <i class="fas fa-lg fa-calendar"></i> 29.09.2021 - 17:00
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell
 
@@ -23,4 +24,18 @@ Bei unserem CyberLand Open Source Camp werden Beteiligte von den einzelnen Proje
 
 ### Programm
 
-Weitere Details folgen in Kürze.  
+Start 17:00
+
+17:00 - 17:30 Teaser (t.b.a.)
+
+17:30 - 18:00 Vorstellung der drei Projekte (10 Minuten pro Projekt)
+
+* Adoptium
+* Jakarta EE
+* MicroProfile
+
+18:00 - 18:15 Pause
+
+18:15 - 18:25 Eclipse Mitglied werden How-To
+
+18:30 - 20:00 (Open End) Hackathon "Mein erster Pull Request"

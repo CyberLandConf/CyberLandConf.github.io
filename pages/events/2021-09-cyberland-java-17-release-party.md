@@ -25,14 +25,8 @@ Mit dem OpenJDK 17 wird am 14. September das nächste Long Term Support (LTS) Re
 * und vieles mehr
 
 Wir wollen mit bekannten Java-Entwicklern gemeinsam auf das neue LTS-Release anstossen, ein paar spannende Fragen diskutieren und auch ein paar lustige Spiele durchführen. Natürlich gibt es auch wieder etwas zu gewinnen. 
-
-
-### Programm
-
-Weitere Details folgen in Kürze.  
+ 
 
 ### Dabei sein?
 
-Möchtest du ein Teil der Show werden, dann registriere dich unten (kostenlos).
-
-Alle Anderen können uns auch auf [YouTube](https://www.youtube.com/channel/UCAMGr2FLBzpxnVJCk-Lhd_A) zu schauen.
+Das Event ist kostenlos und wird über unseren [YouTube-Kanal](https://www.youtube.com/channel/UCAMGr2FLBzpxnVJCk-Lhd_A) gestreamed. Der genaue Link folgt hier kurz vor der Veranstaltung.

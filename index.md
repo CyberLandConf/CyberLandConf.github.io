@@ -14,6 +14,12 @@ title: CyberLand
 
 [comment]: <> (Bitte in umgekehrter zeitlicher Reihenfolge belassen (neuste oben)
 
+#### [CyberLand Opensource Camp](/2021-09-open-source-camp/) am 29. September 2021
+
+[![CyberLand Late Night](/assets/logo/camp-logo.png){:.logo-small}](/2021-09-open-source-camp/)
+
+[comment]: <> (Bitte in umgekehrter zeitlicher Reihenfolge belassen (neuste oben)
+
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
 {:.table}

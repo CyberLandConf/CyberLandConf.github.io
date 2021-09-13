@@ -52,6 +52,7 @@ defaults:
       duration: 2
       hideRegistration: false
       limit: 100
+      hideVideoRecording: false
 
 collections:
   sessions:
