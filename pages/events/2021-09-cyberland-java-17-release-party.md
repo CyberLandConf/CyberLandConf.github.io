@@ -29,7 +29,9 @@ Wir wollen mit bekannten Java-Entwicklern gemeinsam auf das neue LTS-Release ans
 
 ### Dabei sein?
 
-Das Event ist kostenlos und wird über unseren [YouTube-Kanal](https://www.youtube.com/channel/UCAMGr2FLBzpxnVJCk-Lhd_A) gestreamed. Der genaue Link folgt hier kurz vor der Veranstaltung.
+Das Event ist kostenlos und wird über unseren [YouTube-Kanal](https://www.youtube.com/channel/UCAMGr2FLBzpxnVJCk-Lhd_A) gestreamed. [Direkter Link](https://youtu.be/s-ruF5zMsgs) zur Veranstaltung.
+
+Direkt nach dem Live-Streaming (gegen 20:30 Uhr) wechseln wir in unsere virtuelle [CyberLand-Welt](https://world.cyberland.ijug.eu/). Ihr trefft uns dort in einem der Jitsi-Meetings (z. B. an der Hauptbühne oder beim Brunnen). Wir freuen uns darauf, mit Euch noch ein bißchen über Java zu diskutieren.
 
 Bitte nehmt bis zur Release Party auch an folgender Umfrage teil: [https://www.menti.com/gn91fpftpx](https://www.menti.com/gn91fpftpx) (Code: 8616 0213).
 
