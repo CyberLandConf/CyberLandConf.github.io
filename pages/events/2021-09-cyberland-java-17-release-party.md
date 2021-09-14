@@ -30,3 +30,14 @@ Wir wollen mit bekannten Java-Entwicklern gemeinsam auf das neue LTS-Release ans
 ### Dabei sein?
 
 Das Event ist kostenlos und wird über unseren [YouTube-Kanal](https://www.youtube.com/channel/UCAMGr2FLBzpxnVJCk-Lhd_A) gestreamed. Der genaue Link folgt hier kurz vor der Veranstaltung.
+
+Bitte nehmt bis zur Release Party auch an folgender Umfrage teil: [https://www.menti.com/gn91fpftpx](https://www.menti.com/gn91fpftpx) (Code: 8616 0213).
+
+![Schickt Euer ältestes Java-Programm](/assets/images/Cyberland-Java17.003.png)
+
+### Gewinne
+
+Schickt uns das älteste Java-Programm, was ihr noch auf Euren Festplatten findet und gewinnt coolen Java und CyberLand Swag. Mailt uns die Klasse(n) und die Geschichte dahinter bitte an [cyberland@ijug.eu](mailto:cyberland@ijug.eu).
+
+![Schickt Euer ältestes Java-Programm](/assets/images/Cyberland-Java17.001.png)
+
