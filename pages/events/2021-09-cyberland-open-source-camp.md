@@ -6,7 +6,7 @@ permalink: /2021-09-open-source-camp/
 order: 12
 hidden: true
 meetupId: cyberland-open-source-camp
-limit: 20
+limit: 100
 hideVideoRecording: true
 ---
 
@@ -26,7 +26,11 @@ Bei unserem CyberLand Open Source Camp werden Beteiligte von den einzelnen Proje
 
 Start 17:00
 
-17:00 - 17:30 Teaser (t.b.a.)
+17:00 - 17:30 Eröffnung mit Adam Bien
+
+![Adam](/assets/speaker/adam-bien.png)
+
+Adam wird uns kurzweilig per Live-Hacking rund um MicroProfile und Jakarta EE  in Smallrye, Helidon, Micronaut, Quarkus, Payara, TomEE und das gesamte Ecosystem einführen.
 
 17:30 - 18:00 Vorstellung der drei Projekte (10 Minuten pro Projekt)
 
