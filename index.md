@@ -8,12 +8,6 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
-#### [CyberLand Java 17 Release Party](/2021-09-java-17-release-party/) am 14. September 2021
-
-[![CyberLand Late Night](/assets/logo/java-17-release-party.png){:.logo-small}](/2021-09-java-17-release-party/)
-
-[comment]: <> (Bitte in umgekehrter zeitlicher Reihenfolge belassen (neuste oben)
-
 #### [CyberLand Opensource Camp](/2021-09-open-source-camp/) am 29. September 2021
 
 [![CyberLand Late Night](/assets/logo/camp-logo.png){:.logo-small}](/2021-09-open-source-camp/)
@@ -25,6 +19,7 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 14. September 2021 | __[CyberLand Java 17 Release Party](/2021-09-java-17-release-party/)__ |  ![Logo CyberLand Java 17 Release Party](/assets/logo/java-17-release-party.png){:.logo-small} |
 | 01. Juni 2021 | __[CyberLand Too Late Late Night - Scrum Retrospektive](/2021-05-too-late-late-night/)__ |  ![Logo CyberLand LateNight](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
 | 28. April 2021 | __[CyberLand Next Generation](/2021-04-next-generation/)__ | ![Logo Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 13. April 2021 | __[CyberLand Late Night Sandra Edition](/2021-04-late-night-sandra-edition/)__ | ![Logo CyberLand LateNight](/assets/logo/cyberland-late-night-logo.png){:.logo-small} |
