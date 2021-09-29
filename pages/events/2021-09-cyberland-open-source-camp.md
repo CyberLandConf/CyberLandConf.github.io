@@ -6,7 +6,7 @@ permalink: /2021-09-open-source-camp/
 order: 12
 hidden: true
 meetupId: cyberland-open-source-camp
-limit: 40
+limit: 50
 hideVideoRecording: true
 ---
 
@@ -24,11 +24,13 @@ Bei unserem CyberLand Open Source Camp werden Beteiligte von den einzelnen Proje
 
 ### Programm
 
+[Zum Live-Stream](https://cyberland.ijug.eu/stream/youtube)
+
 Start 17:00
 
 17:00 - 17:30 Eröffnung mit Adam Bien
 
-Ort: Hauptbühne in Workadventurea
+Ort: Hauptbühne in Workadventure
 
 ![Adam](/assets/speaker/adam-bien.png)
 

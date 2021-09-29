@@ -1,4 +1,4 @@
-{% assign time = site.time | date: "%Y-%m-%dT%H:%M:00" %}
+{% assign time = site.time | date: "%Y-%m-%d" %}
 {% if page.date > time and page.hideRegistration == false %}
 {%- assign eventId = include.eventId -%}
 {%- assign limit = include.limit -%}
