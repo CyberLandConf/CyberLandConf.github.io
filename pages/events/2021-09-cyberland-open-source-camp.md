@@ -6,7 +6,7 @@ permalink: /2021-09-open-source-camp/
 order: 12
 hidden: true
 meetupId: cyberland-open-source-camp
-limit: 100
+limit: 40
 hideVideoRecording: true
 ---
 
@@ -28,11 +28,15 @@ Start 17:00
 
 17:00 - 17:30 Eröffnung mit Adam Bien
 
+Ort: Hauptbühne in Workadventurea
+
 ![Adam](/assets/speaker/adam-bien.png)
 
 Adam wird uns kurzweilig per Live-Hacking rund um MicroProfile und Jakarta EE  in Smallrye, Helidon, Micronaut, Quarkus, Payara, TomEE und das gesamte Ecosystem einführen.
 
 17:30 - 18:00 Vorstellung der drei Projekte (10 Minuten pro Projekt)
+
+Ort: Hauptbühne in Workadventure
 
 * Adoptium
 * Jakarta EE
@@ -42,4 +46,11 @@ Adam wird uns kurzweilig per Live-Hacking rund um MicroProfile und Jakarta EE  i
 
 18:15 - 18:25 Eclipse Mitglied werden How-To
 
+Ort: Hauptbühne in Workadventurea
+
 18:30 - 20:00 (Open End) Hackathon "Mein erster Pull Request"
+
+Orte (Bereiche oberhalb der Bühne im Workadventure):
+* Adoptium im Raum "log park"
+* Jakarta EE im Raum "ci garden"
+* MicroProfile im Raum "root"

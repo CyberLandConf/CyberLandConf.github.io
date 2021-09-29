@@ -2,7 +2,7 @@
 layout: default
 number: 100
 room: Youtube Stream CyberLand
-youtubeId: tA862fbz8W0
+youtubeId: Qp5WRs0To_I
 permalink: /stream/youtube
 ---
 
@@ -15,6 +15,3 @@ permalink: /stream/youtube
         Direkter Link zum <a href=" https://youtu.be/{{ page.youtubeId }}">Video-Stream</a>
     </div>
 </div>
-
-
-
