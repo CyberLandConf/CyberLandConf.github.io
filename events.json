@@ -9,6 +9,7 @@ layout: null
 "uid": "{{ page.date | date: "%Y%m%d" }}@cyberland.ijug.eu",
 "title": "{{ page.title | smartify }}",
 "summary": "{{ page.summary | default: page.title | smartify }}",
+"description": "{{ page.content | strip_html | normalize_whitespace | truncatewords: 50 }}",
 "location": "{{ page.location }}",
 "url": "{{ site.url }}{{ page.url }}",
 "start": "{{ page.date | date: "%Y-%m-%dT%H:%M:00" }}",
