@@ -7,7 +7,7 @@ order: 12
 hidden: true
 meetupId: cyberland-open-source-camp-advent-punsh
 limit: 50
-hideVideoRecording: false
+hideVideoRecording: true
 ---
 
 ![Logo](/assets/logo/camp-logo.png){:.image-max-height}
@@ -24,8 +24,6 @@ Das Ziel ist, dass am Ende des Events dann ein paar Pull Requests für diese Pro
 Falls Ihr schon damit geliebäugelt habt, bei Open-Source-Projekten mitzuwirken, seid Ihr hier genau richtig.
 
 ### Programm
-
-[Zum Live-Stream](https://cyberland.ijug.eu/stream/youtube)
 
 Start 17:00
 
