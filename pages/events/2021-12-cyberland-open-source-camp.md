@@ -7,7 +7,7 @@ order: 12
 hidden: true
 meetupId: cyberland-open-source-camp-advent-punsh
 limit: 50
-hideVideoRecording: true
+hideVideoRecording: false
 ---
 
 ![Logo](/assets/logo/camp-logo.png){:.image-max-height}
