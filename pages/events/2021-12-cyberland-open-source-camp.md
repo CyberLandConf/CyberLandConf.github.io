@@ -29,13 +29,11 @@ Start 17:00
 
 17:00 - 17:15 Ankommen
 
-17:15 - 18:00 Vorstellung der Open Source Projekte
+17:15 - 17:30 Vorstellung der Open Source Projekte
 
 Ort: Hauptbühne in Workadventure
 
-18:00 - 18:15 Pause
-
-18:15 - 20:00 (Open End) Hacken an den Open Source Projekten
+17:30 - 20:00 (Open End) Hacken an den Open Source Projekten
 
 Orte (Bereiche oberhalb der Bühne im Workadventure):
 * im Raum "log park"
