@@ -8,7 +8,7 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
-![Logo CyberLand Opensource Camp](/assets/logo/camp-logo.png){:.logo-small} 15. Dezember 2021 [CyberLand Opensource Camp Advent Pu(n)sh](/2021-12-open-source-camp/) 
+![Logo CyberLand Opensource Camp](/assets/logo/camp-logo.png){:.logo-small} 15. Dezember 2021 __[CyberLand Opensource Camp Advent Pu(n)sh](/2021-12-open-source-camp/)__ 
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
