@@ -37,7 +37,7 @@ Ort: Hauptbühne in Workadventure
 
 JUnit5 (Christian Stein), Maven (Karl Heinz Marbaise), Testcontainers (Kevin Wittek), Asciidoc IntelliJ Plugin (Alexander Schwarz), DocToolChain (Ralf Müller), jQAssistant (Dirk Mahler)
 
-Orte (Bereiche oberhalb der Bühne im Workadventure):
+Orte (Bereiche in Workadventure):
 * im Raum "log park"
 * im Raum "ci garden"
 * im Raum "root"
