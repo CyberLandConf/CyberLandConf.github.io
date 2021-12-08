@@ -35,7 +35,12 @@ Ort: Hauptbühne in Workadventure
 
 17:30 - 20:00 (Open End) Hacken an den Open Source Projekten
 
-JUnit5 (Christian Stein), Maven (Karl Heinz Marbaise), Testcontainers (Kevin Wittek), AsciiDoc IntelliJ Plugin (Alexander Schwartz), [docToolchain](https://doctoolchain.org) ([interessante erste Issues](https://github.com/docToolchain/docToolchain/issues?q=is%3Aissue+is%3Aopen+label%3AHackergarten))(Ralf D. Müller), jQAssistant (Dirk Mahler)
+* [JUnit5](https://junit.org/junit5/) (Christian Stein, Twitter: [@sormuras](https://twitter.com/sormuras))
+* [Maven](https://maven.apache.org/) (Karl Heinz Marbaise, Twitter: [@khmarbaise](https://twitter.com/khmarbaise)) 
+* [Testcontainers](https://www.testcontainers.org/) (Kevin Wittek, Twitter: [@Kiview](https://twitter.com/Kiview)) 
+* [AsciiDoc IntelliJ Plugin](https://intellij-asciidoc-plugin.ahus1.de/) (Alexander Schwartz, Twitter: [@ahus1de](https://twitter.com/ahus1de) 
+* [docToolchain](https://doctoolchain.org/) ([interessante erste Issues](https://github.com/docToolchain/docToolchain/issues?q=is%3Aissue+is%3Aopen+label%3AHackergarten), Ralf D. Müller, Twitter: [@RalfDMueller](https://twitter.com/RalfDMueller))
+* [jQAssistant](https://jqassistant.org/) (Dirk Mahler, Twitter: [@dirkmahler](https://twitter.com/dirkmahler))
 
 Orte (Bereiche in Workadventure):
 * im Raum "log park"
