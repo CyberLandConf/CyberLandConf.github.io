@@ -38,7 +38,7 @@ Ort: Hauptbühne in Workadventure
 * [JUnit5](https://junit.org/junit5/) (Christian Stein, Twitter: [@sormuras](https://twitter.com/sormuras))
 * [Maven](https://maven.apache.org/) (Karl Heinz Marbaise, Twitter: [@khmarbaise](https://twitter.com/khmarbaise)) 
 * [Testcontainers](https://www.testcontainers.org/) (Kevin Wittek, Twitter: [@Kiview](https://twitter.com/Kiview)) 
-* [AsciiDoc IntelliJ Plugin](https://intellij-asciidoc-plugin.ahus1.de/) (Alexander Schwartz, Twitter: [@ahus1de](https://twitter.com/ahus1de) 
+* [AsciiDoc IntelliJ Plugin](https://intellij-asciidoc-plugin.ahus1.de/) (Alexander Schwartz, Twitter: [@ahus1de](https://twitter.com/ahus1de))
 * [docToolchain](https://doctoolchain.org/) ([interessante erste Issues](https://github.com/docToolchain/docToolchain/issues?q=is%3Aissue+is%3Aopen+label%3AHackergarten), Ralf D. Müller, Twitter: [@RalfDMueller](https://twitter.com/RalfDMueller))
 * [jQAssistant](https://jqassistant.org/) (Dirk Mahler, Twitter: [@dirkmahler](https://twitter.com/dirkmahler))
 
