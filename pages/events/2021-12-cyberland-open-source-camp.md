@@ -10,7 +10,7 @@ limit: 50
 hideVideoRecording: true
 ---
 
-![Logo](/assets/logo/camp-logo.png){:.image-max-height}
+![Logo](/assets/logo/cyberland_Os_camp_christmas.jpg){:.image-max-height}
 
 ### <i class="fas fa-lg fa-calendar"></i> 15.12.2021 - 17:00
 
