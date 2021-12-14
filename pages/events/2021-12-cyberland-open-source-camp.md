@@ -6,7 +6,9 @@ permalink: /2021-12-open-source-camp/
 order: 12
 hidden: true
 meetupId: cyberland-open-source-camp-advent-punsh
+description: Wir laden zum zweiten Code Camp Event ein. Wir treffen uns, um zusammen etwas zu Open-Source-Projekten beizusteuern.
 limit: 50
+image: /assets/logo/cyberland_Os_camp_christmas.jpg
 hideVideoRecording: true
 ---
 
