@@ -50,3 +50,11 @@ Orte (Bereiche in Workadventure):
 * im Raum "root"
 * im Raum "Brunnen"
 * im Raum "Hauptbühne"
+
+### Stimmen unserer Gäste
+
+![Ralf](/assets/code-camp/ralf.jpg){:.image-max-height}
+![Christian](/assets/code-camp/christian.jpg){:.image-max-height}
+![Alex](/assets/code-camp/alex.jpg){:.image-max-height}
+![Kevin](/assets/code-camp/kevin.jpg){:.image-max-height}
+![Dirk](/assets/code-camp/dirk.jpg){:.image-max-height}
