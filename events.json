@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-{% assign time = site.time | date: "%Y-%m-%dT%H:%M:00" %}
+{% assign time = site.time | date: "%Y-%m-%d" %}
 {% assign events = site.pages | where: "layout", "event" %}
 [
 {% for page in events %}{% if page.date > time %}
