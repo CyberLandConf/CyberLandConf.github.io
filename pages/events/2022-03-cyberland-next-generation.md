@@ -4,7 +4,6 @@ title: CyberLand Next Generation 09. März 2022
 summary: "Sneaky Preview: bei der CyberLand Next Generation halten Newcomer der JavaLand 2022 erstmals ihren Vortrag und freuen sich über Euer Feedback."
 logo: nextGen.jpg
 date: 2022-03-09 17:00
-end: 2022-03-09 21:00
 duration: 4
 permalink: /2022-03-next-generation/
 order: 13

@@ -12,8 +12,9 @@ layout: null
 "description": "{{ page.content | strip_html | normalize_whitespace | truncatewords: 50 }}",
 "location": "{{ page.location }}",
 "url": "{{ site.url }}{{ page.url }}",
-"start": "{{ page.date | date: "%Y-%m-%dT%H:%M:00" }}",
-"end": "{{ page.end | date: "%Y-%m-%dT%H:%M:00" }}",
+{% include getDateWithStartAndEndTimeFromEvent.html event=page %}
+"start": "{{ dateWithStartTime | date: "%Y-%m-%dT%H:%M:00" }}",
+"end": "{{ dateWithEndTime | date: "%Y-%m-%dT%H:%M:00" }}",
 "timezone": "{{ site.timezone }}",
 "hideRegistration": {{ page.hideRegistration }}
 }{% unless forloop.last %},{% endunless %}
