@@ -24,6 +24,7 @@ Nach den Vorträgen wollen wir uns noch ungezwungen austauschen. Erfahrene Sprec
 {:.table}
 | TIME  | Raum 1 | Raum 2 |
 | ----- | -------------- | -------------- |
+| Stream  | <a href="/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum "log park"</a> | <a href="/stream/2"><i class="fas fa-lg fa-link"></i> Stream "ci garden"</a> |
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
 | 17:30 | {%- include elements/timetable-field.html session-id="session-37" -%} | {%- include elements/timetable-field.html session-id="session-38" -%} |
 | 18:20 | __Pause__ - Kurz virtuell die Beine vertreten ... | |
