@@ -1,7 +1,7 @@
 ---
-layout: stream
+layout: stream-youtube
 number: 2
-ahaslides-code: CLHOP
-room: Raum Grace Hopper
+room: "ci garden"
+youtubeId: ScDU9kdGOPk
 permalink: /stream/2
 ---

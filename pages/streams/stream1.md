@@ -1,7 +1,7 @@
 ---
-layout: stream
+layout: stream-youtube
 number: 1
-ahaslides-code: CLFLO
-room: Raum Christiane Floyd
+room: Raum "log park"
+youtubeId: Op000bI87X4
 permalink: /stream/1
 ---
