@@ -19,6 +19,10 @@ Die JavaLand findet vom 15. bis 16. März 2022 endlich wieder vor Ort im Phantas
 
 Nach den Vorträgen wollen wir uns noch ungezwungen austauschen. Erfahrene Sprecher verraten Tipps und Tricks und diskutieren mit Euch alle Fragen rundum Public Speaking. Und vielleicht können wir den einen oder anderen von Euch animieren, ebenfalls den Schritt auf die Bühne zu wagen. Die nächste JavaLand im März 2023 sucht wieder mutige Newcomer, die von einem erfahrenen Mentor unterstützt werden.
 
+Das Event findet wieder in unserer **virtuellen Welt in Workadventure** ([https://world.cyberland.ijug.eu/](https://world.cyberland.ijug.eu/)) statt. Dort könnt Ihr Euch vorher, in den Pausen und nach den Vorträgen mit Gleichgesinnten austauschen. Nutzt dazu am besten den Jitsi-Raum an der Hauptbühne. 
+
+Die Vorträge selbst werden wir über **Youtube streamen**, Fragen während des Vortrags können über den Youtube-Chat gestellt werden. Bewegt Eure 2D-Figur einfach in den "log-park" (Raum 1, oben links) oder "ci-garden" (Raum 2, oben Mitte). Dort geht dann das Fenster zum Streaming auf. Alternativ könnt Ihr auch die Direkt-Links (unten in der Tabelle) verwenden. Weitere Infos zu unseren Tools findet ihr im **[Teilnehmer-Guide](https://docs.google.com/document/d/e/2PACX-1vSWgWUMA1q9XHjy9V5jliERmgUU8rpU_px_Xbnj6cDrLSqno1ew6EgHBNXwX4VVqUdBgrhaL9qi70Jt/pub)**.
+
 ### Themen/Sessions  
 
 {:.table}
