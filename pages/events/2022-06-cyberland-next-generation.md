@@ -26,6 +26,10 @@ Alle Infos (Zugangsdaten, Details, ...) findet ihr in unserem __[Discord-Channel
 
 Wir wollen __voneinander lernen__ und hoffentlich auch einige animieren, den Schritt auf die Bühne zu wagen. Seid unbedingt dabei und lernt von __bekannten Konferenzsprechern__, die Euch als Mentoren ihre Tipps und Tricks verraten und auf eure Fragen und möglichen Sorgen eingehen werden.
 
+Diese Events sind die Fortsetzung diverser CyberLand Next Generation Veranstaltungen. Nach der ersten Session im April 2021 haben wir in Zusammenarbeit mit __[Developer on the stage](https://developeronthestage.com/#additional)__ bereits im Herbst 2021 eine Meetup-Reihe durchgeführt und dort mehrere Newcomer auf ihren ersten Vortrag vorbereitet. Neben den dort verfügbaren Videoaufzeichnungen sei allen Neulinge auch das gleichnamige __[Buch](https://www.amazon.com/-/en/dp/B096DTGWJN/)__ ans Herz gelegt.
+
+[![Developer on the stage - Buch](/assets/images/dots-book.png){:.logo-small}](https://www.amazon.com/-/en/dp/B096DTGWJN/)
+
 ### Themen/Sessions  
 
 🚀  Session 1: Mi. 08.06.2022 19:00 - Themenfindung
