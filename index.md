@@ -8,7 +8,9 @@ title: CyberLand
 
 ### <i class="fas fa-calendar" /> Nächste Events
 
-![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} 09. März 2022 __[CyberLand Next Generation](/2022-03-next-generation/)__ 
+![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} Juni 2022 __[CyberLand Next Generation - Developer on the stage](/2022-06-next-generation/)__ 
+
+![Logo JakartaOne German](/assets/logo/jakartaone.jpg){:.logo-small} 30. Juni 2022 __[CyberLand Jakarta One Livestream - German](/2022-06-jakarta-one-german/)__ 
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
@@ -17,6 +19,7 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 09. März 202 | __[CyberLand Next Generation](/2022-03-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 15. Dezember 2021 | __[CyberLand Opensource Camp Advent Pu(n)sh](/2021-12-open-source-camp/)__ |  ![Logo CyberLand Opensource Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 29. September 2021 | __[CyberLand Opensource Camp](/2021-09-open-source-camp/)__ |  ![Logo CyberLand Opensource Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 14. September 2021 | __[CyberLand Java 17 Release Party](/2021-09-java-17-release-party/)__ |  ![Logo CyberLand Java 17 Release Party](/assets/logo/java-17-release-party.png){:.logo-small} |
