@@ -20,7 +20,7 @@ Auf Konferenzen treten leider immer wieder die gleichen Sprecherinnen und Sprech
 
 Es wird zunächst __vier Termine__ (jeweils 60 Minuten) geben, in denen es um das Thema Vortragseinreichung gehen wird. Ihr könnt unsere Treffen nutzen, um Euch zum Beispiel auf die Einreichung als __[JavaLand Newcomer](https://www.javaland.eu/)__ vorzubereiten (CfP im Juli bis Anfang August). Ihr dürft aber auch einfach nur so dabei sein, wenn Euch das Thema Vortraghalten interessiert oder ihr auf anderen Konferenzen einreichen wollt.
 
-Alle Infos (Zugangsdaten, Details, ...) findet ihr in unserem __[Discord-Channel](https://discord.gg/NAu4Gh3c2q)__. Dort wird es vor und nach den Terminen auch einen begleitenden Austausch geben.
+Alle Infos (Zugangsdaten, Details, ...) findet ihr im __[Discord-Channel](https://discord.gg/NAu4Gh3c2q)__ der "Developer on the stage"-Initiative. Dort wird es vor und nach den Terminen auch einen begleitenden Austausch geben.
 
 Übrigens, die Termine bauen aufeinander auf und es wird dazwischen auch immer eine kleine Hausaufgabe geben. Willkommen sind sowohl Neulinge, die noch keinen öffentlichen Vortrag vor größerem Publikum gehalten haben, als auch (erfahrene) Sprecher von User Group Treffen und/oder Konferenzen. 
 
@@ -52,7 +52,7 @@ Diese Events sind die Fortsetzung diverser CyberLand Next Generation Veranstaltu
 - Wie sehen die Termine und Ablauf aus?
 - Welche Plattformen helfen dir dabei?
 
-Es braucht keine Anmeldung. Alle Infos und auch die weitere Diskussion finden in unserem Discord statt: __[discord.gg/NAu4Gh3c2q](https://discord.gg/NAu4Gh3c2q)__
+Es braucht keine Anmeldung. Alle Infos und auch die weitere Diskussion finden im Discord von "Developer on the stage" statt: __[discord.gg/NAu4Gh3c2q](https://discord.gg/NAu4Gh3c2q)__
 
 ### Warum teilnehmen?
 
