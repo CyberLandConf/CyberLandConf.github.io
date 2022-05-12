@@ -1,6 +1,6 @@
 ---
   session-id: 'session-38'
-  title: 'Datenbanktests in 1 Zeile mit JUnit Jupiter Extensions'
+  title: 'Datenbanktests in einer Zeile mit Jupiter Extensions'
   abstract: |
     Tests müssen einfach und kurz geschrieben werden, sonst macht's keiner. Gleichzeitig soll eine Testsuite schnell durchlaufen, selbst wenn ein komplexes Setup wie eine Datenbankinitialisierung nötig ist.
 
@@ -10,4 +10,5 @@
   meetupId: cyberland-ng-2
   speaker-id: 'philipp-hannemann'
   layout: session
+  youtubeId: ww3QP0fHSA4
 ---

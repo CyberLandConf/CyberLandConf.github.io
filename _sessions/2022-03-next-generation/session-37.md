@@ -10,4 +10,5 @@
   meetupId: cyberland-ng-2
   speaker-id: 'sven-hesse'
   layout: session
+  youtubeId: kz8Yxh8UIOY
 ---
