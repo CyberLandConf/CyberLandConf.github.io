@@ -17,14 +17,16 @@ limit: 300
 ### <i class="fas fa-lg fa-globe"></i> Virtuell <span style="font-size: 0.6em;">
 
 
-Immer wieder beschwert sich die IT-Branche über die Tatsache, dass auf IT-Konferenzen zu wenig Frauen auf der Bühne stehen. Wir meckern nicht mit, sondern ändern es einfach.
+Die IT-Branche kämpft immer mit einen zu niedrigen Frauenanteil. Bei IT-Konferenzen äußert sich das an zu wenig Frauen, die auf der Bühne stehen. Wir wollen dabei helfen, das zu ändern. Darum haben wir einige Newcomerinnen eingeladen, die erstmals bei uns und hoffentlich auch bald auf anderen Konferenzen über spannende Themen berichten.
 
 Herzlich willkommen auf der ersten IT-Konferenz mit 100% Frauenanteil und 100% Newcomer auf der Bühne. Ganz nach dem Motto, nicht meckern, einfach machen.
+
+Ihr spielt auch mit dem Gedanken, mal einen Vortrag zu halten. Dann meldet Euch bei uns, wir freuen uns auf jede Newcomerin.
 
 
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night Newcomer
 
-Den Zugang zu unserer [Konferenzplattform](https://gather.town/) erhalten alle Registrierten. Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
+Den Zugang zu unserer [Konferenzplattform](https://world.ijug.eu/) erhalten alle Registrierten. Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
 
 {:.table}
 | Uhrzeit  | Raum 1| Raum 2 | 
