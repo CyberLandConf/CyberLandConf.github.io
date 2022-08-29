@@ -1,0 +1,44 @@
+---
+layout: event
+title: CyberLand Open Source Camp "Hacktoberfest Edition"
+date: 2022-10-04 17:00
+permalink: /2022-10-open-source-camp/
+order: 12
+hidden: true
+meetupId: cyberland-open-source-camp-hacktoberfest22
+limit: 50
+hideVideoRecording: true
+---
+
+![Logo](/assets/logo/camp-logo.png){:.image-max-height}
+
+### <i class="fas fa-lg fa-calendar"></i> 04.10.2022 - 17:00
+
+### <i class="fas fa-lg fa-globe"></i> Virtuell
+
+### <i class="fas fa-lg fa-tv"></i> CyberLand Open Source Camp "Hacktoberfest Edition"
+
+Wir laden zum dritten Code Camp Event ein. Bei diesem Event treffen wir uns, um zusammen etwas zu Open-Source-Projekten beizusteuern. Dabei kann man einen Patch schreiben, Dokumentation erweitern, ein Tutorial schreiben o.ä.
+Das Ziel ist, dass am Ende des Events dann ein paar Pull Requests für diese Projekte entstehen. Ihr könnt Open Source Projekte selber mitbringen oder bei anderen Projekten mitmachen. Es werden wieder paar Maintainer von bekannten Open Source Projekten dabei sein.
+
+Falls Ihr schon damit geliebäugelt habt, bei Open-Source-Projekten mitzuwirken, seid Ihr hier genau richtig.
+
+### Programm
+
+
+Start 17:00
+
+17:00 - 17:15 Ankommen
+
+17:15 - 17:30 Vorstellung der Open Source Projekte
+
+Ort: Hauptbühne in Workadventure
+
+17:30 - 20:00 (Open End) Hacken an den Open Source Projekten
+
+Orte (Bereiche in Workadventure):
+* im Raum "log park"
+* im Raum "ci garden"
+* im Raum "root"
+* im Raum "Brunnen"
+* im Raum "Hauptbühne"
