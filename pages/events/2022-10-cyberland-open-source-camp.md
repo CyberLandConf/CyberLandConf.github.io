@@ -19,9 +19,12 @@ hideVideoRecording: true
 ### <i class="fas fa-lg fa-tv"></i> CyberLand Open Source Camp "Hacktoberfest Edition"
 
 Wir laden zum dritten Code Camp Event ein. Bei diesem Event treffen wir uns, um zusammen etwas zu Open-Source-Projekten beizusteuern. Dabei kann man einen Patch schreiben, Dokumentation erweitern, ein Tutorial schreiben o.ä.
-Das Ziel ist, dass am Ende des Events dann ein paar Pull Requests für diese Projekte entstehen. Ihr könnt Open Source Projekte selber mitbringen oder bei anderen Projekten mitmachen. Es werden wieder paar Maintainer von bekannten Open Source Projekten dabei sein.
+Das Ziel ist, dass am Ende des Events dann ein paar Pull Requests für diese Projekte entstehen. Ihr könnt Open Source Projekte selber mitbringen oder bei 
+anderen Projekten mitmachen. Es werden wieder ein paar Maintainer von bekannten Open Source Projekten dabei sein.
 
-Falls Ihr schon damit geliebäugelt habt, bei Open-Source-Projekten mitzuwirken, seid Ihr hier genau richtig.
+Falls Ihr schon damit geliebäugelt habt, bei Open-Source-Projekten mitzuwirken, seid Ihr hier genau richtig. Falls ihr Maintainer seid und für eure Open 
+Source Projekte neue Mitstreiter gewinnen möchtet, dann erfahrt ihr [hier](/open-source-camp-issues/) mehr darüber, wie wir euch im Rahmen der Open Source 
+Camps dabei unterstützen können.
 
 ### Programm
 
