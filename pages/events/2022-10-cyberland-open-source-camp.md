@@ -10,7 +10,7 @@ limit: 50
 hideVideoRecording: true
 ---
 
-![Logo](/assets/logo/camp-logo.png){:.image-max-height}
+![Logo](/assets/logo/hacktoberfest.png){:.image-max-height}
 
 ### <i class="fas fa-lg fa-calendar"></i> 04.10.2022 - 17:00
 

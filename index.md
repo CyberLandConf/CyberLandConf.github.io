@@ -7,7 +7,7 @@ title: CyberLand
 
 
 ### <i class="fas fa-calendar" /> Nächste Events
-![Logo CyberLand Opensource Camp "Hacktoberfest Edition"](/assets/logo/camp-logo.png){:.logo-small} 04.10.2022 __[CyberLand Opensource Camp "Hacktoberfest Edition"](/2022-10-open-source-camp/)__ <br>	
+![Logo CyberLand Opensource Camp "Hacktoberfest Edition"](/assets/logo/hacktoberfest.png){:.logo-small} 04.10.2022 __[CyberLand Opensource Camp "Hacktoberfest Edition"](/2022-10-open-source-camp/)__ <br>	
 ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night.jpg){:.logo-small} 07.12.2022 __[CyberLand Ladies Night Newcomer](2022-12-ladies-night-newcomer/)__
 
 
