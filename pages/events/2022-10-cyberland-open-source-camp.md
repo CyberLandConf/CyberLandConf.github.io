@@ -45,3 +45,12 @@ Orte (Bereiche in Workadventure):
 * im Raum "root"
 * im Raum "Brunnen"
 * im Raum "Hauptbühne"
+
+### Beteiligte Open Source Projekte
+
+* Ralf D. Müller mit [docToolchain](https://github.com/docToolchain/docToolchain/)
+* Kevin Wittek mit [Testcontainers](https://github.com/testcontainers/testcontainers-java)
+* Alexander Schwartz [AsciiDoctor IntelliJ Plugin](https://github.com/asciidoctor/asciidoctor-intellij-plugin)
+* Sandra Parsick [P2 Maven Plugin](https://github.com/reficio/p2-maven-plugin) und [Dependency Update Maven Plugin](https://github.com/georgberky/dependency-update-maven-plugin)
+* Markus Günther mit [Kafka for JUnit](https://www.mguenther.net/2022/10/version_3_2_1_of_kafka_junit_released/index.html)
+* oder auch Dein Projekt ...
