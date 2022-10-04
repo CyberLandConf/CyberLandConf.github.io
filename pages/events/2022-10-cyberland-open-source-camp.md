@@ -40,18 +40,21 @@ Ort: Hauptbühne in Workadventure
 17:30 - 20:00 (Open End) Hacken an den Open Source Projekten
 
 Orte (Bereiche in [Workadventure](https://world.cyberland.ijug.eu/)):
-* Die ["Hauptbühne"](https://chat.frech.info/cyberlandstage)
-* Der Raum ["log park"](https://chat.frech.info/cyberlandlogpark)
-* Der Raum[ "ci garden"](https://chat.frech.info/cyberlandcigarden)
-* Der Raum ["root"](https://chat.frech.info/cyberlandroot)
-* Am ["Brunnen"](https://chat.frech.info/cyberlandbrunnen)
+* Die ["Hauptbühne"](https://chat.frech.info/cyberlandstage): [Kafka for JUnit](https://www.mguenther.net/2022/10/version_3_2_1_of_kafka_junit_released/index.html)
+* Der Raum ["log park"](https://chat.frech.info/cyberlandlogpark) (oben links): [DB UI](https://github.com/db-ui)
+* Der Raum[ "ci garden"](https://chat.frech.info/cyberlandcigarden) (oben Mitte): [docToolchain](https://github.com/docToolchain/docToolchain/)
+* Der Raum ["root"](https://chat.frech.info/cyberlandroot) (oben rechts): [AsciiDoctor IntelliJ Plugin](https://github.com/asciidoctor/asciidoctor-intellij-plugin)
+* Am ["Brunnen"](https://chat.frech.info/cyberlandbrunnen) (links von der Bühne): [Testcontainers](https://github.com/testcontainers/testcontainers-java)
+* Am ["See"](https://chat.frech.info/cyberlandsee) (rechts von der Bühne): [Dependency Update Maven Plugin](https://github.com/georgberky/dependency-update-maven-plugin)
+* In der ["Gärtnerei (Nursery)"](https://chat.frech.info/cyberlandnursery) (zwischen Brunnen und logpark)
 
 
 ### Beteiligte Open Source Projekte
 
-* Ralf D. Müller mit [docToolchain](https://github.com/docToolchain/docToolchain/)
-* Kevin Wittek mit [Testcontainers](https://github.com/testcontainers/testcontainers-java)
-* Alexander Schwartz [AsciiDoctor IntelliJ Plugin](https://github.com/asciidoctor/asciidoctor-intellij-plugin)
-* Sandra Parsick [P2 Maven Plugin](https://github.com/reficio/p2-maven-plugin) und [Dependency Update Maven Plugin](https://github.com/georgberky/dependency-update-maven-plugin)
-* Markus Günther mit [Kafka for JUnit](https://www.mguenther.net/2022/10/version_3_2_1_of_kafka_junit_released/index.html)
+* [Ralf D. Müller](https://twitter.com/RalfDMueller) mit [docToolchain](https://github.com/docToolchain/docToolchain/)
+* [Kevin Wittek](https://twitter.com/Kiview) mit [Testcontainers](https://github.com/testcontainers/testcontainers-java)
+* [Alexander Schwartz](https://twitter.com/ahus1de) [AsciiDoctor IntelliJ Plugin](https://github.com/asciidoctor/asciidoctor-intellij-plugin)
+* [Sandra Parsick](https://twitter.com/SandraParsick) [P2 Maven Plugin](https://github.com/reficio/p2-maven-plugin) und [Dependency Update Maven Plugin](https://github.com/georgberky/dependency-update-maven-plugin)
+* [Markus Günther](https://twitter.com/markus_guenther) mit [Kafka for JUnit](https://www.mguenther.net/2022/10/version_3_2_1_of_kafka_junit_released/index.html)
+* [Maximilian Franzke](https://twitter.com/maedmaex) mit [DB UI](https://github.com/db-ui)
 * oder auch Dein Projekt ...
