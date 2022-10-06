@@ -7,7 +7,6 @@ title: CyberLand
 
 
 ### <i class="fas fa-calendar" /> Nächste Events
-![Logo CyberLand Opensource Camp "Hacktoberfest Edition"](/assets/logo/hacktoberfest.png){:.logo-small} 04.10.2022 __[CyberLand Opensource Camp "Hacktoberfest Edition"](/2022-10-open-source-camp/)__ <br>	
 ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night.jpg){:.logo-small} 07.12.2022 __[CyberLand Ladies Night Newcomer](2022-12-ladies-night-newcomer/)__
 
 
@@ -19,6 +18,7 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 04. Oktober 2022 | __[CyberLand Opensource Camp "Hacktoberfest Edition](/2022-10-open-source-camp/)__ | ![Logo CyberLand Opensource Camp "Hacktoberfest Edition"](/assets/logo/hacktoberfest.png){:.logo-small}  |
 | 30. Juni 2022 | __[CyberLand Jakarta One Livestream - German](/2022-06-jakarta-one-german/)__ | ![Logo JakartaOne German](/assets/logo/jakartaone.jpg){:.logo-small}  |
 | Juni 2022 | __[CyberLand Next Generation - Developer on the stage](/2022-06-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 09. März 2022 | __[CyberLand Next Generation](/2022-03-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
