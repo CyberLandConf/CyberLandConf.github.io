@@ -11,7 +11,7 @@ meetupId: cyberland-ladies-night-newcomer
 limit: 100
 opensBeforeInMonths: 2
 ---
-![Logo](/assets/logo/ladies_night.jpg){:.image-max-height}
+![Logo](/assets/logo/ladies_night_newcomer.png){:.image-max-height}
 
 ### <i class="fas fa-lg fa-calendar"></i> 07.12.2022
 

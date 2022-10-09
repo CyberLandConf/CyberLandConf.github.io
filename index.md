@@ -11,7 +11,7 @@ title: CyberLand
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
 | November 2022 | __[CyberLand Next Generation - Developer on the stage - Teil 2](/2022-11-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
-| 07.12.2022 | __[CyberLand Ladies Night Newcomer](/2022-12-ladies-night-newcomer/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night.jpg){:.logo-small} |
+| 07.12.2022 | __[CyberLand Ladies Night Newcomer](/2022-12-ladies-night-newcomer/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night-Newcomer.png){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
