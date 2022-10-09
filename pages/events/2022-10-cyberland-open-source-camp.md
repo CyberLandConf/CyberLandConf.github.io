@@ -3,7 +3,7 @@ layout: event
 title: CyberLand Open Source Camp "Hacktoberfest Edition"
 date: 2022-10-04 17:00
 permalink: /2022-10-open-source-camp/
-order: 12
+order: 15
 hidden: true
 meetupId: cyberland-open-source-camp-hacktoberfest22
 limit: 50

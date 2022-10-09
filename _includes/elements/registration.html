@@ -8,5 +8,5 @@
 
 <p>Bitte <strong>meldet Euch für das Event an</strong>, damit wir entsprechend planen können. Wenn Ihr bereits angemeldet seid, aber doch nicht kommen könnt, dann bitte wieder abmelden. Dann können andere von der Warteliste nachrücken.</p>
 
-<iframe src="https://registration.ijug.eu/registration?eventId={{ page.date | date: "%Y-%m-%d" }}&limit={{ page.limit }}&showPub=false&hideVideoRecording={{ page.hideVideoRecording }}" frameborder="0" width="100%" height="700" marginheight="0" marginwidth="0"></iframe>
+<iframe src="https://registration.ijug.eu/registration?eventId={{ page.date | date: "%Y-%m-%d" }}&limit={{ page.limit }}{% if page.opensBeforeInMonths %}&opensBeforeInMonths={{page.opensBeforeInMonths}}{% endif %}&showPub=false&hideVideoRecording={{ page.hideVideoRecording }}" frameborder="0" width="100%" height="700" marginheight="0" marginwidth="0"></iframe>
 {% endif %}
