@@ -4,6 +4,6 @@
   abstract: |
     folgt in Kürze
   meetupId: cyberland-ladies-night-newcomer
-  speaker-id: 'iryna-dohndorf'
+  speaker-id: 'noch-nicht'
   layout: session
 ---

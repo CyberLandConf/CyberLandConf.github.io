@@ -4,6 +4,6 @@
   abstract: |
     folgt in Kürze
   meetupId: cyberland-ladies-night-newcomer
-  speaker-id: 'zohra-zekeria'
+  speaker-id: 'noch-nicht'
   layout: session
 ---
