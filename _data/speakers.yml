@@ -147,8 +147,8 @@ Neben Uni, Familie und ein bisschen Geldverdienen bleibt zum Glück noch etwas Z
 - id: 'zohra-zekeria'
   firstName: 'Zohra'
   lastName: 'Zekeria'
-  twitter: 'ZohraZekeria'
-  bio: ''
+  twitter: ''
+  bio: 'Zohra Zekeria is a Software Developer in DEVK Versicherungen. She has a master`s degree focused in Computer Science from Technische Universität Berlin. She has been working in the IT field for more than 10 years but started Java programming in 2021. Zohra believes in constant development and she is always interested to learn and work with new technologies.'
 - id: 'iryna-dohndorf'
   firstName: 'Iryna'
   lastName: 'Dohndorf'
@@ -159,3 +159,4 @@ Neben Uni, Familie und ein bisschen Geldverdienen bleibt zum Glück noch etwas Z
   lastName: 'Rotter'
   twitter: ''
   bio: ''
+

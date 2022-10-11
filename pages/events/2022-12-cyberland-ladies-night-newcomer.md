@@ -20,7 +20,7 @@ opensBeforeInMonths: 2
 
 Die IT-Branche kämpft immer mit einen zu niedrigen Frauenanteil. Bei IT-Konferenzen äußert sich das an zu wenig Sprecherinnen, die auf der Bühne stehen. Wir wollen dabei helfen, das zu ändern. Darum haben wir einige Newcomerinnen eingeladen, die erstmals bei uns und hoffentlich auch bald auf anderen Konferenzen über spannende Themen berichten.
 
-Herzlich willkommen auf der ersten IT-Konferenz mit 100% Frauenanteil und 100% Newcomer auf der (virtuellen) Bühne. Ganz nach dem Motto, nicht meckern, einfach machen.
+Herzlich willkommen auf der ersten IT-Konferenz mit 100% Frauenanteil und 100% Newcomer auf der (virtuellen) Bühne. Ganz nach dem Motto, nicht meckern, einfach machen. Natürlich heißen wir im Publikum alle Menschen willkommen
 
 Ihr spielt auch mit dem Gedanken, mal einen Vortrag zu halten. Dann meldet Euch bei uns, wir freuen uns auf jede Newcomerin.
 
