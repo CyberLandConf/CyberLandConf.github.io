@@ -153,7 +153,7 @@ Neben Uni, Familie und ein bisschen Geldverdienen bleibt zum Glück noch etwas Z
   firstName: 'Iryna'
   lastName: 'Dohndorf'
   twitter: ''
-  bio: ''
+  bio: 'Iryna Dohndorf is a software engineer at the Karakun, which is placed in beautiful city Basel. Before joining the Karakun, I received my Doctor in Computer Science from the Technical University Dortmund in 2017 and did postdoctoral research since 2018. My research has been focused on formal methods in computer science, stochastic modeling, simulation and optimization. I have developed innovative models and algorithms to tackle the challenges in data-driven decision making under uncertainty and apply the models in multiple domains, including predictive maintanance, transportation, logistics, finance, and psychological science. I am a passionate interdisciplinary researcher and software developer and have been actively collaborating with cross-domain researchers, computer scientists and engineers. My most recent publication is `A Blockchain-Based Approach to Provenance and Reproducibility in Research Workflows.` After my postdoc, I worked as a software developer, researcher and scientific advisor at the university library of the Ruhr University Bochum, where I developed software using Java technologies, among others.'
 - id: 'isabelle-rotter'
   firstName: 'Isabelle'
   lastName: 'Rotter'
