@@ -37,15 +37,16 @@ Diese Events sind die Fortsetzung diverser CyberLand Next Generation Veranstaltu
 - roten Faden definieren
 - in die Teilnehmer hineinversetzen
 - Geschichte erzählen
-- Einplanen Livecoding, wenn relevant
+- Einplanen von Codebeispielen und optional Livecoding (wenn relevant)
 
 🌗 Session 2: Mi. 09.11.2022 19:00 - Vortrag vorbereiten
-- Werkzeuge für Folien
+- Werkzeuge für die Erstellung der Folien
 - Umgang mit Bildern
-- Sprechernotizen befüllen
-- Livecoding planen oder Screencast aufzeichnen
+- Sprechernotizen anlegen
+- Codebeispiele aufbereiten
+- optional Livecoding planen oder Screencast aufzeichnen
 
-🌝 Session 3:  Mi. 16.11.2022 19:00 - Generalprobe
+🌝 Session 3: Mi. 16.11.2022 19:00 - Generalprobe
 - Probevortrag vor der Familie/Freunden, Kollegen oder bei Usergroups
 - Unterschiede zw. Präsenz bzw. Remote- oder Hybrid-Durchführung
 - Feedback einfordern
@@ -53,7 +54,7 @@ Diese Events sind die Fortsetzung diverser CyberLand Next Generation Veranstaltu
 
 ✨ Session 4: Mi. 23.11.2022 19:00 - Vortrag halten
 - Zeitmanagement
-- auf mögliche Probleme vorbeiretet sein
+- auf mögliche Probleme vorbereitet sein
 - Umgang mit Fragen
 - Feedback annehmen
 
