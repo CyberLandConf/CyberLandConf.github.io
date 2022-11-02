@@ -4,7 +4,7 @@ title: CyberLand Next Generation - Developer on the stage Meetups
 summary: Bei den vier Meetups im November sprechen wir über alle Themen rund um die Vorbereitung und das Halten von Vorträgen auf Konferenzen.
 logo: nextGen.jpg
 date: 2022-11-02 19:00
-duration: 16
+duration: 1
 permalink: /2022-11-next-generation/
 order: 14
 hidden: true
