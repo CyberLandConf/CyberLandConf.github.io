@@ -27,5 +27,4 @@ Wir sind Teil der deutschsprachigen Java Community. Weil die JavaLand 2020 aufgr
 
 {%- include elements/orga-grid.html organizers=others rows=4 -%}
 
-
-{%- include elements/jugs.md -%}
+{%- include elements/usergroups.html -%}

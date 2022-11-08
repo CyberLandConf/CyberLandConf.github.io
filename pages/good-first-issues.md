@@ -40,4 +40,4 @@ com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-co
 Ihr könnt eure Einreichungen [hier](https://cloud.ijug.eu/index.php/apps/forms/CRCgcH8bfZybGoAo) vornehmen. Hier noch einmal unser [Template](https://gist.github.com/hendrikebbers/8e4dec9ddea5e2a420080d1314af025f) als 
 Inspiration für eure Einreichungen.
 
-{%- include elements/jugs.md -%}
+{%- include elements/usergroups.html -%}

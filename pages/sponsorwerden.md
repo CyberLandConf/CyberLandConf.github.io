@@ -17,5 +17,4 @@ Die Cyberland ist ein offizieller Teil des iJUG e. V. (Dachverband der deutschsp
 
 Bitte meldet Euch bei Interesse oder Fragen per [E-Mail](mailto:cyberland@ijug.eu).  
 
-
-{%- include elements/jugs.md -%}
+{%- include elements/usergroups.html -%}
