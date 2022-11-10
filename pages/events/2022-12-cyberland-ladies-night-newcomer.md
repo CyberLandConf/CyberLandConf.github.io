@@ -1,7 +1,8 @@
 ---
 layout: event
 title: CyberLand Ladies Night Newcomer 07. Dezember 2022
-date: 2022-12-07 18:00
+date: 2022-12-07 17:30
+duration: 3
 permalink: /2022-12-ladies-night-newcomer/
 redirect_from:
   - /2022-12/
