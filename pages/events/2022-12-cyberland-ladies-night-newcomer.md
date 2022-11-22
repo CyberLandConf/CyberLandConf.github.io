@@ -34,14 +34,16 @@ Den Zugang zu unserer [Konferenzplattform](https://world.ijug.eu/) erhalten alle
 | Uhrzeit  | Raum 1| Raum 2 | 
 | ----- | -------------- | -------------- | -------------- |
 | Stream  | <a href="https://cyberland.ijug.eu/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="https://cyberland.ijug.eu/stream/2"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | 
-| 17:30 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
-| 18:00 | {%- include elements/timetable-field.html session-id="session-42" -%} | {%- include elements/timetable-field.html session-id="session-43" -%} | 
-| 18:45 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-| 19:15 | {%- include elements/timetable-field.html session-id="session-44" -%} | {%- include elements/timetable-field.html session-id="session-45" -%} | 
-| ab 20:00 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
+| 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
+| 17:30 | {%- include elements/timetable-field.html session-id="session-42" -%} | {%- include elements/timetable-field.html session-id="session-43" -%} | 
+| 18:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
+| 18:30 | {%- include elements/timetable-field.html session-id="session-44" -%} | {%- include elements/timetable-field.html session-id="session-45" -%} | 
+| 19:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
+| 19:30 | {%- include elements/timetable-field.html session-id="session-46" -%} | tbd | 
+| ab 20:15 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
 
 ### <i id="sprecher" class="fas fa-user"></i> Sprecherinnen
 
-{%- include elements/session-grid.html spaltenAnzahl=4 start=42 ende=45 -%}
+{%- include elements/session-grid.html spaltenAnzahl=4 start=42 ende=46 -%}
 
 <hr />
