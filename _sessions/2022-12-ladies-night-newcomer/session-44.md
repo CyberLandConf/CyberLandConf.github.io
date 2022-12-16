@@ -7,4 +7,5 @@
   meetupId: cyberland-ladies-night-newcomer
   speaker-id: 'zohra-zekeria'
   layout: session
+  slides: "ZohraZekeria-AutomatedSource-CodeRefactoring.pdf"
 ---
