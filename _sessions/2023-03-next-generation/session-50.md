@@ -1,13 +1,11 @@
 ---
   session-id: 'session-50'
-  title: "Wir haben jetzt Mob Programming, wir sind gerettet - oder etwa nicht?"
+  title: "Real Life IoT - eine Anwendung robust genug für den Shop Floor machen"
   abstract: |
-    Neben den täglichen technischen Herausforderungen von uns Entwickler:innen kommen auch immer mal wieder neue methodische Ansätze hinzu. Aktuell liegt Mob oder Ensemble Programming hier im Trend und findet Einkehr in immer mehr Entwicklungsteams. Die Herausforderung ist es, Wissen im Team zu verteilen, ohne langwierige Übergabe-Sessions mit Kolleg:innen zu haben. Dafür sind Methoden wie Pair oder Mob Programming entstanden.
+    Mit wenigen Features lässt sich eine Anwendung einfach und selbsterklärend gestalten. Aber ist das wirklich immer so? Bei Industrie 4.0-Anwendungen haben wir gelernt, dass es nicht nur wenige Features sein müssen, sondern die richtigen. Ganz nach dem Motto „Eine Oberfläche ist wie ein Witz. Wenn man ihn erklären muss, ist er nicht witzig“.
 
-    Aus der Sichtweise diverser Rollen erscheint die Methode ineffizient. Für andere jedoch ist sie genau die Lösung, um Wissen zu verteilen und den Bus-Faktor groß zu halten. Erfahrungen zeigen, dass es nicht allein das “Allheilmittel” ist, aber eine gute und ernst zu nehmende Ergänzung im Alltag von agilen Entwicklungsteams sein kann.
-
-    In dieser Session lernen die Teilnehmer:innen, was Mob Programming und der Bus-Faktor sind. Welche Vorteile, aber auch welche Nachteile entstehen und wann es zur Frustration kommen kann. Es wird berichtet, welche Ansätze gut und welche eher schlechter funktioniert haben und wie man die Methode am besten in den Entwickler:innen-Alltag einbezieht. Es soll die Teilnehmer:innen inspirieren, diese Methode in Ihren Alltag mitzunehmen und dabei wertvolle Tipps für den Start zu bekommen.  
+    Anhand einer IoT-App zur Zählung von Massenteilen möchte ich aufzeigen, wie kleine Anpassungen der UX zu einem besseren Verständnis und somit zur Akzeptanz der Anwendung geführt haben. Der Weg dorthin führt von einer Low-Code-Anwendung zur Eigenentwicklung und erleichtert den Nutzenden nun einen großen Teil ihrer Arbeit. Das Reporting von Massenteilen ist anstatt einem weiten und teilweise risikoreichen Weg zur Waage jetzt nur einen Klick entfernt.  
   meetupId: cyberland-ng-3
-  speaker-id: 'florian-schneider'
+  speaker-id: 'jennifer-mueller'
   layout: session
 ---

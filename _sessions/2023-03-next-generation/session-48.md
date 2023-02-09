@@ -1,13 +1,13 @@
 ---
   session-id: 'session-48'
-  title: "Testen ist mehr als die Testing Pyramide - Tipps und Erfahrungen aus der Praxis"
+  title: "Wir haben jetzt Mob Programming, wir sind gerettet - oder etwa nicht?"
   abstract: |
-    Heutzutage sind wir in der Softwareentwicklung mit einer Vielzahl an Anforderungen konfrontiert: Unternehmen verlangen eine ausgeklügelte, perfekt funktionierende Software, User beachten hauptsächlich innovative, kreative und intuitive Oberflächen. Wenn alle diese Anforderungen in kürzester Zeit zur Verfügung stehen sollen, ist ein Umdenken unserer Arbeitsweise essentiell: bei der Entwicklung und beim Testen.
+    Neben den täglichen technischen Herausforderungen von uns Entwickler:innen kommen auch immer mal wieder neue methodische Ansätze hinzu. Aktuell liegt Mob oder Ensemble Programming hier im Trend und findet Einkehr in immer mehr Entwicklungsteams. Die Herausforderung ist es, Wissen im Team zu verteilen, ohne langwierige Übergabe-Sessions mit Kolleg:innen zu haben. Dafür sind Methoden wie Pair oder Mob Programming entstanden.
 
-    In meinem Vortrag zeige ich daher, wie wir das Testen möglichst effizient gestalten können. Was sind die Stellschrauben, um Qualität auf höchster Ebene zu gewährleisten und gleichzeitig Zeit und Ressourcen knapp einzusetzen? Welche organisatorischen und technischen Mittel lassen uns schneller ans Ziel kommen? Ist die klassische Testpyramide das Mittel der Wahl oder gibt es bessere Alternativen? Wie schreiben wir Code, der Routinechecks automatisch für uns erledigt? Wie können wir pragmatische Lösungen finden und umsetzen? Und bei all dem, wie schaffen wir es, dass uns Testen Spaß bringt?
+    Aus der Sichtweise diverser Rollen erscheint die Methode ineffizient. Für andere jedoch ist sie genau die Lösung, um Wissen zu verteilen und den Bus-Faktor groß zu halten. Erfahrungen zeigen, dass es nicht allein das “Allheilmittel” ist, aber eine gute und ernst zu nehmende Ergänzung im Alltag von agilen Entwicklungsteams sein kann.
 
-    Aus den Best Practices des cronner Alltags zeige ich in meinem Vortrag praktische Code-Beispiele, organisatorische Konzepte und Methoden.  
+    In dieser Session lernen die Teilnehmer:innen, was Mob Programming und der Bus-Faktor sind. Welche Vorteile, aber auch welche Nachteile entstehen und wann es zur Frustration kommen kann. Es wird berichtet, welche Ansätze gut und welche eher schlechter funktioniert haben und wie man die Methode am besten in den Entwickler:innen-Alltag einbezieht. Es soll die Teilnehmer:innen inspirieren, diese Methode in Ihren Alltag mitzunehmen und dabei wertvolle Tipps für den Start zu bekommen.  
   meetupId: cyberland-ng-3
-  speaker-id: 'pauline-schulze'
+  speaker-id: 'florian-schneider'
   layout: session
 ---

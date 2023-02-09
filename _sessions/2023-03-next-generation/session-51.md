@@ -1,11 +1,11 @@
 ---
   session-id: 'session-51'
-  title: "Real Life IoT - eine Anwendung robust genug für den Shop Floor machen"
+  title: "Mayday, Mayday Kunde spricht kein Java"
   abstract: |
-    Mit wenigen Features lässt sich eine Anwendung einfach und selbsterklärend gestalten. Aber ist das wirklich immer so? Bei Industrie 4.0-Anwendungen haben wir gelernt, dass es nicht nur wenige Features sein müssen, sondern die richtigen. Ganz nach dem Motto „Eine Oberfläche ist wie ein Witz. Wenn man ihn erklären muss, ist er nicht witzig“.
+    Ein richtig gutes Projekt steht und fällt mit der Kommunikation zwischen allen Beteiligten. Allerdings heißt für Kunden, Stakeholder und Entwickler oft agil oder testen etwas ganz anderes und es scheitert am gemeinsamen Verständnis. Gute Kommunikation heißt entspannt in ein Gespräch rein zu gehen, Konsens zu schaffen und einige Stunden Arbeit zu sparen.
 
-    Anhand einer IoT-App zur Zählung von Massenteilen möchte ich aufzeigen, wie kleine Anpassungen der UX zu einem besseren Verständnis und somit zur Akzeptanz der Anwendung geführt haben. Der Weg dorthin führt von einer Low-Code-Anwendung zur Eigenentwicklung und erleichtert den Nutzenden nun einen großen Teil ihrer Arbeit. Das Reporting von Massenteilen ist anstatt einem weiten und teilweise risikoreichen Weg zur Waage jetzt nur einen Klick entfernt.  
+    Zum Glück hat die Psychologie mittlerweile eine Menge Studien zusammengetragen, die uns dabei helfen können, uns verständlich auszudrücken. In diesem Talk erfährst du, wie du vom ersten Treffen an eine angenehme Grundhaltung schaffen kannst. Nach einem Ausflug in die Welt der Körpersprache lernst du die self-perception theory nach Darley Bem kennen, mit der du dein eigenes Mindset neu ausrichten kannst. Wir schauen uns an, was das Gehirn braucht, um sich Informationen besser merken zu können und wie wir die richtigen Worte finden, um unseren Sprach- und Verhaltens Code für Kunden zu decodieren.  
   meetupId: cyberland-ng-3
-  speaker-id: 'jennifer-mueller'
+  speaker-id: 'isabelle-rotter'
   layout: session
 ---
