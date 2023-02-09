@@ -16,7 +16,7 @@ opensBeforeInMonths: 2
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell <span style="font-size: 0.6em;">[<i class="fas fa-lg fa-link"></i> Weitere Infos](#-wichtige-informationen)</span>
 
-Die JavaLand findet vom 21. bis 23. März 2023 wieder im Phantasialand statt. Mit dabei sind diesmal 9 Newcomer, die erstmals auf einer Konferenz einen Vortrag halten. Sechs von Ihnen haben wir zu dieser CyberLand Next Generation Veranstaltung eingeladen, ihren Vortrag in einer Art Sneaky Preview vorab zu halten. Es sind sehr spannende Themen dabei. Unsere Sprecherinnen und Sprecher haben sich in den letzten Wochen intensiv auf das große Ereignis vorbereitet und freuen sich natürlich über Euer Feedback. Verbesserungsvorschläge sind sehr willkommen und können so noch bis zur JavaLand eingearbeitet werden.
+Die JavaLand findet vom 21. bis 23. März 2023 wieder im Phantasialand statt. Mit dabei sind diesmal 9 Newcomer, die erstmals auf einer Konferenz einen Vortrag halten. Fünf von Ihnen haben wir zu dieser CyberLand Next Generation Veranstaltung eingeladen, ihren Vortrag in einer Art Sneaky Preview vorab zu halten. Es sind sehr spannende Themen dabei. Unsere Sprecherinnen und Sprecher haben sich in den letzten Wochen intensiv auf das große Ereignis vorbereitet und freuen sich natürlich über Euer Feedback. Verbesserungsvorschläge sind sehr willkommen und können so noch bis zur JavaLand eingearbeitet werden.
 
 Nach den Vorträgen wollen wir uns noch ungezwungen austauschen. Erfahrene Sprecher verraten Tipps und Tricks und diskutieren mit Euch alle Fragen rundum Public Speaking. Und vielleicht können wir den einen oder anderen von Euch animieren, ebenfalls den Schritt auf die Bühne zu wagen. Die nächste JavaLand im März 2024 sucht wieder mutige Newcomer, die von einem erfahrenen Mentor unterstützt werden.
 
@@ -33,11 +33,11 @@ Das Event findet wieder in unserer **virtuellen Welt in Workadventure** ([https:
 | 18:45 | __Pause__ - Kurz virtuell die Beine vertreten ... | |
 | 19:00 | {%- include elements/timetable-field.html session-id="session-48" -%} | {%- include elements/timetable-field.html session-id="session-51" -%} |
 | 19:45 | __Pause__ - Kurz virtuell die Beine vertreten ... | |
-| 20:00 | {%- include elements/timetable-field.html session-id="session-49" -%} | {%- include elements/timetable-field.html session-id="session-52" -%} |
+| 20:00 | {%- include elements/timetable-field.html session-id="session-49" -%} | |
 | 20:45 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
 
 ### <i class="fas fa-user"></i> Sprecher
 
-{%- include elements/session-grid.html spaltenAnzahl=4 start=47 ende=52 -%}
+{%- include elements/session-grid.html spaltenAnzahl=4 start=47 ende=51 -%}
 
 <hr />
