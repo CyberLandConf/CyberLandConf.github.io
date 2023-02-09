@@ -10,8 +10,7 @@ title: CyberLand
 
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
-| November 2022 | __[CyberLand Next Generation - Developer on the stage - Teil 2](/2022-11-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
-| 07.12.2022 | __[CyberLand Ladies Night Newcomer](/2022-12-ladies-night-newcomer/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night-Newcomer.png){:.logo-small} |
+| 08. März 2023 | __[CyberLand Next Generation](/2023-03-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
@@ -20,10 +19,11 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 07.12.2022 | __[CyberLand Ladies Night Newcomer](/2022-12-ladies-night-newcomer/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night-Newcomer.png){:.logo-small} |
+| November 2022 | __[CyberLand Next Generation - Developer on the stage - Teil 2](/2022-11-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 04. Oktober 2022 | __[CyberLand Opensource Camp "Hacktoberfest Edition](/2022-10-open-source-camp/)__ | ![Logo CyberLand Opensource Camp "Hacktoberfest Edition"](/assets/logo/hacktoberfest.png){:.logo-small}  |
 | 30. Juni 2022 | __[CyberLand Jakarta One Livestream - German](/2022-06-jakarta-one-german/)__ | ![Logo JakartaOne German](/assets/logo/jakartaone.jpg){:.logo-small}  |
 | Juni 2022 | __[CyberLand Next Generation - Developer on the stage](/2022-06-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
-| 09. März 2022 | __[CyberLand Next Generation](/2022-03-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 15. Dezember 2021 | __[CyberLand Opensource Camp Advent Pu(n)sh](/2021-12-open-source-camp/)__ |  ![Logo CyberLand Opensource Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 29. September 2021 | __[CyberLand Opensource Camp](/2021-09-open-source-camp/)__ |  ![Logo CyberLand Opensource Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 14. September 2021 | __[CyberLand Java 17 Release Party](/2021-09-java-17-release-party/)__ |  ![Logo CyberLand Java 17 Release Party](/assets/logo/java-17-release-party.png){:.logo-small} |
