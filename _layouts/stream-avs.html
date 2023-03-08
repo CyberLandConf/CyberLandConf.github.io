@@ -14,8 +14,18 @@ const options = {
   width: '100%',
   height: '100%',
   configOverwrite: { 
+    disableModeratorIndicator : true,
     startWithAudioMuted: true, 
-    startWithVideoMuted: true
+    startWithVideoMuted: true,
+    toolbarButtons: ['microphone', 'camera', 'fullscreen', 'noisesuppression','participants-pane','profile','raisehand','select-background','tileview','toggle-camera', 'videoquality'],
+    participantsPane: {
+      hideModeratorSettingsTab: true,
+      hideMoreActionsButton: true,
+      hideMuteAllButton: true,
+    }
+  },
+  interfaceConfigOverwrite: {
+    DEFAULT_BACKGROUND: '#ffffff'
   },
   parentNode: document.getElementById('meet')
 };
