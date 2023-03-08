@@ -13,6 +13,10 @@ const options = {
   roomName: '{{ page.meet }}',
   width: '100%',
   height: '100%',
+  configOverwrite: { 
+    startWithAudioMuted: true, 
+    startWithVideoMuted: true
+  }
   parentNode: document.getElementById('meet')
 };
 const api = new JitsiMeetExternalAPI('avs.ijug.eu', options);
