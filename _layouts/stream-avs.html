@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="section">
+    <div class="container session-details">
+        <h1 class="room-title">{{ page.room }}</h1>
+        <div id="meet" style="height:80vh"></div>
+    </div>
+</div>
+<script src="https://avs.ijug.eu/external_api.js"></script>
+<script>
+const options = {
+  roomName: '{{ page.meet }}',
+  width: '100%',
+  height: '100%',
+  parentNode: document.getElementById('meet')
+};
+const api = new JitsiMeetExternalAPI('avs.ijug.eu', options);
+</script>
