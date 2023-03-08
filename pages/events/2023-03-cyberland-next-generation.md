@@ -27,7 +27,7 @@ Das Event findet wieder in unserer **virtuellen Welt in Workadventure** ([https:
 {:.table}
 | TIME  | Raum 1 | Raum 2 |
 | ----- | -------------- | -------------- |
-| Stream  | <a href="/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum "log park"</a> | <a href="/stream/2"><i class="fas fa-lg fa-link"></i> Stream "ci garden"</a> |
+| Stream  | Stream Raum "log park" | Stream "ci garden" |
 | 17:30 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
 | 18:00 | {%- include elements/timetable-field.html session-id="session-47" -%} | {%- include elements/timetable-field.html session-id="session-50" -%} |
 | 18:45 | __Pause__ - Kurz virtuell die Beine vertreten ... | |
