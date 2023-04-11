@@ -7,11 +7,7 @@ order: 97
 ---
 ## Eure Issues für die CyberLand Open Source Camps
 
-Unser Ziel in den Open Source Camps ist es gemeinsam mit der Community an Open Source Projekten zu arbeiten und neuen Leuten mit den ersten 
-Schritten in 
-der 
-Open Source 
-Entwicklung zu helfen.
+Unser Ziel in den Open Source Camps ist es gemeinsam mit der Community an Open Source Projekten zu arbeiten und neuen Leuten mit den ersten Schritten in der Open Source Entwicklung zu helfen.
 
 Dafür benötigen wir aber eure Hilfe: Neben unseren Open Source Camps (zum Beispiel unsere [Hacktoberfest Edition 2022](/2022-10-open-source-camp/)) möchten wir auf der Cyberland Webseite eine möglichst gute Liste von Issues zum Einstieg in die Open Source Entwicklung anbieten. Diese Issues müssen einigen Ansprüchen genügen,
 da sie nicht nur eine möglich geringe Hürde zum Einstieg bieten sollen sondern auch durch zusätzliche Infos, Step-By-Step Anleitungen etc. alles beinhalten 
@@ -36,8 +32,5 @@ com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-co
 * Die Issues für unsere Listen müssen möglichst selbsterklärten sein und dürfen keine große Hürde bei der Bearbeitung mitbringen
 * Ihr müsst Spaß an Open Source haben
 
-## Wir freuen uns auf eure ganzen tollen Einreichungen!
-Ihr könnt eure Einreichungen [hier](https://cloud.ijug.eu/index.php/apps/forms/CRCgcH8bfZybGoAo) vornehmen. Hier noch einmal unser [Template](https://gist.github.com/hendrikebbers/8e4dec9ddea5e2a420080d1314af025f) als 
-Inspiration für eure Einreichungen.
 
 {%- include elements/usergroups.html -%}
