@@ -37,7 +37,7 @@ Ort: Hauptbühne in Workadventure
 
 18:30 - 20:00 (Open End) Hacken an den Open Source Projekten
 
-Orte (Bereiche in [Workadventure](https://world.cyberland.ijug.eu/)):
+Orte (Bereiche in [Workadventure](https://world.ijug.eu/)):
 * Die ["Hauptbühne"](https://chat.frech.info/cyberlandstage)
 * Der Raum ["log park"](https://chat.frech.info/cyberlandlogpark) (oben links)
 * Der Raum[ "ci garden"](https://chat.frech.info/cyberlandcigarden) (oben Mitte)
