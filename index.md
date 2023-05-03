@@ -10,9 +10,9 @@ title: CyberLand
 
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
-| 04. Mai 2023 | __[CyberLand Next Code Camp]( /2023-05-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
-| 06. Juni 2023 | __[CyberLand Next Code Camp]( /2023-06-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
-| 05. Juli 2023 | __[CyberLand Next Code Camp]( /2023-07-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 04. Mai 2023 | __[CyberLand Code Camp]( /2023-05-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 06. Juni 2023 | __[CyberLand Code Camp]( /2023-06-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 05. Juli 2023 | __[CyberLand Code Camp]( /2023-07-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
