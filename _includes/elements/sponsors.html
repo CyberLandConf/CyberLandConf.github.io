@@ -1,0 +1,14 @@
+
+<hr />
+
+<h3 id="-diese-initiative-wird-unterstützt-von"><i class="fas fa-lg fa-heart"></i> Wir werden gesponsert von:</h3>
+
+<p>
+    {% for sponsor in site.data.sponsors %}
+    <a href="{{ sponsor[1].url }} "><img src="/assets/logo/{{ sponsor[0] }}.png" alt="{{ sponosr[0] }} " class="jug-logo" /></a>
+    {% assign modulo4 = forloop.index | modulo: 4 %}
+    {% if modulo4 == 0 %}<br/>{% endif %}
+    {% endfor %}
+</p>
+
+<p>Deine Firma möchtet die Veranstaltung unterstützen? Dann meldet Euch bei uns…  </p>
