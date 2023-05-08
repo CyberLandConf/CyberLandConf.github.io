@@ -5,7 +5,7 @@
 
 <p>
     {% for sponsor in site.data.sponsors %}
-    <a href="{{ sponsor[1].url }} "><img src="/assets/logo/{{ sponsor[0] }}.png" alt="{{ sponosr[0] }} " class="jug-logo" /></a>
+    <a href="{{ sponsor[1].url }} "><img src="/assets/logo/{% if sponsor[1].logo %}{{sponsor[1].logo}}{% else %}{{ sponsor[0] }}.png{% endif %}" alt="{{ sponosr[0] }} " class="sponsor-logo" /></a>
     {% assign modulo4 = forloop.index | modulo: 4 %}
     {% if modulo4 == 0 %}<br/>{% endif %}
     {% endfor %}
