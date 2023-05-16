@@ -32,22 +32,22 @@ Diese Events sind die Fortsetzung diverser CyberLand Next Generation Veranstaltu
 
 ### Themen/Sessions  
 
-🚀  Session 1: Mi. 06.06.2023 19:00 - Themenfindung
+🚀  Session 1: Di. 06.06.2023 19:00 - Themenfindung
 - Wie findest du dein Thema?
 - Was brauchst du für den Start?
 - Was ist ein guter Titel?
 
-🌗  Session 2: Mi. 13.06.2023 19:00 - Bring your own Abstract
+🌗  Session 2: Di. 13.06.2023 19:00 - Bring your own Abstract
 - Was macht einen guten Abstract aus?
 - Wem muss dein Abstract überzeugen?
 - Praxis Tipps zum einreichen des Abstracts!
 
-🌝 Session 3:  Mi. 20.06.2023 19:00 - Bring your own Bio
+🌝 Session 3:  Di. 20.06.2023 19:00 - Bring your own Bio
 - Was gehört in eine Bio?
 - Wer sind die Leser deiner Bio?
 - Was ermöglicht dir eine coole Bio?
 
-✨ Session 4: Mi. 27.06.2023 19:00 - Wo und wie einreichen
+✨ Session 4: Di. 27.06.2023 19:00 - Wo und wie einreichen
 - Wo kannst du überall deinen Vortrag einreichen?
 - Wie sehen die Termine und Ablauf aus?
 - Welche Plattformen helfen dir dabei?
