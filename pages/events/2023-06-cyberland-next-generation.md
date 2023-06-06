@@ -22,11 +22,13 @@ Es wird zunächst __vier Termine__ (jeweils 60 Minuten) geben, in denen es um da
 
 Alle Infos (Zugangsdaten, Details, ...) findet ihr im __[Discord-Channel](https://discord.gg/NAu4Gh3c2q)__ der "Developer on the stage"-Initiative. Dort wird es vor und nach den Terminen auch einen begleitenden Austausch geben.
 
+[Link zum Zoom-Meeting](https://us06web.zoom.us/j/89833429356?pwd=bTExYW1GQUtmbTY2Z1pYRHBMNWkwQT09)
+
 Übrigens, die Termine bauen aufeinander auf und es wird dazwischen auch immer eine kleine Hausaufgabe geben. Willkommen sind sowohl Neulinge, die noch keinen öffentlichen Vortrag vor größerem Publikum gehalten haben, als auch (erfahrene) Sprecher von User Group Treffen und/oder Konferenzen. 
 
 Wir wollen __voneinander lernen__ und hoffentlich auch einige animieren, den Schritt auf die Bühne zu wagen. Seid unbedingt dabei und lernt von __bekannten Konferenzsprechern__, die Euch als Mentoren ihre Tipps und Tricks verraten und auf eure Fragen und möglichen Sorgen eingehen werden.
 
-Diese Events sind die Fortsetzung diverser CyberLand Next Generation Veranstaltungen. Nach der ersten Session im April 2021 haben wir in Zusammenarbeit mit __[Developer on the stage](https://developeronthestage.com/#additional)__ bereits im Herbst 2021 eine Meetup-Reihe durchgeführt und dort mehrere Newcomer auf ihren ersten Vortrag vorbereitet. Neben den dort verfügbaren Videoaufzeichnungen sei allen Neulinge auch das gleichnamige __[Buch](https://www.amazon.com/-/en/dp/B096DTGWJN/)__ ans Herz gelegt.
+Diese Events sind die Fortsetzung diverser CyberLand Next Generation Veranstaltungen. Nach der ersten Session im April 2021 haben wir in Zusammenarbeit mit __[Developer on the stage](https://developeronthestage.com/#additional)__ bereits im Herbst 2021 eine und im 2022 zwei Meetup-Reihe durchgeführt und dort mehrere Newcomer auf ihren ersten Vortrag vorbereitet. Neben den dort verfügbaren Videoaufzeichnungen sei allen Neulinge auch das gleichnamige __[Buch](https://www.amazon.com/-/en/dp/B096DTGWJN/)__ ans Herz gelegt.
 
 [![Developer on the stage - Buch](/assets/images/dots-book.png){:.logo-small}](https://www.amazon.com/-/en/dp/B096DTGWJN/)
 
