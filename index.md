@@ -11,7 +11,6 @@ title: CyberLand
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
 | Juni 2023 | __[CyberLand Next Generation - Developer on the stage](/2023-06-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
-| 06. Juni 2023 | __[CyberLand Code Camp]( /2023-06-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 05. Juli 2023 | __[CyberLand Code Camp]( /2023-07-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
@@ -21,6 +20,7 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 06. Juni 2023 | __[CyberLand Code Camp]( /2023-06-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 04. Mai 2023 | __[CyberLand Code Camp]( /2023-05-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 08. März 2023 | __[CyberLand Next Generation](/2023-03-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 07.Dezember 2022 | __[CyberLand Ladies Night Newcomer](/2022-12-ladies-night-newcomer/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night-Newcomer.png){:.logo-small} |
