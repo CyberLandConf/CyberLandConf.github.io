@@ -1,0 +1,47 @@
+---
+layout: event
+title: CyberLand Ladies Night
+date: 2023-11-02 17:30
+duration: 3
+permalink: /2023-11-ladies-night/
+order: 17
+hidden: true
+meetupId: cyberland-ladies-night
+limit: 100
+opensBeforeInMonths: 2
+---
+![Logo](/assets/logo/ladies_night.jpg){:.image-max-height}
+
+### <i class="fas fa-lg fa-calendar"></i> 02.11.2023
+
+### <i class="fas fa-lg fa-globe"></i> Virtuell <span style="font-size: 0.6em;">
+
+
+Immer wieder beschwert sich die IT-Branche über die Tatsache, dass auf IT-Konferenzen zu wenig Frauen auf der Bühne stehen. Wir meckern nicht mit, sondern ändern es einfach.
+
+Herzlich willkommen auf der IT-Konferenz mit 100% Frauenanteil auf der Bühne. Ganz nach dem Motto, nicht meckern, einfach machen.
+
+Ihr spielt auch mit dem Gedanken, mal einen Vortrag zu halten. Dann meldet Euch bei uns, wir freuen uns auf jede Newcomerin.
+
+
+### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
+
+Den Zugang zu unserer [Konferenzplattform](https://world.ijug.eu/) erhalten alle Registrierten. Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
+
+{:.table}
+| Uhrzeit  | Raum 1| Raum 2 | 
+| ----- | -------------- | -------------- | -------------- |
+| Stream  | <a href="https://meet.ijug.eu/cyberlandlogpark"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="https://meet.ijug.eu/cyberlandcigarden"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | 
+| 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
+| 17:30 | tbd | tbd | 
+| 18:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
+| 18:30 | tbd | tbd | 
+| 19:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
+| 19:30 | tbd | tbd | 
+| ab 20:15 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
+
+### <i id="sprecher" class="fas fa-user"></i> Sprecherinnen
+
+{%- include elements/session-grid.html spaltenAnzahl=3 start=52 ende=57 -%}
+
+<hr />

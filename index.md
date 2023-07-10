@@ -11,6 +11,7 @@ title: CyberLand
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
 | 11. Oktober 2023  | __[CyberLand Code Camp]( /2023-10-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 02. November 2021 | __[CyberLand Ladies Night](2023-11-ladies-night/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night.jpg){:.logo-small} |
 | 08. November 2023 | __[CyberLand Code Camp]( /2023-11-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 13. Dezember 2023 | __[CyberLand Code Camp]( /2023-12-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 
