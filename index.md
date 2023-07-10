@@ -10,8 +10,9 @@ title: CyberLand
 
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
-| Juni 2023 | __[CyberLand Next Generation - Developer on the stage](/2023-06-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
-| 05. Juli 2023 | __[CyberLand Code Camp]( /2023-07-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 11. Oktober 2023  | __[CyberLand Code Camp]( /2023-10-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 08. November 2023 | __[CyberLand Code Camp]( /2023-11-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 13. Dezember 2023 | __[CyberLand Code Camp]( /2023-12-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
@@ -20,6 +21,8 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 05. Juli 2023 | __[CyberLand Code Camp]( /2023-07-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| Juni 2023 | __[CyberLand Next Generation - Developer on the stage](/2023-06-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 06. Juni 2023 | __[CyberLand Code Camp]( /2023-06-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 04. Mai 2023 | __[CyberLand Code Camp]( /2023-05-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 08. März 2023 | __[CyberLand Next Generation](/2023-03-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
