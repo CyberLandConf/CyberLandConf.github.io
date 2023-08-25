@@ -35,7 +35,7 @@ Den Zugang zu unserer [Konferenzplattform](https://world.ijug.eu/) erhalten alle
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
 | 17:30 |  {%- include elements/timetable-field.html session-id="session-52" -%} | tbd | 
 | 18:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-| 18:30 | tbd | tbd | 
+| 18:30 |  {%- include elements/timetable-field.html session-id="session-53" -%}  | tbd | 
 | 19:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
 | 19:30 | tbd | tbd | 
 | ab 20:15 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
