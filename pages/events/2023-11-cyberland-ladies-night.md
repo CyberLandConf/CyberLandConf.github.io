@@ -33,7 +33,7 @@ Den Zugang zu unserer [Konferenzplattform](https://world.ijug.eu/) erhalten alle
 | ----- | -------------- | -------------- | -------------- |
 | Stream  | <a href="https://meet.ijug.eu/cyberlandlogpark"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="https://meet.ijug.eu/cyberlandcigarden"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | 
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
-| 17:30 | tbd | tbd | 
+| 17:30 |  {%- include elements/timetable-field.html session-id="session-52" -%} | tbd | 
 | 18:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
 | 18:30 | tbd | tbd | 
 | 19:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
