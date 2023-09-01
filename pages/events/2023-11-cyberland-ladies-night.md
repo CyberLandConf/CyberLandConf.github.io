@@ -46,7 +46,7 @@ Access to our [conference platform](https://world.ijug.eu/) is available to all 
 | 18:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
 | 18:30 |  {%- include elements/timetable-field.html session-id="session-53" -%}  | tbd | 
 | 19:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-| 19:30 | tbd | tbd | 
+| 19:30 | {%- include elements/timetable-field.html session-id="session-54" -%}  | tbd | 
 | ab 20:15 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
 
 ### <i id="sprecher" class="fas fa-user"></i> Sprecherinnen
