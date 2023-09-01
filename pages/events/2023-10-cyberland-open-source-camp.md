@@ -49,9 +49,9 @@ Orte (Bereiche in [Workadventure](https://world.ijug.eu/)):
 
 ### Beteiligte Open Source Projekte
 
-Du bist Mainteiner und möchtest mit deinem Open Source Projekt mitmachen, dann kannst du dich vorab eintragen:
+Du bist Maintainer und möchtest mit deinem Open Source Projekt mitmachen, dann kannst du dich vorab eintragen:
 
- <iframe src="https://cloud.ijug.eu/index.php/s/ymirKBXHcHGqdYZ" title="Cyberland Code Camp Oktober 2023"></iframe> 
+<iframe name="embed_readwrite" src="https://pad.piratensommer.de/p/2310codecamp?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
 
 
 Du kannst aber auch spontan an dem Tag vorbeikommen und in der Vorstellungsrunde dein Projekt vorstellen.
