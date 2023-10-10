@@ -40,7 +40,7 @@ Access to our [conference platform](https://world.ijug.eu/) is available to all 
 {:.table}
 | Uhrzeit  | Raum 1| Raum 2 | 
 | ----- | -------------- | -------------- | -------------- |
-| Stream  | <a href="https://meet.ijug.eu/cyberlandlogpark"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="https://meet.ijug.eu/cyberlandcigarden"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | 
+| Stream  | <a href="/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="/stream/2"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | 
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
 | 17:30 |  {%- include elements/timetable-field.html session-id="session-52" -%} | {%- include elements/timetable-field.html session-id="session-55" -%}   | 
 | 18:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
