@@ -44,9 +44,9 @@ Access to our [conference platform](https://world.ijug.eu/) is available to all 
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
 | 17:30 |  {%- include elements/timetable-field.html session-id="session-52" -%} | {%- include elements/timetable-field.html session-id="session-55" -%}   | 
 | 18:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-| 18:30 |  {%- include elements/timetable-field.html session-id="session-53" -%}  | tbd | 
+| 18:30 |  {%- include elements/timetable-field.html session-id="session-53" -%} | {%- include elements/timetable-field.html session-id="session-56" -%} | 
 | 19:15 | __Pause__ - Umgebung erkunden und virtuell die Beine vertreten ... | | |
-| 19:30 | {%- include elements/timetable-field.html session-id="session-54" -%}  | tbd | 
+| 19:30 | {%- include elements/timetable-field.html session-id="session-54" -%}  | {%- include elements/timetable-field.html session-id="session-57" -%} | 
 | ab 20:15 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
 
 ### <i id="sprecher" class="fas fa-user"></i> Sprecherinnen
