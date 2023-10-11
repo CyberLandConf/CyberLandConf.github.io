@@ -38,13 +38,13 @@ Ort: Hauptbühne in Workadventure
 18:30 - 20:00 (Open End) Hacken an den Open Source Projekten
 
 Orte (Bereiche in [Workadventure](https://world.ijug.eu/)):
-* Die ["Hauptbühne"](https://chat.frech.info/cyberlandstage)
-* Der Raum ["log park"](https://chat.frech.info/cyberlandlogpark) (oben links)
-* Der Raum[ "ci garden"](https://chat.frech.info/cyberlandcigarden) (oben Mitte)
-* Der Raum ["root"](https://chat.frech.info/cyberlandroot) (oben rechts)
-* Am ["Brunnen"](https://chat.frech.info/cyberlandbrunnen) (links von der Bühne)
-* Am ["See"](https://chat.frech.info/cyberlandsee) (rechts von der Bühne)
-* In der ["Gärtnerei (Nursery)"](https://chat.frech.info/cyberlandnursery) (zwischen Brunnen und logpark)
+* Die ["Hauptbühne"](https://meet.ijug.eu/cyberlandstage)
+* Der Raum ["log park"](https://meet.ijug.eu/cyberlandlogpark) (oben links)
+* Der Raum ["ci garden"](https://meet.ijug.eu/cyberlandcigarden) (oben Mitte)
+* Der Raum ["root"](https://meet.ijug.eu/cyberlandroot) (oben rechts)
+* In der ["Gärtnerei (Nursery)"](https://meet.ijug.eu/cyberlandnursery) (links neben der Bühne)
+* Am ["Brunnen"](https://meet.ijug.eu/cyberlandbrunnen) (links unten von der Bühne)
+* Am ["See"](https://meet.ijug.eu/cyberlandsee) (rechts unten von der Bühne)
 
 
 ### Beteiligte Open Source Projekte
