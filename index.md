@@ -10,7 +10,6 @@ title: CyberLand
 
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
-| 11. Oktober 2023  | __[CyberLand Code Camp]( /2023-10-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 02. November 2023 | __[CyberLand Ladies Night](2023-11-ladies-night/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night.jpg){:.logo-small} |
 | 07./14./21./28. November 2023 | __[CyberLand Next Generation - Developer on the stage - Teil 2](/2023-11-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 08. November 2023 | __[CyberLand Code Camp]( /2023-11-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
@@ -23,6 +22,7 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 11. Oktober 2023  | __[CyberLand Code Camp]( /2023-10-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 05. Juli 2023 | __[CyberLand Code Camp]( /2023-07-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | Juni 2023 | __[CyberLand Next Generation - Developer on the stage](/2023-06-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 | 06. Juni 2023 | __[CyberLand Code Camp]( /2023-06-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |

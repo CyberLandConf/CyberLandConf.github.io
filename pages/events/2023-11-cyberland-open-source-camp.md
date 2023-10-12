@@ -37,7 +37,7 @@ Ort: Hauptbühne in Workadventure
 
 18:30 - 20:00 (Open End) Hacken an den Open Source Projekten
 
-Orte (Bereiche in [Workadventure](https://world.ijug.eu/)):
+Orte (Bereiche in [Workadventure](https://world.ijug.eu/_/clc/raw.githubusercontent.com/CyberLandConf/NextGenerationUniverse/master/map.json)):
 * Die ["Hauptbühne"](https://meet.ijug.eu/cyberlandstage)
 * Der Raum ["log park"](https://meet.ijug.eu/cyberlandlogpark) (oben links)
 * Der Raum ["ci garden"](https://meet.ijug.eu/cyberlandcigarden) (oben Mitte)
@@ -50,7 +50,7 @@ Orte (Bereiche in [Workadventure](https://world.ijug.eu/)):
 
 Du bist Mainteiner und möchtest mit deinem Open Source Projekt mitmachen, dann kannst du dich vorab eintragen:
 
- <iframe src="https://cloud.ijug.eu/index.php/s/nzdmeKfmB6ogxj3" title="Cyberland Code Camp November 2023"></iframe> 
+<iframe name="embed_readwrite" src="https://pad.piratensommer.de/p/2311codecamp?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
 
 
 Du kannst aber auch spontan an dem Tag vorbeikommen und in der Vorstellungsrunde dein Projekt vorstellen.
