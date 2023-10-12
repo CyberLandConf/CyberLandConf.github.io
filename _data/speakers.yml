@@ -207,13 +207,11 @@ Heute ist sie HR Managerin in einem IT-Unternehmen und versucht mit Transparenz 
 - id: 'milena-fluck'
   firstName: 'Milena'
   lastName: 'Fluck'
-  twitter: ''
   bio: 
     After her Bachelor in Cognitive and Media Sciences B.Sc. and her master’s in interactive digital media at Trinity College Dublin, Milena decided to go into software development. She has been a software engineer at adesso since 2020 and founded the startup DillyBeeze in 2021. As a career changer, it was necessary to learn quickly and well to keep up with her colleagues from the computer science field. In addition to a high willingness to learn, her knowledge in the areas of cognition, teaching, and learning psychology was particularly helpful. Learning is an essential part of Milena's work as a software developer. Therefore, she is especially happy to be able to pass on her knowledge from these areas of psychology.
 - id: 'martina-linnemann'
   firstName: 'Martina'
   lastName: 'Linnemann'
-  twitter: ''
   bio: 
     Martina Linnemann is a Full Stack Software Engineer at shopware AG. She joined Shopware in 2017 as an apprentice and successfully finished her Computer Scientist apprenticeship in January 2020. She graduated with a bachelor's degree in Computer Science (B.Sc.) from the University of Applied Science Münster in February 2022. Since she completed her studies, she has worked as a Full Stack Software Engineer at shopware AG. She gathered years of knowledge in web development and is passionate about finding ways to improve UX easily.
     Martina regularly speaks at company events and holds internal presentations as well as presentations at her former University of Applied Science. This experience and Martina's insights as a developer promise an engaging talk focused on easy UX improvements.
@@ -226,7 +224,14 @@ Heute ist sie HR Managerin in einem IT-Unternehmen und versucht mit Transparenz 
 - id: 'sophia-schulze-schleithoff'
   firstName: 'Sophia'
   lastName: 'Schulze Schleithoff'
-  twitter: ''
   bio: 
     Sophia untersucht beim Prototype Fund, einem Förderprogramm des Bundesministeriums für Bildung und Forschung und der Open Knowledge Foundation, wie öffentliche Technologieförderung leichter zugänglich gemacht und am Gemeinwohl ausgerichtet werden kann. Sie hat in Hamburg Politik, Philosophie und Volkswirtschaft studiert.
-
+- id: 'shelley-lambert-lan-xia'
+  firstName: 'Shelley'
+  lastName: 'Lambert'
+  bio: 
+    Shelley is a Senior Principal Software Engineer at Red Hat.  She is a PMC member at Eclipse Adoptium and serves as project lead and committer on several Eclipse projects.  She is deeply committed to create environments where everyone has opportunities to learn and grow.  A great deal of her time is spent ensuring the projects she is responsible for are flourishing, which includes actively engaging new and first-time open source contributors.
+  firstName2: 'Lan'
+  lastName2: 'Xia'
+  bio2:  
+    Lan Xia is a Test Lead in IBM Runtime Technologies. She is a committer and active contributor to the open-source projects – Eclipse OpenJ9 and Eclipse AQAvit, where she is also PMC member at Adoptium and serves on the Adoptium Steering committee. She has extensive experience in software development and web development. She designs and implements various applications and tools, including Node.js based Test Results Summary Service, and DevOps CI pipelines to continually transform development practices to be more efficient and effective.

@@ -24,7 +24,9 @@ layout: default
       {% if speaker.bio %}
         <div class="speaker-name">{{ speaker.bio }}</div>
       {% endif %}
-
+      {% if speaker.bio2 %}
+        <div class="speaker-name">{{ speaker.bio2 }}</div>
+      {% endif %}
       {% if page.meetupId %}
         {% for meetupPage in site.pages %}
             {% if meetupPage.meetupId == page.meetupId %}
