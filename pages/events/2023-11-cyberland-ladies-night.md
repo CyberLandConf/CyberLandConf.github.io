@@ -38,7 +38,7 @@ Den Zugang zu unserer [Konferenzplattform](https://world.ijug.eu/) erhalten alle
 Access to our [conference platform](https://world.ijug.eu/) is available to all registered participants. The event is free of charge. [To register](#participation)
 
 {:.table}
-| Uhrzeit  | Raum 1| Raum 2 | 
+| Uhrzeit  | Log Park| CI Garden | 
 | ----- | -------------- | -------------- | -------------- |
 | Stream  | <a href="/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="/stream/2"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | 
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
