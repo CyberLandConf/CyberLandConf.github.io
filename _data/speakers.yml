@@ -68,7 +68,7 @@
 - id: 'sandra-parsick'
   firstName: 'Sandra'
   lastName: 'Parsick'
-  bio: 'Sandra Parsick ist als freiberufliche Softwareentwicklerin und Consultant im Java-Umfeld tätig. Seit 2008 beschäftigt sie sich mit agiler Softwareentwicklung in verschiedenen Rollen. Ihre Schwerpunkte liegen in den Bereichen Java-Enterprise-Anwendungen, agile Methoden, Software Craftsmanship und der Automatisierung von Softwareentwicklungsprozessen. In ihrer Freizeit engagiert sie sich in der Softwerkskammer Ruhrgebiet.'
+  bio: 'Sandra Parsick ist Java Champion und ist als freiberufliche Softwareentwicklerin und Consultant im Java-Umfeld tätig. Seit 2008 beschäftigt sie sich mit agiler Softwareentwicklung in verschiedenen Rollen. Ihre Schwerpunkte liegen im Bereich der Java Enterprise Anwendungen, Cloud und in der Automatisierung von Softwareentwicklungsprozessen. Darüber schreibt sie gerne Artikel und spricht gerne auf Konferenzen. In ihrer Freizeit engagiert sie sich in verschiedenen Programmkomitees und Community-Gruppen.'
   twitter: 'SandraParsick'
 - id: 'nora-schoener'
   firstName: 'Nora'
