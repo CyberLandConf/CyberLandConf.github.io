@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cyberland.ijug.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cyberlandconf
 github_username:  cyberlandconf
-mastodon_username: cyberlandconf@mastodontech.de
+mastodon_username: CyberlandConf@ijug.social
 
 # Build settings
 markdown: kramdown
