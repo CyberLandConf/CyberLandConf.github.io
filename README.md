@@ -31,4 +31,4 @@ Für jeden Vortrag muss eine neue markdown Datei unter `_sessions/` angelegt wer
 
 ### Generierung der Vortragsseite
 
-Zu jedem Vortrag wird automatisch eine Seite generiert. Hierfür wird die Datei `_layouts/session.html` als Template genutzt.
+Zu jedem Vortrag wird automatisch eine Seite generiert. Hierfür wird die Datei `_layouts/session.html` als Template genutzt. 
