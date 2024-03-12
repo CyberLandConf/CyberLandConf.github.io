@@ -200,38 +200,52 @@ Heute ist sie HR Managerin in einem IT-Unternehmen und versucht mit Transparenz 
   firstName: 'Sophie'
   lastName: 'Küster'
   twitter: ''
-  bio: 
+  bio:
     As a child, Sophie wanted to be a ballerina or an astronaut. Or both. Today, holding diplomas in math and yodeling, she's a test automation engineer at cronn, a Bonn based IT company. After years of successfully hunting bugs, she now also dares to look behind the curtain as a developer so she can cut out the middle person and introduce the bugs herself. Sometimes she speaks at conferences.
-    No stranger to the universe’s gut punches, she is passionate about improving awareness and communication about mental health and self-care. 
+    No stranger to the universe’s gut punches, she is passionate about improving awareness and communication about mental health and self-care.
     When she's not busily testing or coding away at her computer, you can find her on a stand-up paddle board, in a tent (surprisingly often in the rain) or at a ballet barre. Sadly never in a space ship.
 - id: 'milena-fluck'
   firstName: 'Milena'
   lastName: 'Fluck'
-  bio: 
+  bio:
     After her Bachelor in Cognitive and Media Sciences B.Sc. and her master’s in interactive digital media at Trinity College Dublin, Milena decided to go into software development. She has been a software engineer at adesso since 2020 and founded the startup DillyBeeze in 2021. As a career changer, it was necessary to learn quickly and well to keep up with her colleagues from the computer science field. In addition to a high willingness to learn, her knowledge in the areas of cognition, teaching, and learning psychology was particularly helpful. Learning is an essential part of Milena's work as a software developer. Therefore, she is especially happy to be able to pass on her knowledge from these areas of psychology.
 - id: 'martina-linnemann'
   firstName: 'Martina'
   lastName: 'Linnemann'
-  bio: 
+  bio:
     Martina Linnemann is a Full Stack Software Engineer at shopware AG. She joined Shopware in 2017 as an apprentice and successfully finished her Computer Scientist apprenticeship in January 2020. She graduated with a bachelor's degree in Computer Science (B.Sc.) from the University of Applied Science Münster in February 2022. Since she completed her studies, she has worked as a Full Stack Software Engineer at shopware AG. She gathered years of knowledge in web development and is passionate about finding ways to improve UX easily.
     Martina regularly speaks at company events and holds internal presentations as well as presentations at her former University of Applied Science. This experience and Martina's insights as a developer promise an engaging talk focused on easy UX improvements.
 - id: 'martina-baumer'
   firstName: 'Martina'
   lastName: 'Baumer'
   twitter: ''
-  bio: 
+  bio:
     Martina Baumer ist als Entwicklerin für Lagerlogistik-Software bei der SSI Schäfer IT Solutions GmbH in Oberviechtach tätig. In verschiedenen Projekten entwickelt sie in Java Algorithmen für Einlagerstrategien, Lagerregorganisation und Nachschubprozesse in hochkomplexen Logistiksystemen und nimmt die Software weltweit bei den Kunden in Betrieb. Seit Januar 2014 ist sie Mutter von Zwillingen und seitdem ist die Vereinbarkeit von Familie und Beruf ein ständig aktuelles Thema für sie.
 - id: 'sophia-schulze-schleithoff'
   firstName: 'Sophia'
   lastName: 'Schulze Schleithoff'
-  bio: 
+  bio:
     Sophia untersucht beim Prototype Fund, einem Förderprogramm des Bundesministeriums für Bildung und Forschung und der Open Knowledge Foundation, wie öffentliche Technologieförderung leichter zugänglich gemacht und am Gemeinwohl ausgerichtet werden kann. Sie hat in Hamburg Politik, Philosophie und Volkswirtschaft studiert.
 - id: 'shelley-lambert-lan-xia'
   firstName: 'Shelley'
   lastName: 'Lambert'
-  bio: 
+  bio:
     Shelley is a Senior Principal Software Engineer at Red Hat.  She is a PMC member at Eclipse Adoptium and serves as project lead and committer on several Eclipse projects.  She is deeply committed to create environments where everyone has opportunities to learn and grow.  A great deal of her time is spent ensuring the projects she is responsible for are flourishing, which includes actively engaging new and first-time open source contributors.
   firstName2: 'Lan'
   lastName2: 'Xia'
-  bio2:  
+  bio2:
     Lan Xia is a Test Lead in IBM Runtime Technologies. She is a committer and active contributor to the open-source projects – Eclipse OpenJ9 and Eclipse AQAvit, where she is also PMC member at Adoptium and serves on the Adoptium Steering committee. She has extensive experience in software development and web development. She designs and implements various applications and tools, including Node.js based Test Results Summary Service, and DevOps CI pipelines to continually transform development practices to be more efficient and effective.
+- id: 'johanna-mergler-nadine-mueller'
+  firstName: 'Johanna'
+  lastName: 'Mergler'
+  bio:
+    Johanna arbeitet seit 2019 als Softwareentwicklerin bei diva-e. Im Alltag ist sie im Projektgeschäft tätig und entwickelt vorranging im Backend Web Applikationen mit Technologien wie Java/Kotlin, Spring und Kubernetes. Sie beschäftigt sich gerne mit Themen rund um Clean Code, Software Craftsmanship und Testing. Aufgrund des steigenden Energiebedarfs der IT-Branche beschäftigt sich Johanna seit einiger Zeit intensiv mit den Thema Green Software Development und versucht dies innerhalb und außerhalb der Firma voranzutreiben und darüber aufzuklären.
+  firstName2: 'Nadine'
+  lastName2: 'Müller'
+  bio2:
+    Nadine arbeitet seit 2021 bei diva-e als Frontendentwicklerin. Sie hat in zahlreichen Kundenprojekten mitgewirkt, dabei hauptsächlich im Bereich E-Commerce. Besonders fasziniert sie das Thema Green Software Development, in dem sie sich für nachhaltige Ansätze in der Softwareentwicklung engagiert.
+- id: 'charlotte-scharbert'
+  firstName: 'Charlotte'
+  lastName: 'Scharbert'
+  bio:
+    Charlotte arbeitet bei der pharma mall GmbH.

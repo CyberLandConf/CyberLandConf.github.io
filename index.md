@@ -10,9 +10,8 @@ title: CyberLand
 
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
-| 24. Januar 2024 | __[CyberLand Open Source Camp]( /2024-01-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
-| 21. Februar 2024 | __[CyberLand Open Source Camp]( /2024-02-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 20. März 2024 | __[CyberLand Open Source Camp]( /2024-03-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 28. März 2024 | __[CyberLand Next Generation](/2024-03-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
@@ -21,6 +20,8 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 21. Februar 2024 | __[CyberLand Open Source Camp]( /2024-02-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 24. Januar 2024 | __[CyberLand Open Source Camp]( /2024-01-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 13. Dezember 2023 | __[CyberLand Code Camp]( /2023-12-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 08. November 2023 | __[CyberLand Code Camp]( /2023-11-open-source-camp/)__ | ![Logo CyberLand Code Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 07./14./21./28. November 2023 | __[CyberLand Next Generation - Developer on the stage - Teil 2](/2023-11-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
