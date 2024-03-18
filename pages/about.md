@@ -5,10 +5,10 @@ permalink: /about/
 order: 99
 ---
 
-Wir sind Teil der deutschsprachigen Java Community. Weil die JavaLand 2020 aufgrund der Corona-Pandemie abgesagt werden musste, haben wir die CyberLand als eine freie, virtuelle Konferenz ins Leben gerufen. Weitere Veranstaltungen sind nicht ausgeschlossen.
+Wir sind Teil der deutschsprachigen Java Community. Weil die JavaLand 2020 aufgrund der Corona-Pandemie abgesagt werden musste, haben wir die CyberLand als eine freie, virtuelle Konferenz ins Leben gerufen und innerhalb weniger Tage organisiert. Die erste Durchführung war ein voller Erfolg. Mittlerweile führen wir regelmässig verschiedene Online-Formate durch.
 
 
-{% assign spaltenAnzahl = 4 %}
+{% assign spaltenAnzahl = 3 %}
 {% assign orga = site.data.orga %}
 
 {% assign organizers = orga | where_exp:"orga", "orga.role == 'Organisator'" %}
@@ -17,15 +17,15 @@ Wir sind Teil der deutschsprachigen Java Community. Weil die JavaLand 2020 aufgr
 
 ### Organisatoren
 
-{%- include elements/orga-grid.html organizers=organizers rows=4 -%}
+{%- include elements/orga-grid.html organizers=organizers rows=spaltenAnzahl -%}
 
 ### Ehemalige
 
-{%- include elements/orga-grid.html organizers=ehemalige rows=4 -%}
+{%- include elements/orga-grid.html organizers=ehemalige rows=spaltenAnzahl -%}
 
 ### Helfer
 
-{%- include elements/orga-grid.html organizers=others rows=4 -%}
+{%- include elements/orga-grid.html organizers=others rows=spaltenAnzahl -%}
 
 {%- include elements/usergroups.html -%}
 
