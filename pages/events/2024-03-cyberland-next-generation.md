@@ -20,7 +20,7 @@ Die JavaLand findet vom 09. bis 11. April 2024 diesmal am Nürburgring statt. Mi
 
 Nach den Vorträgen wollen wir uns noch ungezwungen austauschen. Erfahrene Sprecher verraten Tipps und Tricks und diskutieren mit Euch alle Fragen rundum Public Speaking. Und vielleicht können wir den einen oder anderen von Euch animieren, ebenfalls den Schritt auf die Bühne zu wagen. Die nächste JavaLand im Frühjahr 2025 sucht wieder mutige Newcomer, die von einem erfahrenen Mentor unterstützt werden.
 
-Die Vorträge finden diesmal in Zoom statt. Der Link wird kurz vor dem Vortrag per E-Mail an alle Angemeldeten verschickt. Ihr könnt außerdem vor und nach den Vorträgen auch in unsere **virtuellen Welt in Workadventure** ([https://world.ijug.eu/](https://world.ijug.eu/)) kommen, um Euch mit Gleichgesinnten auszutauschen. Nutzt dazu am besten den Jitsi-Raum an der Hauptbühne. 
+Die Vorträge finden diesmal in Zoom statt. Der Link wird kurz vor dem Vortrag per E-Mail an alle Angemeldeten verschickt. Ihr könnt außerdem vor und nach den Vorträgen auch in unsere **virtuellen Welt in Workadventure** ([https://world.ijug.eu/](https://world.ijug.eu/)) kommen, um Euch mit Gleichgesinnten auszutauschen. 
 
 ### Themen/Sessions  
 
