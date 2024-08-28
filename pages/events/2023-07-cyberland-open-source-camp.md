@@ -49,7 +49,7 @@ Orte (Bereiche in [Workadventure](https://world.ijug.eu/)):
 
 ### Beteiligte Open Source Projekte
 
-Du bist Mainteiner und möchtest mit deinem Open Source Projekt mitmachen, dann kannst du dich [hier](https://cloud.ijug.eu/index.php/s/YiBXfRwBHTq8HyQ) vorab eintragen.
+Du bist Maintainer und möchtest mit deinem Open Source Projekt mitmachen, dann kannst du dich [hier](https://cloud.ijug.eu/index.php/s/YiBXfRwBHTq8HyQ) vorab eintragen.
 Du kannst aber auch spontan an dem Tag vorbeikommen und in der Vorstellungsrunde dein Projekt vorstellen.
 
 

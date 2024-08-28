@@ -49,7 +49,7 @@ Orte (Bereiche in [Workadventure](https://world.ijug.eu/_/clc/raw.githubusercont
 
 ### Beteiligte Open Source Projekte
 
-Du bist Mainteiner und möchtest mit deinem Open Source Projekt mitmachen, dann kannst du dich vorab eintragen:
+Du bist Maintainer und möchtest mit deinem Open Source Projekt mitmachen, dann kannst du dich vorab eintragen:
 
 <iframe name="embed_readwrite" src="https://pad.piratensommer.de/p/2406codecamp?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
 
