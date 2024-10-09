@@ -40,7 +40,7 @@ Access to our [conference platform](https://world.ijug.eu/) is available to all 
 {:.table}
 | Uhrzeit  | Log Park| CI Garden | 
 | ----- | -------------- | -------------- | -------------- |
-| Stream  | <a href="/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="/stream/2"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | 
+| Stream  | <i class="fas fa-lg fa-link"></i> Stream Raum 1 | <i class="fas fa-lg fa-link"></i> Stream Raum 2 | 
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
 | 17:30 |  tbd |  | 
 | ab 20:15 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
