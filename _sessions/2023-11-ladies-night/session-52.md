@@ -9,4 +9,6 @@
     Dieser Vortrag gibt eine Kurzeinführung, was Kubernetes ist und aus welchen Komponenten es besteht. Beim Durchgehen der Kompontenten und Konzepte steht die Sichtweise einer Entwicklerin im Vordergrund. Am Ende nehmen die Zuhörer Good Practices anhand von Beispielen mit nach Hause.
   speaker-id: 'sandra-parsick'
   layout: session
+  youtubeId: 7JJIImlOcX0
+  slidesLink: https://github.com/sparsick/k8s-intro-talk/blob/cln23/slides/23.11%20-%20Cyberland%20-%20K8s%20das%20unbekannte%20Wesen.pdf
 ---
