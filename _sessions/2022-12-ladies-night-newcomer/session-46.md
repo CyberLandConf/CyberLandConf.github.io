@@ -6,4 +6,5 @@
   meetupId: cyberland-ladies-night-newcomer
   speaker-id: 'marina-wottschal'
   layout: session
+  youtubeId: NnAkzGxUFgo
 ---

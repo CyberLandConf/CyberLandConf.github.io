@@ -8,4 +8,5 @@
   meetupId: cyberland-ladies-night-newcomer
   speaker-id: 'andrada-serban'
   layout: session
+  youtubeId: okZl89qFOLM
 ---

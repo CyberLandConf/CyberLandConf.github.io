@@ -6,4 +6,5 @@
   meetupId: cyberland-ladies-night-newcomer
   speaker-id: 'jennifer-duengfelder'
   layout: session
+  youtubeId: N2A7Q21RjOc
 ---
