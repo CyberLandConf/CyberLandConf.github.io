@@ -7,4 +7,5 @@
   meetupId: cyberland-ladies-night-23
   speaker-id: 'shelley-lambert-lan-xia'
   layout: session
+  youtubeId: f8yJmyEFn4
 ---
