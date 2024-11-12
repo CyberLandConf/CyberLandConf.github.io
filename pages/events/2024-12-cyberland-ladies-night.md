@@ -24,13 +24,6 @@ Herzlich willkommen auf der IT-Konferenz mit 100% Frauenanteil auf der Bühne. G
 
 Ihr spielt auch mit dem Gedanken, mal einen Vortrag zu halten. Dann meldet Euch bei uns, wir freuen uns auf jede Newcomerin.
 
-
-_English:_
-
-Time and again, the IT industry complains about the fact that there are too few women on stage at IT conferences. We don't complain along, we just change it.
-
-Welcome to the IT conference with 100% women on stage. True to the motto, don't complain, just do it.
-
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
 
 Wir bitten um eine Registrierung, um besser planen zu können. Den Zugang zu den Vorträgen erfolgt über unsere [Konferenzplattform](https://world.ijug.eu/). Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
