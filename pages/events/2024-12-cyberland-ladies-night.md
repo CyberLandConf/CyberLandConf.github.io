@@ -33,16 +33,21 @@ Welcome to the IT conference with 100% women on stage. True to the motto, don't 
 
 ### <i class="fas fa-lg fa-book-open"></i> Programm der CyberLand Ladies Night
 
-Den Zugang zu unserer [Konferenzplattform](https://world.ijug.eu/) erhalten alle Registrierten. Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
+Wir bitten um eine Registrierung, um besser planen zu können. Den Zugang zu den Vorträgen erfolgt über unsere [Konferenzplattform](https://world.ijug.eu/). Die Veranstaltung ist kostenfrei. [Zur Anmeldung](#teilnahme)
 
-Access to our [conference platform](https://world.ijug.eu/) is available to all registered participants. The event is free of charge. [To register](#participation)
 
 {:.table}
 | Uhrzeit  | Log Park| CI Garden | 
 | ----- | -------------- | -------------- | -------------- |
 | Stream  | <i class="fas fa-lg fa-link"></i> Stream Raum 1 | <i class="fas fa-lg fa-link"></i> Stream Raum 2 | 
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
-| 17:30 |  tbd |  | 
-| ab 20:15 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
+| 17:30 | {%- include elements/timetable-field.html session-id="session-60" -%} | |
+| 18:00 |  {%- include elements/timetable-field.html session-id="session-62" -%} | {%- include elements/timetable-field.html session-id="session-61" -%} | 
+| 19:00 |  {%- include elements/timetable-field.html session-id="session-63" -%} | {%- include elements/timetable-field.html session-id="session-64" -%} | 
+| ab 20:00 | __Virtueller Stammtisch__, Leute kennenlernen, gemeinsam etwas trinken und fachsimpeln ... | |
+
+### <i id="sprecher" class="fas fa-user"></i> Sprecherinnen
+
+{%- include elements/session-grid.html spaltenAnzahl=3 start=60 ende=64 -%}
 
 <hr />
