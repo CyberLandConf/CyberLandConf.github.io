@@ -2,7 +2,9 @@
   session-id: 'session-63'
   title: "Green Coding in der Softwareentwicklung – Bedeutung und Anwendungsbereiche"
   abstract: |
-    Nachhaltiges Handeln und Klimaschutz gewinnt auch bei der msg eine immer größere Bedeutung. Weniger bekannt in diesem Zusammenhang ist, dass auch in unserem Projektalltag jeder mit Green Coding einen Beitrag leisten kann. Was Green Coding bedeutet und welche Handlungsmöglichkeiten mit Green Coding im Projekt- und Implementierungsalltag existieren, wird im Teach-In vorgestellt.  
+    In den kommenden Jahrzehnten werden wir einer der größten Herausforderungen gegenüberstehen: dem Klimawandel. Um dieser Bedrohung wirksam begegnen zu können, ist eine enge Zusammenarbeit unerlässlich. Weniger bekannt in diesem Zusammenhang ist, dass auch in unserem Projektalltag jede mit Green Coding einen Beitrag leisten kann. 
+
+    In unserem Vortrag werden wir die Bedeutung und Handlungsmöglichkeiten von Green Coding näher beleuchten. Entdeckt, wie mit nachhaltigem Code umweltbewusstes und verantwortungsvolles Programmieren möglich ist.
   meetupId: cyberland-ladies-night-24
   speaker-id: 'christina-landgraf-lisa-rosenberg'
   layout: session
