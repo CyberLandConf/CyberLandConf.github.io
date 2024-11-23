@@ -2,7 +2,7 @@
 layout: default
 number: 100
 room: Youtube Stream 2 CyberLand Ladies Night 04.12.24
-youtubeId: nfYiwvVHL60
+youtubeId: ACzYOB88VV4
 permalink: /stream/2
 ---
 

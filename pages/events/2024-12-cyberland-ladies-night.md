@@ -32,7 +32,7 @@ Wir bitten um eine Registrierung, um besser planen zu können. Den Zugang zu den
 {:.table}
 | Uhrzeit  | Log Park| CI Garden | 
 | ----- | -------------- | -------------- | -------------- |
-| Stream  | <i class="fas fa-lg fa-link"></i> Stream Raum 1 | <i class="fas fa-lg fa-link"></i> Stream Raum 2 | 
+| Stream  | <a href="/stream/1"><i class="fas fa-lg fa-link"></i> Stream Raum 1</a> | <a href="/stream/2"><i class="fas fa-lg fa-link"></i> Stream Raum 2</a> | 
 | 17:00 | __Türen auf__, Technik-Check, Tool erkunden und Leute treffen | |
 | 17:30 | {%- include elements/timetable-field.html session-id="session-60" -%} | |
 | 18:00 |  {%- include elements/timetable-field.html session-id="session-62" -%} | {%- include elements/timetable-field.html session-id="session-61" -%} | 
