@@ -10,8 +10,6 @@ title: CyberLand
 
 | Datum         | Event                                                         |                |
 |---------------|---------------------------------------------------------------| -------------- |
-| 06./13./20./27. November 2024 | __[CyberLand Next Generation - Developer on the stage - Teil 2](/2024-11-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
-| 26. November 2024 | __[CyberLand Open Source Camp]( /2024-11-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 04. Dezember 2024 | __[CyberLand Ladies Night](2024-12-ladies-night/)__ | ![Logo CyberLand Ladies Night](/assets/logo/cyberland-Ladies-Night.jpg){:.logo-small} |
 | 19. Dezember 2024 | __[CyberLand Open Source Camp]( /2024-12-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 
@@ -22,6 +20,8 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 06./13./20./27. November 2024 | __[CyberLand Next Generation - Developer on the stage - Teil 2](/2024-11-next-generation/)__ | ![Logo CyberLand Next Generation](/assets/logo/nextGen.jpg){:.logo-small} |
+| 26. November 2024 | __[CyberLand Open Source Camp]( /2024-11-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 30. Oktober 2024 | __[CyberLand Open Source Camp]( /2024-10-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 17. Juli 2024 | __[CyberLand Open Source Camp]( /2024-07-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 27. Juni 2024 | __[CyberLand Open Source Camp]( /2024-06-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
