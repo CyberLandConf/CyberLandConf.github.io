@@ -9,7 +9,7 @@ permalink: /stream/1
 <div class="section">
     <div class="container session-details">
         <h1 class="room-title">{{ page.room }}</h1>
-        <div style="style="height:80vh"">
+        <div style="height:80vh">
             <iframe style="width:100%;aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/{{ page.youtubeId }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
             <iframe style="width:100%;height:40vh" src="https://www.youtube.com/live_chat?v={{ page.youtubeId }}&embed_domain=cyberland.ijug.eu" ></iframe>
         </div>
