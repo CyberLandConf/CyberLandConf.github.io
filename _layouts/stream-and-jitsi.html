@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'de' }}">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="twitter:site" content="@CyberLandConf" />
+  {%- seo -%}
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="manifest" href="/manifest.json">
+  {%- feed_meta -%}
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const iframe = document.getElementById('iframeContainer');
+            const triggerFile = 'https://world.ijug.eu/test/{{ page.triggerFile }}.json';
+            let lastTriggerValue = null; // Stores the last value of the trigger
+
+
+            function updateIframe() {
+                fetch(triggerFile)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Error fetching ${triggerFile}`);
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                      if (data.jitsiMode !== lastTriggerValue) {
+                        lastTriggerValue = data.jitsiMode;
+                        if (data.jitsiMode === true) {
+                          const iframeContainer = document.getElementById('iframeContainer');
+                          iframeContainer.innerHTML = 
+`<iframe style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" allow="autoplay; camera; clipboard-write; compute-pressure; display-capture; hid; microphone; screen-wake-lock; speaker-selection" name="jitsiConferenceFrame0" id="jitsiConferenceFrame0" allowfullscreen="true" src="https://meet.ijug.eu/{{ page.jitsiRoom }}#jitsi_meet_external_api_id=0&amp;config.startWithAudioMuted=false&amp;config.startWithVideoMuted=false&amp;config.prejoinPageEnabled=false&amp;config.disableDeepLinking=false&amp;config.gravatar=%7B%22disabled%22%3Atrue%7D&amp;config.localRecording=%7B%22disable%22%3Atrue%2C%22disableSelfRecording%22%3Atrue%7D&amp;interfaceConfig.SHOW_CHROME_EXTENSION_BANNER=false&amp;interfaceConfig.MOBILE_APP_PROMO=false&amp;interfaceConfig.HIDE_INVITE_MORE_HEADER=true&amp;interfaceConfig.DISABLE_JOIN_LEAVE_NOTIFICATIONS=true&amp;interfaceConfig.DISABLE_VIDEO_BACKGROUND=true&amp;interfaceConfig.SHOW_BRAND_WATERMARK=false&amp;interfaceConfig.SHOW_JITSI_WATERMARK=false&amp;interfaceConfig.SHOW_POWERED_BY=false&amp;interfaceConfig.SHOW_PROMOTIONAL_CLOSE_PAGE=false&amp;interfaceConfig.SHOW_WATERMARK_FOR_GUESTS=false&amp;interfaceConfig.TOOLBAR_BUTTONS=%5B%22microphone%22%2C%22camera%22%2C%22closedcaptions%22%2C%22desktop%22%2C%22fullscreen%22%2C%22fodeviceselection%22%2C%22hangup%22%2C%22profile%22%2C%22chat%22%2C%22recording%22%2C%22livestreaming%22%2C%22etherpad%22%2C%22shareaudio%22%2C%22noisesuppression%22%2C%22sharedvideo%22%2C%22settings%22%2C%22raisehand%22%2C%22videoquality%22%2C%22filmstrip%22%2C%22feedback%22%2C%22stats%22%2C%22shortcuts%22%2C%22tileview%22%2C%22videobackgroundblur%22%2C%22select-background%22%2C%22download%22%2C%22help%22%2C%22mute-everyone%22%5D&amp;appData.localStorageContent=null" class="main"></iframe>`;
+                        } else {
+                          iframeContainer.innerHTML = 
+`<iframe style="width:100%;aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/{{ page.youtubeId }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <iframe style="width:100%;height:40vh" src="https://www.youtube.com/live_chat?v={{ page.youtubeId }}&embed_domain=cyberland.ijug.eu" ></iframe><br/>
+ Direkter Link zum <a href=" https://youtu.be/{{ page.youtubeId }}">Video-Stream</a>`
+                        }
+                      }                    
+                    })
+                    .catch(error => console.error('Error:', error));
+            }
+
+            // Update the iframe every 10 seconds
+            setInterval(updateIframe, 10000);
+
+            // Initial load
+            updateIframe();
+        });
+    </script>
+
+  </head>
+  <body>
+    {%- include default/navigation.html -%}
+    <div class="content">
+    
+<div class="section">
+    <div class="container session-details">
+        <h1 class="room-title">{{ page.room }}</h1>
+        
+        <div id="iframeContainer" style="height:80vh">
+        </div>
+
+        <div style="height:80vh">
+            <iframe style="width:100%;aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/{{ page.youtubeId }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+            <iframe style="width:100%;height:40vh" src="https://www.youtube.com/live_chat?v={{ page.youtubeId }}&embed_domain=cyberland.ijug.eu" ></iframe><br/>
+            Direkter Link zum <a href=" https://youtu.be/{{ page.youtubeId }}">Video-Stream</a>
+        </div>
+    </div>
+</div>
+
+    </div>
+    {%- include default/footer.html -%}
+  </body>
+</html>
+
+
