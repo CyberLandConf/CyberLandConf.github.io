@@ -1,7 +1,8 @@
 ---
-layout: stream
-number: 4
-ahaslides-code: 883C1
-room: Raum Test
+layout: stream-and-jitsi-wadv
+youtubeId: ACzYOB88VV4
+jitsiRoom: cyberlandcigarden
+triggerFile: trigger2
 permalink: /stream/4
 ---
+
