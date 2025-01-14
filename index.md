@@ -11,6 +11,7 @@ title: CyberLand
 | Datum         | Event                                                         |                |
 |---------------|---------------------------------------------------------------| -------------- |
 | 25. Februar  2025 | __[CyberLand Open Source Camp]( /2025-02-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 17. März	   2025 | __[CyberLand Open Source Camp]( /2025-03-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 

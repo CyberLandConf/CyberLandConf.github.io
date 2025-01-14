@@ -1,18 +1,18 @@
 ---
 layout: event
 title: CyberLand Open Source Camp 
-date: 2025-02-25 18:00
-permalink: /2025-02-open-source-camp/
+date: 2025-03-17 18:00
+permalink: /2025-03-open-source-camp/
 order: 15
 hidden: true
-meetupId: cyberland-open-source-camp-2502
+meetupId: cyberland-open-source-camp-2503
 limit: 50
 hideVideoRecording: true
 ---
 
 ![Logo](/assets/logo/camp-logo.png){:.image-max-height}
 
-### <i class="fas fa-lg fa-calendar"></i> 25.02.2025 - 18:00
+### <i class="fas fa-lg fa-calendar"></i> 17.03.2025 - 18:00
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell
 
@@ -51,8 +51,7 @@ Orte (Bereiche in [Workadventure](https://world.ijug.eu/_/clc/raw.githubusercont
 
 Du bist Maintainer und möchtest mit deinem Open Source Projekt mitmachen, dann kannst du dich vorab eintragen:
 
-<iframe name="embed_readwrite" src="https://pad.piratensommer.de/p/2502opensourcecamp?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
-
+<iframe name="embed_readwrite" src="https://pad.piratensommer.de/p/2503opensourcecamp?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
 
 Du kannst aber auch spontan an dem Tag vorbeikommen und in der Vorstellungsrunde dein Projekt vorstellen.
 
