@@ -10,8 +10,10 @@ title: CyberLand
 
 | Datum         | Event                                                         |                |
 |---------------|---------------------------------------------------------------| -------------- |
-| 13. August	   2025 | __[CyberLand Open Source Camp]( /2025-08-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 11. September	   2025 | __[CyberLand Open Source Camp]( /2025-09-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 13. Oktober 	   2025 | __[CyberLand Open Source Camp]( /2025-10-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 13. November 	   2025 | __[CyberLand Open Source Camp]( /2025-11-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 16. Dezember	   2025 | __[CyberLand Open Source Camp]( /2025-12-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
@@ -20,6 +22,7 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 13. August	   2025 | __[CyberLand Open Source Camp]( /2025-08-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 14. Juli	   2025 | __[CyberLand Open Source Camp]( /2025-07-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 03. Juni	   2025 | __[CyberLand Open Source Camp]( /2025-06-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 17. März	   2025 | __[CyberLand Open Source Camp]( /2025-03-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
