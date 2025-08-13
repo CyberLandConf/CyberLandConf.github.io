@@ -1,7 +1,7 @@
 ---
 layout: event
 title: CyberLand Open Source Camp 
-date: 2025-12-13 18:00
+date: 2025-12-16 18:00
 permalink: /2025-12-open-source-camp/
 order: 15
 hidden: true
@@ -12,7 +12,7 @@ hideVideoRecording: true
 
 ![Logo](/assets/logo/camp-logo.png){:.image-max-height}
 
-### <i class="fas fa-lg fa-calendar"></i> 13.12.2025 - 18:00
+### <i class="fas fa-lg fa-calendar"></i> 16.12.2025 - 18:00
 
 ### <i class="fas fa-lg fa-globe"></i> Virtuell
 
