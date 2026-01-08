@@ -10,7 +10,11 @@ title: CyberLand
 
 | Datum         | Event                                                         |                |
 |---------------|---------------------------------------------------------------| -------------- |
-| 16. Dezember	   2025 | __[CyberLand Open Source Camp]( /2025-12-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 26. Januar	   2026 | __[CyberLand Open Source Camp]( /2026-01-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 24. Februar	   2026 | __[CyberLand Open Source Camp]( /2026-02-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 18. März	     2026 | __[CyberLand Open Source Camp]( /2026-03-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 09. April	     2026 | __[CyberLand Open Source Camp]( /2026-04-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
+| 26. Mai	       2026 | __[CyberLand Open Source Camp]( /2026-05-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 
 ### <i class="fas fa-calendar-check" /> Vergangene Veranstaltungen
 
@@ -19,6 +23,7 @@ title: CyberLand
 {:.table}
 | Datum | Event          |                |
 | ----- | -------------- | -------------- |
+| 16. Dezember	   2025 | __[CyberLand Open Source Camp]( /2025-12-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 13. November 	   2025 | __[CyberLand Open Source Camp]( /2025-11-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 13. Oktober 	   2025 | __[CyberLand Open Source Camp]( /2025-10-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
 | 11. September	   2025 | __[CyberLand Open Source Camp]( /2025-09-open-source-camp/)__ | ![Logo CyberLand Open Source Camp](/assets/logo/camp-logo.png){:.logo-small} |
