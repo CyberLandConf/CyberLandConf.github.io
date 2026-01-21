@@ -1,7 +1,7 @@
 ---
 layout: event
 title: CyberLand Open Source Camp 
-date: 20226-01-26 18:00
+date: 2026-01-26 18:00
 permalink: /2026-01-open-source-camp/
 order: 15
 hidden: true
